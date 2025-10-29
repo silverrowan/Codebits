@@ -57,3 +57,31 @@ Inline CSS: added directly to HTML elements with style="css-property: value; css
         can get messy if applied to multiple elements
     duplication if style applied elsewhere
     HOWEVER: any inline CSS with override the other 2 methods (can be pos or neg)
+
+
+******The Cascade******
+Factors that determine which rules apply to a certain element, when rules conflict.
+CSS only does what we tell it to, WITH ONE EXCEPTION: browser default styles! 
+
+3 OF the Cascade Factors
+******Specificity******
+    a CSS declaration that is more SPECIFIC will take precidence over less Specific
+        inline styles have higher specificity vs selectors. Ea selector has own specificty level
+            ID Selector = most specific
+            Class Selector
+            Type Selector = least specific (of these 3)
+    agian, specificity only matters when multiple conflicting declarations could apply
+            An ID Selector will ALWAYS beat any num. of class or type selectors, and so on down the list
+            when no declaration of higher specificity then rul with greater number of selectors 
+                takes precendence over a rule with fewer selectors.
+    not everything adds to specificity! Special symbols like *, +, ~, >, empty space
+        do NOT add/change specificity in and of themselves
+        .class.secondClass has same specificity as .class > .secondClass
+******Inheritance******
+    certain CSS properties that when applied to an element are inherited by descendants
+        even if no rule explicity written for them
+    Typography properties are usually inherited, most others aren't
+    Exception is when directly targeting an element, which always beats inheritance
+******Rule Order******
+    Final Cascade Factor (the tie breaker, when all others are equal)
+    Whichever rule was the LAST is the one that applies
