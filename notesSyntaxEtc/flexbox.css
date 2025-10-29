@@ -9,7 +9,7 @@ NOTE: elements can be BOTH flex containers and flex items!
 NOTE: flex items DO NOT neccessarily respect given values for width/height, as grow/shrink
     to fill/fit available space
 
-******Flex Properties******
+******Flex ITEM Properties******
 flex-grow: expects one number as value. This is the "growth factor" applied to an item.
     if flex-grow:1 on all items, they would all grow to the same size
     if flex-grow:2 on one item, it would grow to 2x the size of the other items (w/ flex-grow:1)
@@ -17,8 +17,17 @@ flex-shrink: default value of 1 (evenly); shrink factor, like flex-grow=growth f
     ONLY applied if size of all flex items > parent container
     flex-shrink: 0 make an item NOT shrink, 
     flex-shrink: >1 (enter actual number) for faster shrinking--larger = faster
+        note that in most cases setting a min-width is effectively the same as width & 
+            flex-shrink:0, BUT can have Both apply! Browser will auto apply certain 
+            min-widths by content - text inputs have own min by browser, and text box mins
+            are the size of longest unbreakable character string. 
+                    Can be redefined w/ min-width property to overwrite auto min width 
+                    (ex. min-width: 0px) BUT note that std min width is there for a reason
 flex-basis: default value of auto*; the INITIAL size of a flex item, before flex-grow 
         and flex-shrink are applied. (IN THE FLEX-DIRECTION)
+        basically the width/height *along the primary axis* will filp w direction!
+            while basically the same, there *are* edge cases where width/height and 
+            flex-basis will have diff effects
     flex-basis: auto; tells item to check for a width declaration
     * DEFAULT VALUE WITH {Flex: 1} shorthand declaration is **0%** NOT ACTUAL default of auto!
 
@@ -26,11 +35,13 @@ flex-basis: default value of auto*; the INITIAL size of a flex item, before flex
 {flex: ;} declaration is a shorthand for above 3 properties on a flex item
 flex:__ = flex-grow, flex-shrink, flex-basis
         {flex: 1;} = flex-grow:1; flex-shrink:1; flex-basis:0
+                grow & shrink equally to fill all available space
         {flex: auto;} = flex-grow:1; flex-shrink:1; flex-basis:auto
 
 
 ******Flex Direction******
 flexbox can orient either horizontally or vertically!
+Apply to flex CONTAINER
     flex-direction: row is the default, horizontal orientation
     flex-direction: column is the alternate, vertical orientation
 
@@ -40,5 +51,37 @@ Each flexbox has 2 axis:
 
 When flex-direction: column, then flex-basis refers to height instead of width!
 Note: behaviour of flex-direction could change if using a language that is written in diff direction than english
+
+******FlexBox Alignment******
+Apply to flex CONTAINER. 
+justify-content: aligns across the MAIN AXIS (justify) as a GROUP (content)
+        options: space-between, space-around, space-evenly, flex-start, center, flex-end 
+        MUST think about alignment of the entire group, CANT align individuals
+align-items: aligns across the CROSS AXIS (align) as INDIVIDUALS (items)
+        options: stretch, baseline, flex-start, center, flex-end
+        Alignment here can be different for diff items - this just sets the local std.
+gap: sets a specified space between flex items, *similar* to adding margin to the items
+    its a newer property so not in many resources, BUT works reliably in modern browsers!
+    eg. gap: 8px
+
+align-self: APPLY TO flex ITEM NOT Container
+        allows change of a specific child along the CROSS AXIS.
+        uses same values as align-items
+NOTE: while there is no justify-items (b/c must position as group on primary axis), 
+    there is actually an align-content! Relates to flex-wrap property
+
+auto margins - in flexbox will consume extra space and apply it to element's margin
+    great for std header layouts!
+    Apply to ITEM NOT Container
+    eg. setting margin-right: auto will set that item to far left, and pull all extra 
+    space to its right
+
+flex-wrap: wrap - items wont shrink below hypothetical size, as long as wrapping onto 
+    the next row/column (primary axis) is an option!
+    now each primary axis acts as its OWN mini flex container!
+    THIS is where align-content comes into play!
+    align-content treats the set of mini-flex containers from flex-wrap as a group of
+        items - but its still on the cros-axis, so "justify-contnent" doesnt apply!
+        aligns across the CROSS AXIS (align) as a GROUP (content)! 
 
 
