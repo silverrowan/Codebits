@@ -1,0 +1,44 @@
+*******************
+******Flexbox******
+*******************
+
+******Definitions******
+Flex containers : any element that has display: flex on it - it can contain flex items.
+Flex items : any element directly inside a flex container (parent is flex container)
+NOTE: elements can be BOTH flex containers and flex items!
+NOTE: flex items DO NOT neccessarily respect given values for width/height, as grow/shrink
+    to fill/fit available space
+
+******Flex Properties******
+flex-grow: expects one number as value. This is the "growth factor" applied to an item.
+    if flex-grow:1 on all items, they would all grow to the same size
+    if flex-grow:2 on one item, it would grow to 2x the size of the other items (w/ flex-grow:1)
+flex-shrink: default value of 1 (evenly); shrink factor, like flex-grow=growth factor.
+    ONLY applied if size of all flex items > parent container
+    flex-shrink: 0 make an item NOT shrink, 
+    flex-shrink: >1 (enter actual number) for faster shrinking--larger = faster
+flex-basis: default value of auto*; the INITIAL size of a flex item, before flex-grow 
+        and flex-shrink are applied. (IN THE FLEX-DIRECTION)
+    flex-basis: auto; tells item to check for a width declaration
+    * DEFAULT VALUE WITH {Flex: 1} shorthand declaration is **0%** NOT ACTUAL default of auto!
+
+******Flex Shorthand******
+{flex: ;} declaration is a shorthand for above 3 properties on a flex item
+flex:__ = flex-grow, flex-shrink, flex-basis
+        {flex: 1;} = flex-grow:1; flex-shrink:1; flex-basis:0
+        {flex: auto;} = flex-grow:1; flex-shrink:1; flex-basis:auto
+
+
+******Flex Direction******
+flexbox can orient either horizontally or vertically!
+    flex-direction: row is the default, horizontal orientation
+    flex-direction: column is the alternate, vertical orientation
+
+Each flexbox has 2 axis: 
+    Main axis: inline with flex-direction, 
+    Cross axis: perpendicular to flex-direction
+
+When flex-direction: column, then flex-basis refers to height instead of width!
+Note: behaviour of flex-direction could change if using a language that is written in diff direction than english
+
+
