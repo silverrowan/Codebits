@@ -46,6 +46,10 @@ text-align - HORIZONTAL alignment
 height
 width
 
+box-sizing: border-box (size set w width/height/etc includes padding & border thickness, 
+    unlike standard behaviour of NOT including the padding & border thickness)
+            content-box (standard behaviour of box-sizing. size of content pre-padding/border)
+
 ******Applying Css to Pages******
 External CSS: in its own document, linked in the html header, most common method
 Internal CSS: embeds the CSS in the HTML file itself, inside <style></style> tags 
