@@ -13,14 +13,20 @@
 
 ******Assignment******
         = basic x is this
-        += x += y is shortcut for x = x + y CAN ALSO BE USED TO CONCATINATE
-        -= x -= y is shortcut for x = x - y
-        *= x *= y is shortcut for x = x * y
-        /= x /= y is shortcut for x = x / y
+        += 
+            x += y is shortcut for x = x + y CAN ALSO BE USED TO CONCATINATE
+        -= 
+            x -= y is shortcut for x = x - y
+        *= 
+            x *= y is shortcut for x = x * y
+        /= x 
+            /= y is shortcut for x = x / y
+        ...
+            splits iterables into individual elements
 
 ******Comparison******
-    (These return true/false, strings are compared alphabetically, like a book--lowercase has greater value that corresponding capital letter)
-        === strict equality
+    (These return true/false, strings are compared alphabetically, like a book--lowercase has greater value than corresponding capital letter)
+        === strict equality (value AND type)
         !== strict non-equality
         < less than
         > greater than
