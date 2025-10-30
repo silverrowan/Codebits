@@ -1,5 +1,7 @@
-Javascript
-    Basic
+******Javascript Operators******
+********************************
+
+******Basic Math******
         + addition (& concatination & convert to num)
         - subtraction
         * multiplication
@@ -9,14 +11,15 @@ Javascript
         ++ increment up (var++ shows before increase, then increments. ++var increments then shows/assigns/etc variable )
         -- decrement
 
-    Assignment
+******Assignment******
         = basic x is this
         += x += y is shortcut for x = x + y CAN ALSO BE USED TO CONCATINATE
         -= x -= y is shortcut for x = x - y
         *= x *= y is shortcut for x = x * y
         /= x /= y is shortcut for x = x / y
 
-    Comparison (These return true/false, strings are compared alphabetically, like a book--lowercase has greater value that corresponding capital letter)
+******Comparison******
+    (These return true/false, strings are compared alphabetically, like a book--lowercase has greater value that corresponding capital letter)
         === strict equality
         !== strict non-equality
         < less than
@@ -27,7 +30,7 @@ Javascript
             (null==undefined & *no other values*, but are not === (diff datatypes))
             (null->0, undefined->NaN for comparisons, but not for ==)
             
-    Logical
+******Logical******
         JS Logicals || & && DONT return T/F DX
         || OR - classic prog manipulates boolean only, in JS more complicated/powerful, & converts nums/strings to boolean
             -finds FIRST "truthy" value, 
@@ -44,15 +47,5 @@ Javascript
         Falsy: NUMBER 0, empty string '', null, undefined, and NaN
         Truthy: everything else.
 
-    Variable declaration
-        let - modern Variable declaration
-        const - modern constant declaration (cant change value)
-        var - OUTDATED variable declaration
-    "Special Values"
-        Infinity, -Infinity: self explanitory, numeric
-        NaN: not a number - boolean resolves to 0, surprisingly, numeric
-        null: is of its own data type! Means nothing/empty/unknown-->but type of defines as object due to error
-        undefined: another of its own data type. means value not assigned.
-        typeof x: a operator tells you the datatype
-
-why VS code doesnt include Array Methods in the autocomplete list?increments
+{/* What is this note referencing? */}
+{/* why VS code doesnt include Array Methods in the autocomplete list?increments */}

@@ -1,4 +1,4 @@
-******Variable Types******
+******Variable Declarations******
 var - old, depreciated. may see in old codes, has some quirks
 const - constants; variables that cannot be changed once set
 let - standard variable - can re-assign value
@@ -20,3 +20,10 @@ let - standard variable - can re-assign value
                 stay away from abbreviations or short names (unless know what doing) (eg BAD: a, oots)
                 maximally descriptive AND concise (eg favoriteColor instead of color)
                 consistant - if a visitor is called a 'user' then should name variables like currentUser NOT newVisitor or prevPerson
+
+******Special Variable Values******
+        Infinity, -Infinity: self explanitory, numeric
+        NaN: not a number - boolean resolves to 0, surprisingly, numeric
+        null: is of its own data type! Means nothing/empty/unknown-->but type of defines as object due to error
+        undefined: another of its own data type. means value not assigned.
+        typeof x: a operator tells you the datatype

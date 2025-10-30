@@ -2,5 +2,12 @@
 **********************************************
 
 jsBasics.js
-        Variable Types
+        Variable Declarations
         Variable Names
+        Special Variable Values
+
+jsOperators.js
+        Basic Math
+        Assignment
+        Comparison
+        Logical
