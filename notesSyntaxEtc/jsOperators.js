@@ -12,7 +12,7 @@
         -- decrement
 
 ******Assignment******
-        = basic x is this
+        = basic x is this / assigns values
         += 
             x += y is shortcut for x = x + y CAN ALSO BE USED TO CONCATINATE
         -= 
