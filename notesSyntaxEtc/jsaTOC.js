@@ -9,5 +9,6 @@ jsBasics.js
 jsOperators.js
         Basic Math
         Assignment
-        Comparison
         Logical
+        Logical Assignment
+        Comparison        
