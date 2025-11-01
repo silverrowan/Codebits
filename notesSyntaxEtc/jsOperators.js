@@ -14,6 +14,9 @@
         % remainder (modulus/modulo)
         ++ increment up (var++ shows before increase, then increments. ++var increments then shows/assigns/etc variable )
         -- decrement
+            increment and decrement operators can only be attached to variables, as it includes 
+                re-assigning the variable value.
+            theres a bit of other quirkynes w ++ & -- that will be noted later
 
         ******Adding Numbers and Strings******
             WARNING: JavaScript uses "+" for BOTH addition AND concatination!
