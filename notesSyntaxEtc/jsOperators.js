@@ -1,7 +1,11 @@
 ******Javascript Operators******
 ********************************
+    note: occasionally numbers in arithmetic sometimes called operands
 
 ******Basic Math******
+    Normal math order of operations applies
+    JavaScript will attempt to convert strings to numbers in numeric operations
+    WITH THE EXCEPTION of ADDITION (as used for concatination as well)
         + addition (& concatination & convert to num)
         - subtraction
         * multiplication
@@ -10,6 +14,26 @@
         % remainder (modulus/modulo)
         ++ increment up (var++ shows before increase, then increments. ++var increments then shows/assigns/etc variable )
         -- decrement
+
+        ******Adding Numbers and Strings******
+            WARNING: JavaScript uses "+" for BOTH addition AND concatination!
+            Numbers are added, Strings are concatenated.
+                NOTE: JavaScript interpreter works left to right!
+            Common Mistakes:
+                let x= 10; 
+                let y = 20;
+                let z = "The result is: " + x + y;
+                    // common mistake to expect z=the result is 30.
+                    // BECAUSE z is a string from "the result is", it becomes
+                    // z = the result is: 1020
+                let x = 10;
+                let y = 20;
+                let z = "30"; //note STRING type!
+                let result = x + y + z;
+                    //common mistake to expect result = 102030
+                    //BECAUSE interpreter works left to right x & y are 
+                    //added BEFORE the string z, so it is: result = 3030
+            
 
 ******Assignment******
         = basic x is this / assigns values
