@@ -9,12 +9,14 @@ jsVariables.js
                 Infinity
 
 jsOperators.js
+        Terms
         Basic Math
                 Adding Numbers and Strings
         Assignment
         Logical
         Logical Assignment
-        Comparison        
+        Comparison
+        Bitwise Operators
 
 jsNumbers.js
         Types
