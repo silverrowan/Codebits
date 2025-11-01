@@ -2,12 +2,13 @@
 ******************************
 
 ******Types******
-    JavaScript has only 1 type of number
-    Numbers can be with or without decimals
-
     Numbers are always 64-bit Floating Point
-        no number types like many other languages
+        no number types like many other languages*
             (so no: integer/short/long/floating-point/etc)
+                *(it does have a "BigInt" for very very large numbers, but not commonly used)
+        Numbers can be with or without decimals
+    Numbers may be present in strings! These are NOT treated 
+        as numbers (in most instances) but as words!
 
 ******Precision******            
         Integers (no decimal or exponents) are accurate to 15 digits
