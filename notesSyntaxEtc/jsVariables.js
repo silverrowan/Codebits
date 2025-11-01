@@ -1,3 +1,6 @@
+******JavaScript Variables******
+********************************
+
 ******Variable Declarations******
 var - old, depreciated. may see in old codes, has some quirks
 const - constants; variables that cannot be changed once set
