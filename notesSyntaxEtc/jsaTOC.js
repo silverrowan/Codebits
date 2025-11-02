@@ -65,6 +65,13 @@ jsOperators.js
         Comparison
         Bitwise Operators
 
+jsLogical.js
+        Symbol Refresh
+                OR
+                AND
+                NOT
+                Nullish Coalescing (header only curr)
+
 jsNumbers.js
         Types
         Precision
