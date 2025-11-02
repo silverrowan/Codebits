@@ -120,7 +120,13 @@ these variables/strings will be referenced in further examples
                 let splitTest = codeTest.split("") //splits to single char
                     // splitTest = ["H", "e", "l", "l", "o", ",", " ", ... ]
     ******More Methods******
-                comparissons using > & < are case sensitive
-                    to ignore case, convert all to upper or lower case First
-                    also gets janky when extending beyond english alphabet
+                comparissons using > & < & >= & <= are case sensitive
+                To determine if a sting is > another, it uses "dictionary" or "lexicographical" order (Technically, uses Unicode order)
+                    only moves onto the second character if the first ones are equal. Does not factor length (unless equal up to the end of one)
+                    Z > A
+                    letter > ""
+                    a > A
+
+                    to ignore case, convert all to upper or lower case First.
+                        toUpper and toLower get janky when extending beyond english alphabet
                 exahustive list of methods found here: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
