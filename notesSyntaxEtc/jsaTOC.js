@@ -18,6 +18,12 @@ jsDataTypes.js
                 objects and symbols
         typeof operator
 
+jsStrings.js
+        Declaring Strings
+                Template Literals
+                Include quotes in String
+        Convert numbers to strings        
+
 jsOperators.js
         Terms
         Basic Math
