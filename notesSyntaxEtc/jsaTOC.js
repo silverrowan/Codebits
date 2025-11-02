@@ -83,3 +83,15 @@ jsNumbers.js
 jsNumConstructors.js
 
 jsNumMethods.js
+
+jsConditionalFunctions.js
+        if...else
+                if...else if...else
+        switch statements
+        Ternary Operator
+                One Line
+                Multiple Lines
+                Nesting
+
+jsCommonFunctions.js
+        Arrow Functions
