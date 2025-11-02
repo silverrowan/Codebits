@@ -9,6 +9,10 @@
         Numbers can be with or without decimals
     Numbers may be present in strings! These are NOT treated 
         as numbers (in most instances) but as words!
+        some operations (attempt to) convert them to numbers first
+            when converted...
+                null converts to 0
+                undefined converts to NaN
 
 ******Precision******            
         Integers (no decimal or exponents) are accurate to 15 digits
