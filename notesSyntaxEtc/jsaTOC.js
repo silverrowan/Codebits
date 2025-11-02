@@ -22,8 +22,38 @@ jsStrings.js
         Declaring Strings
                 Template Literals
                 Include quotes in String
-        Convert numbers to strings        
-
+        Convert numbers to strings 
+        
+jsStringMethods.js
+        What is a method?
+        String...
+                length
+                extracting characters
+                        at()
+                        charAt()
+                        charCodeAt()
+                        property access [] as in arrays
+                concat()
+                Extracting String Parts
+                        slice()
+                        substring()
+                        substr()
+                toUpperCase()
+                toLowerCase()
+                isWellFormed()
+                toWellFormed()
+                trim()
+                        trimStart()
+                        trimEnd()
+                padding
+                        padStart()
+                        padEnd()
+                repeat()
+                replace()
+                replaceAll()
+                convert to an Array
+                        split()
+                        
 jsOperators.js
         Terms
         Basic Math
