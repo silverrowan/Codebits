@@ -1,11 +1,11 @@
 ******JavaScript Notes Table of Contents******
 **********************************************
 
-jsVariables.js
+Variables.js
         Variable Declarations
         Variable Names
 
-jsDataTypes.js
+DataTypes.js
         8 Basic Types
                 Number
                         Infinity
@@ -18,13 +18,13 @@ jsDataTypes.js
                 objects and symbols
         typeof operator
 
-jsStrings.js
+Strings.js
         Declaring Strings
                 Template Literals
                 Include quotes in String
         Convert numbers to strings 
 
-jsStringMethods.js
+StringMethods.js
         What is a method?
         String...
                 length
@@ -55,7 +55,7 @@ jsStringMethods.js
                         split()
                 More Methods
                         
-jsOperators.js
+Operators.js
         Terms
         Basic Math
                 Adding Numbers and Strings
@@ -65,14 +65,14 @@ jsOperators.js
         Comparison
         Bitwise Operators
 
-jsLogical.js
+Logical.js
         Symbol Refresh
                 OR
                 AND
                 NOT
                 Nullish Coalescing (header only curr)
 
-jsNumbers.js
+Numbers.js
         Types
         Precision
         Numeric Bases
@@ -80,11 +80,11 @@ jsNumbers.js
                 Leading 0
         Numbers as Objects
 
-jsNumConstructors.js
+NumConstructors.js
 
-jsNumMethods.js
+NumMethods.js
 
-jsConditionalFunctions.js
+ConditionalFunctions.js
         if...else
                 if...else if...else
         switch statements
@@ -93,5 +93,5 @@ jsConditionalFunctions.js
                 Multiple Lines
                 Nesting
 
-jsCommonFunctions.js
+MiscFunctions.js
         Arrow Functions
