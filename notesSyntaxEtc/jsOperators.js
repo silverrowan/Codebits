@@ -108,6 +108,7 @@
         ! NOT converts to boolean and returns inverse value
             (!! NOT NOT can be used to convert to boolean)
             NOT ! has highest precedence of logical operators
+        ?? Nullish coalescing
         Falsy: NUMBER 0, empty string '', null, undefined, and NaN
         Truthy: everything else.
 
