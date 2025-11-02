@@ -23,7 +23,7 @@ jsStrings.js
                 Template Literals
                 Include quotes in String
         Convert numbers to strings 
-        
+
 jsStringMethods.js
         What is a method?
         String...
@@ -53,6 +53,7 @@ jsStringMethods.js
                 replaceAll()
                 convert to an Array
                         split()
+                More Methods
                         
 jsOperators.js
         Terms

@@ -119,3 +119,8 @@ these variables/strings will be referenced in further examples
             if the separator is "", the returned array will be single characters.
                 let splitTest = codeTest.split("") //splits to single char
                     // splitTest = ["H", "e", "l", "l", "o", ",", " ", ... ]
+    ******More Methods******
+                comparissons using > & < are case sensitive
+                    to ignore case, convert all to upper or lower case First
+                    also gets janky when extending beyond english alphabet
+                exahustive list of methods found here: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
