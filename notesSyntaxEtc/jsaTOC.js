@@ -4,9 +4,19 @@
 jsVariables.js
         Variable Declarations
         Variable Names
-        Special Variable Values
-                NaN
-                Infinity
+
+jsDataTypes.js
+        8 Basic Types
+                Number
+                        Infinity
+                        NaN
+                BigInt
+                String
+                Boolean
+                null
+                undefined
+                objects and symbols
+        typeof operator
 
 jsOperators.js
         Terms
@@ -25,3 +35,7 @@ jsNumbers.js
                 Hexadecimal
                 Leading 0
         Numbers as Objects
+
+jsNumConstructors.js
+
+jsNumMethods.js
