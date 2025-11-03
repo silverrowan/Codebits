@@ -1,0 +1,294 @@
+******Work Log******
+********************
+
+Log Goals: 
+    Track 
+        (remind self of what done over prev months, years)
+        tasks done
+        effort invested (time? effect?)
+        projects
+        notable responsibilities
+        critical numbers & achievements
+        burnout recovery/relapse (via)
+            functionallity (time, intensity, type)
+            exercise (time, intensity)
+            sleep (time, restedness)
+
+******TEMPLATE(YEAR)******
+****************
+    ******YEAR Summary******
+    ************************
+    ******MONTH******
+        ***Summary***
+            Learning
+            Projects
+            Networking
+            Major Events
+            Health & Lifestyle
+        ***By Date***
+            Month day
+
+******2024******
+****************
+    ******2024 Summary******
+    ************************
+        Sold House & Moved to Victoria
+
+    *****November***
+        ***Summary***
+            Major Events
+                Sold House in Hamilton, ON
+                Moved to Victoria, BC
+                    living w Grummy & Tim
+
+******2025******
+****************
+    ******2025 Summary******
+    ************************
+        Learning
+            Started TOP
+        Projects
+        Networking
+            Ridge & Leeanne (Rockclimbing, friends)
+            Justin (Uncle)
+            Shane (Landlord)
+        Major Events
+            Moved out of Grummy's into own appartment
+                eventually emptied all 3 uhal crates
+            Tim's Funeral
+        Health & Lifestyle
+            Got Family Doc
+                Dr. Stansfield @ Sitka Health Center
+            3 months of sick
+            Realized I'm likely Autistic
+            Realized I'm Burned out (and how thats possible)
+            Learned that sugar triggers migranes for me
+                started going no/low sugar
+                might be an overproduction of insulin if similar to Maddy
+            Learned that electrolyte/hyrdation drink can help migranes
+                even if has significant sugar!
+                not sure of duration/ongoing effects, as the sugar
+                    SEEMED to have an ongoing effect in addn to acute
+
+    *****March******
+        ***Summary***
+            Learning (TOP - INTRO, GIT, HTML completed, JavaScript started)
+                Started TOP at some point this month
+                Completed all Intro, HTML & CSS sections
+                Progressed into JavaScript, not completed
+                    Variables & Operators
+                    Installing Node.js
+                    Data Types & Conditionals
+                    JavaScript Developer Tools
+                    Function basics
+                    Problem Solving
+                    Understanding Errors
+                    Project: Rock Paper Scissors (started)
+                Included in JS section is working with Git Branches
+            Projects (0 portfolio, 3 mini)
+                mini-project: recipie webpage (completed)
+                mini-project: landing page (completed)
+                mini-project: rock-paper-scissors (started)
+            Networking
+            Major Events
+            Health & Lifestyle
+        ***By Date***
+            March 18
+                Setup Git & github account
+                Started recipies mini-project
+            March 19
+                CSS exercises
+            March 22
+                mini project landing page
+            March 31
+                mini project rock paper scissors
+    ******April******
+        ***Summary***
+            Learning (TOP - JavaScript ongoing)
+                TOP - JavaScript Section
+                    Project: Rock paper scissors (completed)
+                    Clean Code
+                    Loops and Arrays
+                    DOM manipulation & Events
+                    Revisiting Rock Paper Scissors
+                    Project: Etch a sketch (completed, misunderstood some extras)
+                    Object Basics
+                    Project: Calculator (NOT STARTED)
+            Projects (0 portfolio, 2 mini)
+                mini-project: rock-paper-scissors (continued & completed)
+                mini-project: etch-a-sketch (completed, misunderstood some instructions)
+            Networking
+            Major Events
+            Health & Lifestyle
+                Secured New appartment
+        ***By Date***
+            April 1
+                mini-project: rock-paper-scissors (completed)
+            April 2
+                javascript exercises
+            April 9 
+                started TOP Notes/Codebits repo
+            April 12
+                reached DOM manipulation of TOP-JavaScript section
+            April 19
+                rock paper scissors pt 2 (ongoing)
+            April 21
+                rock paper scissors pt 2 (completed)
+            April 22
+                etch-a-sketch (started)
+            April 25, 26, 27
+                etch-a-sketch (continued)
+            April 28
+                etch-a-sketch (continued)
+                github pull request & main branch management
+            April 30
+                etch-a-sketch (completed)
+                github pull request & main branch management
+    ******May******
+        ***Summary***
+            Learning (no TOP)
+            Projects (none)
+            Networking (1 new minor contact made)
+                Landlord, Shane is in tech industry
+            Major Events
+                Moved into new appartment
+                    Emptied 2 of 3 Uhal boxes
+            Health & Lifestyle
+                Moved into new appartment
+                Got sick from second half of month, for next 
+                    3 months on and off
+        ***By Date***
+    ******June******
+        ***Summary***
+            Learning (no TOP)
+            Projects (none)
+            Networking (none)
+            Major Events
+            Health & Lifestyle 
+                sick most of this month
+        ***By Date***
+    ******July******
+        ***Summary***
+            Learning (no TOP)
+            Projects (none)
+            Networking
+            Major Events
+            Health & Lifestyle
+                sick most of this month, icl temp deaf at start of mo.           
+                got family doctor
+        ***By Date***
+            July 18
+                intake appt w Dr Stansfield @ Sitka Health Center
+    ******August******            
+        ***Summary***
+            Learning (no TOP)
+            Projects (none)
+            Networking (Ridge & Leeanne?)
+            Major Events 
+            Health & Lifestyle
+                Mostly recovered from 3 mos of being ill
+                realized what i'm dealing with is prob Autistic/ADHD burnout
+        ***By Date***
+    *****October****
+        ***Summary***
+            Learning (TOP REVIEW - COMMAND LINE, GIT, HTML, CSS completed)
+                started re-reviewing in (very) late October
+                Reviewed Foundations from begining
+                    Entirety of INTRO, PREREQS, GIT, HTML, CSS, & FLEXBOX sections completed
+                        No HTML or CSS projects redone.
+                    Javascript review started
+                        Completed Variables & Operators page
+            Projects (none)
+            Networking (1 major contact)
+                Connected w/ Justin (Uncle) at Funeral
+                    recomended reaching out to "women in tech" group
+                    he offered to connect me w some folks (from women in tech?) once my LinkedIn is up and running
+            Major Events (1)
+                Emptied final uhaul box
+                Tim's Funeral - Oct 30. Day spent w Maddy & Family at wake-ish-thing
+            Health & Lifestyle (LOTS of info from Maddy)
+                Discussion w Maddy
+                    - good odds low on electrolites (something to do with EDS)
+                        may be causing the migranes, tiredness, etc
+                        definately helped the one migrane
+                    - the shoulder thing is abs a sublexion. The knee thing is prob not.
+                    - she thinks the pinky and elbow tests are pos for me.
+                    - skin *is* stretchyer than normal
+                    - she thinks I may have low grade allergies
+                        contributing to the migranes & bloody nose & fatigue
+                        test by tracking w and wout antihistamine in morning (1 costco pill)
+                    - overdoing it re exercise 'measured' by still being fatigued by the thing for ~24+ hrs
+                    - possible the sugar-migrane thing is a paradoxal response to sugar
+                        LOW sugar can cause migranes. Maddy exhibited low suger in response to 
+                        diabetic test & sugary breakfast
+        ***By Date***
+            October 27 - 29
+                html & Css review:
+                    TOP Sections:  
+                        TOP Intro (5 pages, none of significant coding data)
+                        Prereques (7 pages, 4 of learning, 3 of installs prev done)
+                            Computer basics
+                            how the web works
+                            text editors
+                            command line basics 
+                        Git basics (2 pages, 2 of learning)
+                            Introduction to Git
+                            Git basics
+                        HTML foundatipons (7 pages--all learning, 1 project--redo skipped)
+                            Intro to html & Css
+                            elements & tags
+                            html boilerplate
+                            working w text
+                            lists
+                            links & images
+                            commit messages** (seems like it functionally belongs in git sec abv)
+                            PROJECT: Recipies (skipped)
+                        CSS foundatipons (5 pages all learning)
+                            intro to Css
+                            the cascase
+                            inspecting html & Css
+                            the box model
+                            block and inline
+                        Flexbox (4 pages all learning, 1 project skipped)
+                            intro to Flexbox
+                            growing and shrinking
+                            axes
+                            alignment
+                            PROJECT: landing page (skipped)
+            October 29 (technically oct 30 ~2am) - 
+                Javascript review (~3/5 pages of total 12 pages, 3 projects)
+                    Variables and Operators (~3/5ths)
+            October 30th
+                Tim's Funeral. Most of day spent w Maddy & family.
+                No notable coding/review
+            October 31  
+                Javascript review (~2/5 + 1 low effort page today, at 2 of 12 pages completed, 0 projects)
+                    (on github under Nov 1, as done after midnight)
+                    Variables & Operators (last 2/5th)
+                    "installing node.js"" just quick review of what node is
+    *****November*****
+        ***Summary***
+            Learning (TOP - JAVASCRIPT started)
+                re-reviewing of Javascript continues.
+                    started at Data Types & Conditionals
+            Projects (1 lifestyle & ongoing,)
+                work/dev log started, ongoing life project
+            Networking (3 goals, 1 minor contact)
+                GOAL: Get LinkedIn Profile up
+                GOAL: Reply to Justin in week 1
+                GOAL: Find relevant tech groups
+                Emailed Camosun College Program Coordinator
+            Major Events
+            Health & Lifestyle
+        ***By Date***
+            November 01
+                Javascript review (Theory only, at ~2.5 of 12 pages)
+                    Data Types and Conditionals (Theory only)
+            November 02
+                Started this Log & entered backdata as best could remember
+                Javascript review (assignment prep)
+                    Data Types and Conditions (assignment *prep*)
+                        moving old main branch with completed assignments to "solutionAttempt01" branch
+                        creating clean main branch with no solution attempts.
+                        updating main to match changes made to upstream branch/fork/repo (unsure on terminology)
+                        creating new branch for coding solutions for this review "solutionAttempt02"
