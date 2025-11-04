@@ -93,5 +93,15 @@ ConditionalFunctions.js
                 Multiple Lines
                 Nesting
 
-MiscFunctions.js
+functionBasics.js
+        Definitions
+                Function
+                Parameter
+                Arguments
+                Function vs Method
         Arrow Functions
+        Function Scope
+                What is Scope
+                Global Scope
+                Why silo variables etc.
+                

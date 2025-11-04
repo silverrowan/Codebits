@@ -197,7 +197,7 @@ Log Goals:
                     Entirety of INTRO, PREREQS, GIT, HTML, CSS, & FLEXBOX sections completed
                         No HTML or CSS projects redone.
                     Javascript review started
-                        Completed Variables & Operators page
+                        Completed Variables & Operators lesson
             Projects (none)
             Networking (1 major contact)
                 Connected w/ Justin (Uncle) at Funeral
@@ -225,16 +225,16 @@ Log Goals:
             October 27 - 29
                 html & Css review:
                     TOP Sections:  
-                        TOP Intro (5 pages, none of significant coding data)
-                        Prereques (7 pages, 4 of learning, 3 of installs prev done)
+                        TOP Intro (5 lessons, none of significant coding data)
+                        Prereques (7 lessons, 4 of learning, 3 of installs prev done)
                             Computer basics
                             how the web works
                             text editors
                             command line basics 
-                        Git basics (2 pages, 2 of learning)
+                        Git basics (2 lessons, 2 of learning)
                             Introduction to Git
                             Git basics
-                        HTML foundatipons (7 pages--all learning, 1 project--redo skipped)
+                        HTML foundatipons (7 lessons--all learning, 1 project--redo skipped)
                             Intro to html & Css
                             elements & tags
                             html boilerplate
@@ -243,26 +243,26 @@ Log Goals:
                             links & images
                             commit messages** (seems like it functionally belongs in git sec abv)
                             PROJECT: Recipies (skipped)
-                        CSS foundatipons (5 pages all learning)
+                        CSS foundatipons (5 lessons all learning)
                             intro to Css
                             the cascase
                             inspecting html & Css
                             the box model
                             block and inline
-                        Flexbox (4 pages all learning, 1 project skipped)
+                        Flexbox (4 lessons all learning, 1 project skipped)
                             intro to Flexbox
                             growing and shrinking
                             axes
                             alignment
                             PROJECT: landing page (skipped)
             October 29 (technically oct 30 ~2am) - 
-                Javascript review (~3/5 pages of total 12 pages, 3 projects)
+                Javascript review (~3/5 lessons of total 12 lessons, 3 projects)
                     Variables and Operators (~3/5ths)
             October 30th
                 Tim's Funeral. Most of day spent w Maddy & family.
                 No notable coding/review
             October 31  
-                Javascript review (~2/5 + 1 low effort page today, at 2 of 12 pages completed, 0 projects)
+                Javascript review (~2/5 + 1 low effort lesson today, at 2 of 12 lessons completed, 0 projects)
                     (on github under Nov 1, as done after midnight)
                     Variables & Operators (last 2/5th)
                     "installing node.js"" just quick review of what node is
@@ -270,6 +270,8 @@ Log Goals:
         ***Summary***
             Learning (TOP - JAVASCRIPT started)
                 re-reviewing of Javascript continues.
+                    Javascript basics 
+                        (7 lesson, rock/paper/scissors, 4 lesson, etch-a-sketch, 1 lesson, calculator)
                     started at Data Types & Conditionals
             Projects (1 lifestyle & ongoing,)
                 work/dev log started, ongoing life project
@@ -282,13 +284,19 @@ Log Goals:
             Health & Lifestyle
         ***By Date***
             November 01
-                Javascript review (Theory only, at ~2.5 of 12 pages)
+                Javascript review (Theory only, at ~2.5 of 12 lessons)
                     Data Types and Conditionals (Theory only)
             November 02
                 Started this Log & entered backdata as best could remember
-                Javascript review (assignment prep)
+                Javascript review (assignment prep only)
                     Data Types and Conditions (assignment *prep*)
                         moving old main branch with completed assignments to "solutionAttempt01" branch
                         creating clean main branch with no solution attempts.
                         updating main to match changes made to upstream branch/fork/repo (unsure on terminology)
                         creating new branch for coding solutions for this review "solutionAttempt02"
+            November 03
+                JavaScript review (1.75 lessons today, at 4.25 of 12 lessons, 0 of 3 projects )
+                    Data types and Conditions (assignment)
+                        Completed Javascript exercises 01-05, per data types assignment
+                    JavaScript Developer Tools (completed)
+                    Function Basics (~25% studied)
