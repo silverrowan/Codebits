@@ -1,5 +1,4 @@
-This repository is for assorted notes that don't
-belong in any one repository.
+This repository is for assorted notes that don't belong in any one repository.
 
 It contains:
     my work log (workLog.txt), 

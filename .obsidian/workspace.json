@@ -1,20 +1,223 @@
 {
   "main": {
-    "id": "4901ccf44299393d",
+    "id": "ea2235b6e74470a9",
     "type": "split",
     "children": [
       {
-        "id": "1b00dbcea4f1ab2d",
+        "id": "adc02dca5773ef63",
         "type": "tabs",
         "children": [
           {
-            "id": "5046993c5861d666",
+            "id": "0f4c87d6777abfd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "678dd2a5e3181bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Table of Contents"
+            }
+          },
+          {
+            "id": "67bdc8afc4c03694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "41bdcb26ba01b894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/DOM Manipulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOM Manipulation"
+            }
+          },
+          {
+            "id": "4546f8c81493d5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/flexbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flexbox"
+            }
+          },
+          {
+            "id": "52999d18aa550d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/Loops & Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loops & Arrays"
+            }
+          },
+          {
+            "id": "4ffdfbbbcd201f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/Objects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects"
+            }
+          },
+          {
+            "id": "4ace6cb7eb157635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "4df94bba37e72405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/DOM Manipulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOM Manipulation"
+            }
+          },
+          {
+            "id": "294dc8a2e5eff192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "c558f591d7393527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Work Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Work Log"
+            }
+          },
+          {
+            "id": "6e5fd778d23c092d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Personal Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Log"
+            }
+          },
+          {
+            "id": "90aec2d9d8660114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Work Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Work Log"
+            }
+          },
+          {
+            "id": "3f5305f20cd7dc38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "220d2e2fb85033af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e689093e330ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operators"
             }
           }
         ]
@@ -23,15 +226,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "075ae7a810837331",
+    "id": "7e095c0ed83a35d5",
     "type": "split",
     "children": [
       {
-        "id": "cd505fda4d43d61d",
+        "id": "0a449277fcbd6eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "8c7a92ba43a14cf9",
+            "id": "85f956e56bb1274b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +247,7 @@
             }
           },
           {
-            "id": "7d319222a09f8af4",
+            "id": "7f22f3924571d156",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +264,7 @@
             }
           },
           {
-            "id": "c7e8fc95862f3de8",
+            "id": "dc25238969bb0e69",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +280,20 @@
     "width": 300
   },
   "right": {
-    "id": "d4431ffcc01669e8",
+    "id": "4c7c29157a648307",
     "type": "split",
     "children": [
       {
-        "id": "ae3732f09d43ce11",
+        "id": "a0c72be8f242f7b8",
         "type": "tabs",
         "children": [
           {
-            "id": "9b92fdd6a099cd6b",
+            "id": "5be392b4e2ecc351",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logs/Work Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +303,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Work Log"
             }
           },
           {
-            "id": "6dde7b24f64ff5df",
+            "id": "ee2c01f143d1732c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logs/Work Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Work Log"
             }
           },
           {
-            "id": "41c3bbf5b398a2ff",
+            "id": "c9fad514ceab83f0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +336,18 @@
             }
           },
           {
-            "id": "afa037a0348419d1",
+            "id": "83665d2b37023a0a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logs/Work Log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Work Log"
             }
           }
         ]
@@ -162,6 +368,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "5046993c5861d666",
-  "lastOpenFiles": []
+  "active": "3f5305f20cd7dc38",
+  "lastOpenFiles": [
+    "Table of Contents.md",
+    "JavaScript/Variables.md",
+    "Logs/Work Log.md",
+    "Logs/Personal Log.md",
+    "Logs",
+    "Unorganized Notes/CSS.md",
+    "Unorganized Notes/flexbox.md",
+    "Unorganized Notes/Loops & Arrays.md",
+    "Unorganized Notes/DOM Manipulation.md",
+    "Unorganized Notes/Pseudocode.md",
+    "Unorganized Notes/Objects.md",
+    "Unorganized Notes",
+    "JavaScript/Operators.md",
+    "JavaScript/Strings.md",
+    "JavaScript/String Methods.md",
+    "JavaScript/Number Methods.md",
+    "JavaScript/Number Constructors.md",
+    "JavaScript/Numbers.md",
+    "JavaScript/Conditional Functions.md",
+    "JavaScript/Data Types.md",
+    "JavaScript/Logical.md",
+    "README.md",
+    "JavaScript/Function Basics.md",
+    "JavaScript"
+  ]
 }

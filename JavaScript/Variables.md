@@ -1,5 +1,4 @@
-******JavaScript Variables******
-********************************
+***************************
 
 ******Variable Declarations******
 var - old, depreciated. may see in old codes, has some quirks
