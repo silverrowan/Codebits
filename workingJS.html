@@ -25,12 +25,25 @@
         //     alert("I don't know you");
         // }
 
-        let result = (a + b < 4) ? 'Below' : 'Over';
+        // let result = (a + b < 4) ? 'Below' : 'Over';
 
-        let message = (login =='employee') ? 'Hello' 
-            : (login == 'Director') ? 'Greetings' 
-            : (login == '') ? 'No login' 
-            : ''
+        // let message = (login =='employee') ? 'Hello' 
+        //     : (login == 'Director') ? 'Greetings' 
+        //     : (login == '') ? 'No login' 
+        //     : ''
+
+        function draw () {
+            ctx.clearRect(0, 0, WIDTH, HEIGHT);
+            for (let i = 0; i < 100; i++) {
+                ctx.beginPath();
+                ctx.fillStyle = "rgb(255 0 0 / 50%)";
+                ctx.arc(random(WIDTH), random(HEIGHT), random(50), 0, 2 * Math.PI);
+                ctx.fill();
+            }
+        }
+
+        draw();
+
 
     </script>
 </body>

@@ -94,14 +94,15 @@ ConditionalFunctions.js
                 Nesting
 
 functionBasics.js
-        Definitions
-                Function
-                Parameter
-                Arguments
-                Function vs Method
+        Function
+                Invoke a Function
+                Expression Vs Declaration
+        Parameter
+        Arguments
+        Function vs Method
         Arrow Functions
+                Valid arrow function syntax options
         Function Scope
                 What is Scope
                 Global Scope
                 Why silo variables etc.
-                
