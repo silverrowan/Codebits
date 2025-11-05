@@ -1,1 +1,10 @@
-{}
+{
+  "showLineNumber": true,
+  "autoConvertHtml": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments",
+  "useTab": false,
+  "propertiesInDocument": "visible"
+}

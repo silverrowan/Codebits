@@ -6,221 +6,153 @@
       {
         "id": "adc02dca5773ef63",
         "type": "tabs",
+        "dimension": 54.53367875647669,
         "children": [
-          {
-            "id": "0f4c87d6777abfd8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "678dd2a5e3181bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Table of Contents"
-            }
-          },
-          {
-            "id": "67bdc8afc4c03694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS"
-            }
-          },
-          {
-            "id": "41bdcb26ba01b894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/DOM Manipulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DOM Manipulation"
-            }
-          },
-          {
-            "id": "4546f8c81493d5c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/flexbox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flexbox"
-            }
-          },
-          {
-            "id": "52999d18aa550d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/Loops & Arrays.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loops & Arrays"
-            }
-          },
-          {
-            "id": "4ffdfbbbcd201f2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/Objects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objects"
-            }
-          },
-          {
-            "id": "4ace6cb7eb157635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS"
-            }
-          },
-          {
-            "id": "4df94bba37e72405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/DOM Manipulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DOM Manipulation"
-            }
-          },
-          {
-            "id": "294dc8a2e5eff192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS"
-            }
-          },
-          {
-            "id": "c558f591d7393527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Work Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work Log"
-            }
-          },
           {
             "id": "6e5fd778d23c092d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Personal Log.md",
+                "file": "JavaScript/JS-Conditional Functions.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Personal Log"
-            }
-          },
-          {
-            "id": "90aec2d9d8660114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Work Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work Log"
-            }
-          },
-          {
-            "id": "3f5305f20cd7dc38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ],
-        "currentTab": 13
-      },
-      {
-        "id": "220d2e2fb85033af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28e689093e330ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Operators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operators"
+              "title": "JS-Conditional Functions"
             }
           }
         ]
+      },
+      {
+        "id": "41eeba39b5bc30da",
+        "type": "split",
+        "dimension": 45.46632124352332,
+        "children": [
+          {
+            "id": "220d2e2fb85033af",
+            "type": "tabs",
+            "dimension": 66.92667706708268,
+            "children": [
+              {
+                "id": "329e43092612f469",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "JavaScript/JS-JavaScript MOC.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "JS-JavaScript MOC"
+                }
+              },
+              {
+                "id": "39e650bbc08f8174",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logs/Daily/2025-11(Nov)-04.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11(Nov)-04"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "36ec25c96b21cef5",
+            "type": "tabs",
+            "dimension": 33.073322932917314,
+            "children": [
+              {
+                "id": "ddfc23e78c4ba0a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logs/11(Nov)-04-2025-WorkLog.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "11(Nov)-04-2025-WorkLog"
+                }
+              },
+              {
+                "id": "00a88f6236887202",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "11(Nov)-04-2025-Contact.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "11(Nov)-04-2025-Contact"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -272,12 +204,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f99ddcbda5c8bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "4c7c29157a648307",
@@ -286,14 +228,61 @@
       {
         "id": "a0c72be8f242f7b8",
         "type": "tabs",
+        "dimension": 25.995316159250585,
         "children": [
+          {
+            "id": "488a17f644a690db",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2274fe50e69900c2",
+        "type": "tabs",
+        "dimension": 53.942232630757225,
+        "children": [
+          {
+            "id": "83665d2b37023a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logs/Daily/2025-11(Nov)-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-11(Nov)-04"
+            }
+          },
+          {
+            "id": "ee2c01f143d1732c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/Daily/2025-11(Nov)-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11(Nov)-04"
+            }
+          },
           {
             "id": "5be392b4e2ecc351",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/Work Log.md",
+                "file": "Logs/Daily/2025-11(Nov)-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,23 +292,16 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Work Log"
+              "title": "Backlinks for 2025-11(Nov)-04"
             }
-          },
-          {
-            "id": "ee2c01f143d1732c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Logs/Work Log.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Work Log"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e33ea1a7dd327983",
+        "type": "tabs",
+        "dimension": 20.062451209992194,
+        "children": [
           {
             "id": "c9fad514ceab83f0",
             "type": "leaf",
@@ -334,65 +316,66 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "83665d2b37023a0a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Logs/Work Log.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Work Log"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "periodic-notes:Open today": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3f5305f20cd7dc38",
+  "active": "39e650bbc08f8174",
   "lastOpenFiles": [
-    "Table of Contents.md",
-    "JavaScript/Variables.md",
+    "11(Nov)-04-2025-Contact.md",
+    "Logs/Daily/2025-11(Nov)-04.md",
+    "JavaScript/JS-JavaScript MOC.md",
+    "Logs/Phillipa \"Grummy\" Caitling.md",
+    "[[Phillipa \"Grummy\" Caitling.md",
+    "Logs/Daily/2025-11(Nov)-03.md",
+    "Templates/Daily Contacts Log Template.md",
+    "Templates/Contact Attempt--{{date}}.md",
+    "Templates/Contacts Template.md",
+    "Logs/11(Nov)-03-2025-WorkLog.md",
+    "Logs/11(Nov)-04-2025-WorkLog.md",
     "Logs/Work Log.md",
-    "Logs/Personal Log.md",
-    "Logs",
+    "Table of Contents.md",
+    "JS-Function Names.md",
+    "JavaScript/JS-Function Basics.md",
+    "JavaScript/JS-Logical Operators.md",
+    "JavaScript/JS-Conditional Functions.md",
     "Unorganized Notes/CSS.md",
-    "Unorganized Notes/flexbox.md",
-    "Unorganized Notes/Loops & Arrays.md",
     "Unorganized Notes/DOM Manipulation.md",
-    "Unorganized Notes/Pseudocode.md",
     "Unorganized Notes/Objects.md",
-    "Unorganized Notes",
-    "JavaScript/Operators.md",
-    "JavaScript/Strings.md",
-    "JavaScript/String Methods.md",
-    "JavaScript/Number Methods.md",
-    "JavaScript/Number Constructors.md",
-    "JavaScript/Numbers.md",
-    "JavaScript/Conditional Functions.md",
-    "JavaScript/Data Types.md",
-    "JavaScript/Logical.md",
-    "README.md",
-    "JavaScript/Function Basics.md",
-    "JavaScript"
+    "Unorganized Notes/Loops & Arrays.md",
+    "Unorganized Notes/flexbox.md",
+    "Unorganized Notes/Pseudocode.md",
+    "CodeBits/html boilerplate.md",
+    "CodeBits/html Boilerplate/index.html",
+    "CodeBits/html Boilerplate",
+    "Working files/html Boilerplate",
+    "Working files/html Boilerplate/index.html",
+    "Working files/workingHTML.html",
+    "Working files",
+    "CodeBits",
+    "JavaScript/JS-Functions MOC.md",
+    "Templates/Daily Work Log Template.md",
+    "attachments",
+    "Logs/Annual",
+    "Logs/Weekly"
   ]
 }

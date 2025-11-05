@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "headerSize",
+    "Embed Adjustments"
+  ],
+  "accentColor": ""
+}

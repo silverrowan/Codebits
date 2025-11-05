@@ -281,21 +281,21 @@ Log Goals:
                 Emailed Camosun College Program Coordinator
             Major Events
             Health & Lifestyle
-        ***By Date***
-            November 01
-                Javascript review (Theory only, at ~2.5 of 12 lessons)
-                    Data Types and Conditionals (Theory only)
-            November 02
-                Started this Log & entered backdata as best could remember
-                Javascript review (assignment prep only)
-                    Data Types and Conditions (assignment *prep*)
-                        moving old main branch with completed assignments to "solutionAttempt01" branch
-                        creating clean main branch with no solution attempts.
-                        updating main to match changes made to upstream branch/fork/repo (unsure on terminology)
-                        creating new branch for coding solutions for this review "solutionAttempt02"
-            November 03
-                JavaScript review (1.75 lessons today, at 4.25 of 12 lessons, 0 of 3 projects )
-                    Data types and Conditions (assignment)
-                        Completed Javascript exercises 01-05, per data types assignment
-                    JavaScript Developer Tools (completed)
-                    Function Basics (~25% studied)
+### By Date***
+#### November 01
+Javascript review (Theory only, at ~2.5 of 12 lessons)
+    Data Types and Conditionals (Theory only)
+#### November 02
+Started this Log & entered backdata as best could remember
+Javascript review (assignment prep only)
+    Data Types and Conditions (assignment *prep*)
+        moving old main branch with completed assignments to "solutionAttempt01" branch
+        creating clean main branch with no solution attempts.
+        updating main to match changes made to upstream branch/fork/repo (unsure on terminology)
+        creating new branch for coding solutions for this review "solutionAttempt02"
+#### November 03
+JavaScript review (1.75 lessons today, at 4.25 of 12 lessons, 0 of 3 projects )
+    Data types and Conditions (assignment)
+        Completed Javascript exercises 01-05, per data types assignment
+    JavaScript Developer Tools (completed)
+    Function Basics (~25% studied)
