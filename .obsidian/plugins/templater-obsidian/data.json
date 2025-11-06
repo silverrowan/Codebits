@@ -26,8 +26,12 @@
       "template": "Templates/Daily Work Log Template.md"
     },
     {
-      "regex": "",
-      "template": ""
+      "regex": ".*PersonalLog",
+      "template": "Templates/Daily Personal Log Template.md"
+    },
+    {
+      "regex": ".*ContactLog",
+      "template": "Templates/Daily Contacts Log Template.md"
     }
   ],
   "syntax_highlighting": true,

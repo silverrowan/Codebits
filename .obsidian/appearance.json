@@ -2,7 +2,9 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "headerSize",
-    "Embed Adjustments"
+    "Embed Adjustments",
+    "indentHeadings",
+    "Indent headings"
   ],
   "accentColor": ""
 }

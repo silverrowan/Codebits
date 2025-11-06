@@ -6,5 +6,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "attachments",
   "useTab": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unorganized Notes"
 }

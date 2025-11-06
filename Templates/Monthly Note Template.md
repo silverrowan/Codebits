@@ -1,3 +1,4 @@
+{{date: yyyy-MM(MMM)}}-SummaryLog]]
 # {{date: MMMM}} [[{{date: YYYY}}]]
 **********
 ## Goals
@@ -28,3 +29,17 @@
 #### Previous (Active) Contacts
 
 #### Previous (Stale) Contacts
+## By Date
+```dataview 
+LIST 
+FROM "Logs/Daily" AND  "Logs/Weekly"
+WHERE contains(file.date(YYYY-MM), this.date)
+
+```
+
+contains(file.name, "Contact ") AND contains(file.date(YYYY-MM), this.date)
+
+
+
+
+contains(file.name, "Contact ") AND contains(file.name, this.name)

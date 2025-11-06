@@ -8,5 +8,7 @@
   "css-editor",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "obsidian-tasks-plugin"
 ]

@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11(Nov)-04-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md"
+    },
+    {
+      "basename": "JS-Functions MOC",
+      "path": "JavaScript/JS-Functions MOC.md"
+    },
+    {
+      "basename": "2025-11(Nov)-05",
+      "path": "Logs/Daily/2025/2025-11(Nov)-05.md"
+    },
+    {
+      "basename": "Daily Template",
+      "path": "Templates/Daily Template.md"
+    },
+    {
       "basename": "2025-11(Nov)-04",
-      "path": "Logs/Daily/2025-11(Nov)-04.md"
+      "path": "Logs/Daily/2025/2025-11(Nov)-04.md"
     },
     {
-      "basename": "11(Nov)-04-2025-Contact",
-      "path": "11(Nov)-04-2025-Contact.md"
+      "basename": "2025-11(Nov)-05-Grummy-1653-Phone-Contact Success",
+      "path": "Logs/Daily/2025/2025-11(Nov)-05-Grummy-1653-Phone-Contact Success.md"
     },
     {
-      "basename": "JS-JavaScript MOC",
-      "path": "JavaScript/JS-JavaScript MOC.md"
+      "basename": "2025-11(Nov)-05-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md"
     },
     {
-      "basename": "Phillipa \"Grummy\" Caitling",
-      "path": "Logs/Phillipa \"Grummy\" Caitling.md"
-    },
-    {
-      "basename": "[[Phillipa \"Grummy\" Caitling",
-      "path": "[[Phillipa \"Grummy\" Caitling.md"
-    },
-    {
-      "basename": "2025-11(Nov)-03",
-      "path": "Logs/Daily/2025-11(Nov)-03.md"
-    },
-    {
-      "basename": "Daily Contacts Log Template",
-      "path": "Templates/Daily Contacts Log Template.md"
+      "basename": "Daily Work Log Template",
+      "path": "Templates/Daily Work Log Template.md"
     },
     {
       "basename": "Contact Attempt--{{date}}",
@@ -37,24 +41,84 @@
       "path": "Templates/Contacts Template.md"
     },
     {
-      "basename": "11(Nov)-03-2025-WorkLog",
-      "path": "Logs/11(Nov)-03-2025-WorkLog.md"
+      "basename": "Daily Personal Log Template",
+      "path": "Templates/Daily Personal Log Template.md"
     },
     {
-      "basename": "11(Nov)-04-2025-WorkLog",
-      "path": "Logs/11(Nov)-04-2025-WorkLog.md"
+      "basename": "JS-Basic Operators",
+      "path": "JavaScript/JS-Basic Operators.md"
+    },
+    {
+      "basename": "Phillipa \"Grummy\" Caitling",
+      "path": "Logs/Contacts(people+orgs)/Phillipa \"Grummy\" Caitling.md"
+    },
+    {
+      "basename": "2025-11(Nov)-04-Grummy-1914-Phone-Contact Success",
+      "path": "Logs/Daily/2025/2025-11(Nov)-04-Grummy-1914-Phone-Contact Success.md"
+    },
+    {
+      "basename": "Markdown Cheatsheet",
+      "path": "Markdown Cheatsheet.md"
+    },
+    {
+      "basename": "Event Template",
+      "path": "Unorganized Notes/Event Template.md"
+    },
+    {
+      "basename": "Monthly Note Template",
+      "path": "Templates/Monthly Note Template.md"
+    },
+    {
+      "basename": "Monthly Work Log Summary Template",
+      "path": "Templates/Monthly Work Log Summary Template.md"
+    },
+    {
+      "basename": "Monthly Personal Log Summary Template",
+      "path": "Templates/Monthly Personal Log Summary Template.md"
+    },
+    {
+      "basename": "File Split Template",
+      "path": "Templates/File Split Template.md"
+    },
+    {
+      "basename": "Annual Note Template",
+      "path": "Templates/Annual Note Template.md"
+    },
+    {
+      "basename": "2025-11(Nov)-03",
+      "path": "Logs/Daily/2025/2025-11(Nov)-03.md"
+    },
+    {
+      "basename": "2025-11(Nov)-03-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-03-WorkLog.md"
+    },
+    {
+      "basename": "Personal Log",
+      "path": "Logs/Personal Log.md"
+    },
+    {
+      "basename": "JS-Conditional Functions",
+      "path": "JavaScript/JS-Conditional Functions.md"
     },
     {
       "basename": "Work Log",
       "path": "Logs/Work Log.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Table of Contents",
       "path": "Table of Contents.md"
     },
     {
+      "basename": "JS-JavaScript MOC",
+      "path": "JavaScript/JS-JavaScript MOC.md"
+    },
+    {
       "basename": "JS-Function Names",
-      "path": "JS-Function Names.md"
+      "path": "Unorganized Notes/JS-Function Names.md"
     },
     {
       "basename": "JS-Function Basics",
@@ -63,10 +127,6 @@
     {
       "basename": "JS-Logical Operators",
       "path": "JavaScript/JS-Logical Operators.md"
-    },
-    {
-      "basename": "JS-Conditional Functions",
-      "path": "JavaScript/JS-Conditional Functions.md"
     },
     {
       "basename": "CSS",
@@ -93,22 +153,6 @@
       "path": "Unorganized Notes/Pseudocode.md"
     },
     {
-      "basename": "JS-Functions MOC",
-      "path": "JavaScript/JS-Functions MOC.md"
-    },
-    {
-      "basename": "Daily Work Log Template",
-      "path": "Templates/Daily Work Log Template.md"
-    },
-    {
-      "basename": "Personal Log",
-      "path": "Logs/Personal Log.md"
-    },
-    {
-      "basename": "2025-11(Nov)-05-Phone-1900-Grummy-Contact Success",
-      "path": "Logs/2025-11(Nov)-05-Phone-1900-Grummy-Contact Success.md"
-    },
-    {
       "basename": "JS-Template Literals",
       "path": "JavaScript/JS-Template Literals.md"
     },
@@ -119,14 +163,6 @@
     {
       "basename": "JS-Variables MOC",
       "path": "JavaScript/JS-Variables MOC.md"
-    },
-    {
-      "basename": "Daily Template",
-      "path": "Templates/Daily Template.md"
-    },
-    {
-      "basename": "Monthly Note Template",
-      "path": "Templates/Monthly Note Template.md"
     },
     {
       "basename": "JS-Number Constructors",
@@ -147,50 +183,6 @@
     {
       "basename": "JS-Variable Names",
       "path": "JavaScript/JS-Variable Names.md"
-    },
-    {
-      "basename": "JS-Logical Assignment Operators",
-      "path": "JavaScript/JS-Logical Assignment Operators.md"
-    },
-    {
-      "basename": "JS-Comparison Operators",
-      "path": "JavaScript/JS-Comparison Operators.md"
-    },
-    {
-      "basename": "JS-Modify&Assign Operators",
-      "path": "JavaScript/JS-Modify&Assign Operators.md"
-    },
-    {
-      "basename": "JS-Basic Operators",
-      "path": "JavaScript/JS-Basic Operators.md"
-    },
-    {
-      "basename": "JS-Variable Declarations",
-      "path": "JavaScript/JS-Variable Declarations.md"
-    },
-    {
-      "basename": "JS-String Methods",
-      "path": "JavaScript/JS-String Methods.md"
-    },
-    {
-      "basename": "JS-Numbers",
-      "path": "JavaScript/JS-Numbers.md"
-    },
-    {
-      "basename": "JS-Number Methods",
-      "path": "JavaScript/JS-Number Methods.md"
-    },
-    {
-      "basename": "JS-Declaring Strings",
-      "path": "JavaScript/JS-Declaring Strings.md"
-    },
-    {
-      "basename": "File Split Template",
-      "path": "Templates/File Split Template.md"
-    },
-    {
-      "basename": "Style Test",
-      "path": "Templates/Style Test.md"
     }
   ],
   "omittedPaths": [

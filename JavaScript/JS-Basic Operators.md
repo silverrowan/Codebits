@@ -34,20 +34,19 @@ JavaScript will attempt to convert strings to numbers in numeric operations **WI
         - The difference only matters if we SEE or USE the RETURNED VALUE. Prefix form returns the NEW value; postfix returns the OLD value
 - ++ increment up (var++ shows before increase, then increments. ++var increments then shows/assigns/etc variable )
 - -- decrement
-```js
-				eg. let counter = 1;
-					let a = ++counter;
-					alert(a); // alert shows 2
-				  BUT //replace last two lines as below
-					let a = counter++;
-					alert(a); //alert would show 1!
+```js title:eg.
+let counter = 1;
+let a = ++counter;
+alert(a); // alert shows 2
+        BUT //replace last two lines as below
+let a = counter++;
+alert(a); //alert would show 1!
 
-					let counter = 1;
-			  (*)   alert ( counter++ ) // alert shows 1, and value of counter has increased to 2
-								//BUT if (*) line replaced as below....
-					counter++;
-					alert( counter ); //SHOWS 2! its a different line, we're not actually using
-									  //the ++ returned value like we are for prev example
+let counter = 1;
+(*)   alert ( counter++ ) // alert shows 1, and value of counter has increased to 2
+        BUT // if (*) line replaced as below....
+counter++;
+alert( counter ); //SHOWS 2! its a different line, we're not actually using the ++ returned value like we are for prev example
 ```
 ### Adding Numbers and Strings
 ==**WARNING:**== JavaScript uses "+" for BOTH addition AND concatenation!
@@ -72,9 +71,4 @@ let result = x + y + z;
 ```
 
 *******
-Related:
-[[JS-Modify&Assign Operators]]
-[[JS-Logical Operators]]
-[[JS-Logical Assignment Operators]]
-[[JS-Comparison Operators]]
-[[JS-Bitwise Operators]]
+Related:: [[JS-Modify&Assign Operators]], [[JS-Logical Operators]], [[JS-Logical Assignment Operators]], [[JS-Comparison Operators]], [[JS-Bitwise Operators]]

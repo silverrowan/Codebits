@@ -6,15 +6,14 @@
       {
         "id": "adc02dca5773ef63",
         "type": "tabs",
-        "dimension": 54.53367875647669,
         "children": [
           {
-            "id": "6e5fd778d23c092d",
+            "id": "89c405353a812fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JS-Conditional Functions.md",
+                "file": "JavaScript/JS-Functions MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,130 +28,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JS-Conditional Functions"
+              "title": "JS-Functions MOC"
             }
           }
         ]
       },
       {
-        "id": "41eeba39b5bc30da",
-        "type": "split",
-        "dimension": 45.46632124352332,
+        "id": "7e1655d152c0063a",
+        "type": "tabs",
         "children": [
           {
-            "id": "220d2e2fb85033af",
-            "type": "tabs",
-            "dimension": 66.92667706708268,
-            "children": [
-              {
-                "id": "329e43092612f469",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "JavaScript/JS-JavaScript MOC.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "JS-JavaScript MOC"
+            "id": "f1f8534e23692df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "39e650bbc08f8174",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logs/Daily/2025-11(Nov)-04.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-11(Nov)-04"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "36ec25c96b21cef5",
-            "type": "tabs",
-            "dimension": 33.073322932917314,
-            "children": [
-              {
-                "id": "ddfc23e78c4ba0a4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logs/11(Nov)-04-2025-WorkLog.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "11(Nov)-04-2025-WorkLog"
-                }
-              },
-              {
-                "id": "00a88f6236887202",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "11(Nov)-04-2025-Contact.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "11(Nov)-04-2025-Contact"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "2025-11(Nov)-04-WorkLog"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 448.5
   },
   "right": {
     "id": "4c7c29157a648307",
@@ -228,7 +137,7 @@
       {
         "id": "a0c72be8f242f7b8",
         "type": "tabs",
-        "dimension": 25.995316159250585,
+        "dimension": 25.99531615925058,
         "children": [
           {
             "id": "488a17f644a690db",
@@ -253,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/Daily/2025-11(Nov)-04.md",
+                "file": "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11(Nov)-04"
+              "title": "Outline of 2025-11(Nov)-04-WorkLog"
             }
           },
           {
@@ -333,49 +242,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "periodic-notes:Open today": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "39e650bbc08f8174",
+  "active": "f1f8534e23692df9",
   "lastOpenFiles": [
-    "11(Nov)-04-2025-Contact.md",
-    "Logs/Daily/2025-11(Nov)-04.md",
-    "JavaScript/JS-JavaScript MOC.md",
-    "Logs/Phillipa \"Grummy\" Caitling.md",
-    "[[Phillipa \"Grummy\" Caitling.md",
-    "Logs/Daily/2025-11(Nov)-03.md",
+    "JavaScript/JS-Functions MOC.md",
+    "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-05.md",
+    "Templates/Daily Template.md",
+    "Logs/Daily/2025/2025-11(Nov)-04.md",
+    "Logs/Daily/2025/2025-11(Nov)-05-Grummy-1653-Phone-Contact Success.md",
+    "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md",
+    "Templates/Daily Work Log Template.md",
+    "Logs/Daily/2025/2025-11(Nov)-04-ContactLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-05-ContactLog.md",
     "Templates/Daily Contacts Log Template.md",
     "Templates/Contact Attempt--{{date}}.md",
     "Templates/Contacts Template.md",
-    "Logs/11(Nov)-03-2025-WorkLog.md",
-    "Logs/11(Nov)-04-2025-WorkLog.md",
-    "Logs/Work Log.md",
-    "Table of Contents.md",
-    "JS-Function Names.md",
-    "JavaScript/JS-Function Basics.md",
-    "JavaScript/JS-Logical Operators.md",
-    "JavaScript/JS-Conditional Functions.md",
-    "Unorganized Notes/CSS.md",
-    "Unorganized Notes/DOM Manipulation.md",
-    "Unorganized Notes/Objects.md",
-    "Unorganized Notes/Loops & Arrays.md",
-    "Unorganized Notes/flexbox.md",
-    "Unorganized Notes/Pseudocode.md",
-    "CodeBits/html boilerplate.md",
+    "Templates/Daily Personal Log Template.md",
+    "JavaScript/JS-Basic Operators.md",
+    "Logs/Contacts(people+orgs)/Phillipa \"Grummy\" Caitling.md",
+    "Logs/Daily/2025/2025-11(Nov)-04-Grummy-1914-Phone-Contact Success.md",
+    "Markdown Cheatsheet.md",
+    "Unorganized Notes/Event Template.md",
+    "Templates/Monthly Note Template.md",
+    "Templates/Style Test.md",
+    "Templates/Monthly Work Log Summary Template.md",
+    "Templates/Monthly Personal Log Summary Template.md",
+    "Templates/File Split Template.md",
+    "Templates/Annual Note Template.md",
+    "Unorganized Notes/Untitled 1.md",
+    "Logs/Monthly/2025",
+    "Logs/Monthly/ 2025",
+    "Logs/Daily/2025",
+    "embeded backlink w",
+    "Logs/Events",
+    "Logs/Contacts(people+orgs)",
     "CodeBits/html Boilerplate/index.html",
     "CodeBits/html Boilerplate",
     "Working files/html Boilerplate",
-    "Working files/html Boilerplate/index.html",
-    "Working files/workingHTML.html",
-    "Working files",
-    "CodeBits",
-    "JavaScript/JS-Functions MOC.md",
-    "Templates/Daily Work Log Template.md",
-    "attachments",
-    "Logs/Annual",
-    "Logs/Weekly"
+    "Working files/html Boilerplate/index.html"
   ]
 }
