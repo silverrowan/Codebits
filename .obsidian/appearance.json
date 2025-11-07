@@ -4,7 +4,11 @@
     "headerSize",
     "Embed Adjustments",
     "indentHeadings",
-    "Indent headings"
+    "Indent headings",
+    "headerUnderline",
+    "textFormattingColorsStyle",
+    "uniqueBulletsByTabLevel",
+    "headerSizeColor"
   ],
   "accentColor": ""
 }

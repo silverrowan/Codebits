@@ -1,9 +1,10 @@
 *********************************
 ## 8 Basic Types
-A value is always of a certain type
-there are 8 basic data Types
-a variable can hold any data type
-	the type of data a variable holds can be changed
+- A [[Value]] is always of a certain type
+- A data type is *how* you hold the data in memory, vs a value which is the data held.
+- there are 8 basic data Types
+- a variable can hold any data type
+    - the type of data a variable holds can be changed
 		programming langs that allow this are called "dynamically typed"
 		(meaning data types exist, but variables are not bount to any of them)
 ### Number

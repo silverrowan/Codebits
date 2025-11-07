@@ -4,4 +4,5 @@
     - wide practice to start a function with a verbal pre-fix that vaguely describes the action.
         - there needs to be agreement on the meaning of these prefixes w/in a team
         - examples: get... show... calc... create... check... etc.
-A function should do EXACTLY what its name suggests, and NO MORE.
+- A function should do EXACTLY what its name suggests, and NO MORE.
+    - (and remember that a function should only do one thing...)

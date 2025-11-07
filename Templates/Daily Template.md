@@ -1,7 +1,7 @@
 # [[{{date: MMMM}}]] {{date: DD}}, {{date: YYYY}}
 *******
 ## To Do
- - 
+ - [ ] 
 ## Logs
 #### Work
 [[Logs/Daily/{{date:YYYY}}/{{date: YYYY-MM(MMM)-DD}}-WorkLog]]

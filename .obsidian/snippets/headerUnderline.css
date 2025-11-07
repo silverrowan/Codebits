@@ -1,0 +1,29 @@
+/* Colored Headings and Formatting */
+
+
+/* divider line on H1, H2, H3 */
+.HyperMD-header-1::after, h1,
+.HyperMD-header-2::after, h2,
+.HyperMD-header-3::after, h3 {
+    display: block;
+    content: "";
+    padding-bottom: 2px;  
+}
+
+.HyperMD-header-1::after, h1 {
+    border-bottom: 3px double #8A5CF5;
+}
+
+.HyperMD-header-2::after, h2 {
+    border-bottom: 2px solid #6c43cb;
+}
+.HyperMD-header-3::after, h3 {
+    border-bottom: 1px solid #512da4;
+}
+
+
+/* Add line below note title */
+.inline-title {
+    padding-bottom: 2px;
+    border-bottom: 3px double #8A5CF5;
+}

@@ -1,7 +1,7 @@
 /* Indent headings v0.3.0
    github.com/zamsyt */
 :root:root .cm-content > div, .markdown-preview-view > * > div {
-  margin-left: calc(max(0, var(--heading-level) - 1) * 20px) !important; }
+  margin-left: calc(max(0, var(--heading-level) - 2) * 30px) !important; }
 
 .markdown-embed-content {
   --heading-level: 0; }

@@ -32,19 +32,68 @@
         //     : (login == '') ? 'No login' 
         //     : ''
 
-        function draw () {
-            ctx.clearRect(0, 0, WIDTH, HEIGHT);
-            for (let i = 0; i < 100; i++) {
-                ctx.beginPath();
-                ctx.fillStyle = "rgb(255 0 0 / 50%)";
-                ctx.arc(random(WIDTH), random(HEIGHT), random(50), 0, 2 * Math.PI);
-                ctx.fill();
-            }
-        }
+        // function draw () {
+        //     ctx.clearRect(0, 0, WIDTH, HEIGHT);
+        //     for (let i = 0; i < 100; i++) {
+        //         ctx.beginPath();
+        //         ctx.fillStyle = "rgb(255 0 0 / 50%)";
+        //         ctx.arc(random(WIDTH), random(HEIGHT), random(50), 0, 2 * Math.PI);
+        //         ctx.fill();
+        //     }
+        // }
 
-        draw();
+        // draw();
+
+        // function checkAge(age) {
+        //     return (age > 18) ? true : confirm(...);
+        // }
+
+        // function checkAge(age) {
+        //     return age > 18 || confirm...
+        // }
+
+        // function min(a, b) {
+        //     return (a > b) ? b : a;           
+        // }
+
+        // function pow(x,n) {
+        //     //do once covered loops!
+        //     //https://javascript.info/function-basics
+        // }
+
+    //     (question, yes, no) => {
+    //         if ....
+    //     }
+    // ask(
+    //     "Do you agree?"
+    //     ? () => {alert("you agreed")}  
+    //     : () => {alert("you canceled")}
+    // )
+    
+    function add7(n) {
+        return +n + 7;
+    }
 
 
+    function multiply(a, b) {
+        return a * b
+    }
+
+    function capitalize(string) {
+        return string.slice(0,1).toUpperCase() + string.slice(1).toLowerCase();
+    }
+
+    function lastLetter(string) {
+        return string.slice(-1);
+    }
+
+    console.log( add7(10) );
+    console.log( multiply(3, 2));
+    console.log( capitalize( "abcd" ));
+    console.log( capitalize( "ABCD" ));
+    console.log( capitalize( "aBcD" ));
+    console.log( lastLetter( "abcd" ));  
+    
     </script>
 </body>
 </html>

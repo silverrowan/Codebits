@@ -1,0 +1,28 @@
+/* Formatting colors */
+/*
+  --h1-color: #8A5CF5;
+  --h2-color: #6c43cb;
+  --h3-color: #512da4;
+  --h4-color: #381980;
+  --h5-color: #270e62;
+  --h6-color: black;
+*/
+body {
+  --bold-color: #8356EB; 
+  --italic-color: #8356EB; /* old light purple: #8A5CF5 */
+  --text-highlight-bg: lightgoldenrodyellow;
+  --text-highlight-width: 2px;
+}
+
+
+/* Rounded highlights */
+span.cm-highlight, mark {
+	background-color: gold;
+	border: 2px solid gold;
+	-webkit-box-decoration-break: clone;
+	padding-left:   6px;
+	padding-right:  6px;
+	padding-top:    0px;
+	padding-bottom: 0px;
+	border-radius: 10px;
+}

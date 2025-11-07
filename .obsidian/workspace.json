@@ -6,14 +6,15 @@
       {
         "id": "adc02dca5773ef63",
         "type": "tabs",
+        "dimension": 71.11553784860558,
         "children": [
           {
-            "id": "89c405353a812fbf",
+            "id": "1b243eb212ee432a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JS-Functions MOC.md",
+                "file": "Coding/langAgnostic/Thinking like a programmer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,22 +29,48 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JS-Functions MOC"
+              "title": "Thinking like a programmer"
+            }
+          },
+          {
+            "id": "bbb168b78dfe2013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/langAgnostic/Pseudocode.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pseudocode"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7e1655d152c0063a",
         "type": "tabs",
+        "dimension": 28.884462151394423,
         "children": [
           {
-            "id": "f1f8534e23692df9",
+            "id": "b8efe994ee9202a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
+                "file": "Coding/langAgnostic/Coding Project Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,10 +85,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11(Nov)-04-WorkLog"
+              "title": "Coding Project Ideas"
+            }
+          },
+          {
+            "id": "e40060d3312175fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-11(Nov)-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11(Nov)-09"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +146,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -128,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "right": {
     "id": "4c7c29157a648307",
@@ -137,7 +190,7 @@
       {
         "id": "a0c72be8f242f7b8",
         "type": "tabs",
-        "dimension": 25.99531615925058,
+        "dimension": 25.975039001560063,
         "children": [
           {
             "id": "488a17f644a690db",
@@ -154,7 +207,7 @@
       {
         "id": "2274fe50e69900c2",
         "type": "tabs",
-        "dimension": 53.942232630757225,
+        "dimension": 33.77535101404056,
         "children": [
           {
             "id": "83665d2b37023a0a",
@@ -162,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
+                "file": "Logs/Daily/2025/2025-11(Nov)-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11(Nov)-04-WorkLog"
+              "title": "Outline of 2025-11(Nov)-09"
             }
           },
           {
@@ -203,13 +256,23 @@
               "icon": "links-coming-in",
               "title": "Backlinks for 2025-11(Nov)-04"
             }
+          },
+          {
+            "id": "e147ca288e72f782",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ]
       },
       {
         "id": "e33ea1a7dd327983",
         "type": "tabs",
-        "dimension": 20.062451209992194,
+        "dimension": 40.24960998439938,
         "children": [
           {
             "id": "c9fad514ceab83f0",
@@ -230,7 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,37 +307,40 @@
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1f8534e23692df9",
+  "active": "e40060d3312175fc",
   "lastOpenFiles": [
-    "JavaScript/JS-Functions MOC.md",
-    "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-05.md",
-    "Templates/Daily Template.md",
-    "Logs/Daily/2025/2025-11(Nov)-04.md",
-    "Logs/Daily/2025/2025-11(Nov)-05-Grummy-1653-Phone-Contact Success.md",
-    "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md",
-    "Templates/Daily Work Log Template.md",
-    "Logs/Daily/2025/2025-11(Nov)-04-ContactLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-05-ContactLog.md",
-    "Templates/Daily Contacts Log Template.md",
-    "Templates/Contact Attempt--{{date}}.md",
-    "Templates/Contacts Template.md",
+    "Logs/Daily/2025/2025-11(Nov)-06.md",
+    "Logs/Daily/2025/2025-11(Nov)-06-WorkLog.md",
+    "Coding/langAgnostic/Pseudocode.md",
+    "Coding/langAgnostic/Thinking like a programmer.md",
+    "Coding/langAgnostic/Problem Solving.md",
+    "Unorganized Notes/Errors.md",
+    "Unorganized Notes/Learning pathways.md",
+    "Coding/langAgnostic/Coding Project Ideas.md",
+    "Coding/JavaScript/Callback Functions.md",
+    "Unorganized Notes/Callback Functions.md",
+    "Coding/JavaScript/Arrow Functions.md",
     "Templates/Daily Personal Log Template.md",
-    "JavaScript/JS-Basic Operators.md",
-    "Logs/Contacts(people+orgs)/Phillipa \"Grummy\" Caitling.md",
-    "Logs/Daily/2025/2025-11(Nov)-04-Grummy-1914-Phone-Contact Success.md",
-    "Markdown Cheatsheet.md",
-    "Unorganized Notes/Event Template.md",
-    "Templates/Monthly Note Template.md",
-    "Templates/Style Test.md",
-    "Templates/Monthly Work Log Summary Template.md",
-    "Templates/Monthly Personal Log Summary Template.md",
-    "Templates/File Split Template.md",
-    "Templates/Annual Note Template.md",
-    "Unorganized Notes/Untitled 1.md",
+    "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-05.md",
+    "Logs/Daily/2025/2025-11(Nov)-09.md",
+    "Unorganized Notes/Function Declaration.md",
+    "Templates/Daily Work Log Template.md",
+    "Templates/Daily Template.md",
+    "Coding/JavaScript/Calling Functions.md",
+    "Logs/Daily/2025/2025-11(Nov)-05-PersonalLog.md",
+    "Unorganized Notes/The Call Stack.md",
+    "Coding/langAgnostic",
+    "Coding",
+    "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-04.md",
+    "Logs/Daily/2025/2025-11(Nov)-03-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-03.md",
+    "Coding/JavaScript/JS-Function Basics.md",
     "Logs/Monthly/2025",
     "Logs/Monthly/ 2025",
     "Logs/Daily/2025",
@@ -282,8 +348,6 @@
     "Logs/Events",
     "Logs/Contacts(people+orgs)",
     "CodeBits/html Boilerplate/index.html",
-    "CodeBits/html Boilerplate",
-    "Working files/html Boilerplate",
-    "Working files/html Boilerplate/index.html"
+    "CodeBits/html Boilerplate"
   ]
 }

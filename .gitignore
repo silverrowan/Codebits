@@ -1,0 +1,12 @@
+#ignore files ending in a ~ (oft used to mark temp files
+*~
+
+#ignore all files in any directory named .trash
+.trash/
+
+#ignore all files in any directory containing Contacts and thier subdirectories
+Contacts*/**/*
+
+#ignore all files with "PersonalLog" or "Contact" in the name
+*Contact*.*
+*PersonalLog*.*
