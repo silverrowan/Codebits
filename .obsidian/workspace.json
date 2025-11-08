@@ -6,7 +6,7 @@
       {
         "id": "adc02dca5773ef63",
         "type": "tabs",
-        "dimension": 71.11553784860558,
+        "dimension": 42.13147410358566,
         "children": [
           {
             "id": "1b243eb212ee432a",
@@ -62,7 +62,7 @@
       {
         "id": "7e1655d152c0063a",
         "type": "tabs",
-        "dimension": 28.884462151394423,
+        "dimension": 57.86852589641435,
         "children": [
           {
             "id": "b8efe994ee9202a0",
@@ -92,24 +92,14 @@
             "id": "e40060d3312175fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Logs/Daily/2025/2025-11(Nov)-06.md",
+                "bFile": "Logs/Daily/2025/2025-11(Nov)-06.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-11(Nov)-09"
+              "icon": "diff",
+              "title": "Diff: 2025-11(Nov)-06"
             }
           }
         ],
@@ -145,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#JavaScript",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "right": {
     "id": "4c7c29157a648307",
@@ -215,13 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11(Nov)-09"
+              "title": "Outline"
             }
           },
           {
@@ -267,7 +255,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e33ea1a7dd327983",
@@ -293,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,17 +291,21 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e40060d3312175fc",
   "lastOpenFiles": [
+    "Logs/Daily/2025/2025-11(Nov)-07.md",
+    "Logs/Daily/2025/2025-11(Nov)-05.md",
+    "Logs/Daily/2025/2025-11(Nov)-04.md",
+    "Logs/Daily/2025/2025-11(Nov)-03.md",
+    "Logs/Daily/2025/2025-11(Nov)-09.md",
     "Logs/Daily/2025/2025-11(Nov)-06.md",
     "Logs/Daily/2025/2025-11(Nov)-06-WorkLog.md",
     "Coding/langAgnostic/Pseudocode.md",
@@ -326,8 +319,6 @@
     "Coding/JavaScript/Arrow Functions.md",
     "Templates/Daily Personal Log Template.md",
     "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-05.md",
-    "Logs/Daily/2025/2025-11(Nov)-09.md",
     "Unorganized Notes/Function Declaration.md",
     "Templates/Daily Work Log Template.md",
     "Templates/Daily Template.md",
@@ -337,10 +328,7 @@
     "Coding/langAgnostic",
     "Coding",
     "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-04.md",
     "Logs/Daily/2025/2025-11(Nov)-03-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-03.md",
-    "Coding/JavaScript/JS-Function Basics.md",
     "Logs/Monthly/2025",
     "Logs/Monthly/ 2025",
     "Logs/Daily/2025",

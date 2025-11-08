@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11(Nov)-07",
+      "path": "Logs/Daily/2025/2025-11(Nov)-07.md"
+    },
+    {
+      "basename": "2025-11(Nov)-05",
+      "path": "Logs/Daily/2025/2025-11(Nov)-05.md"
+    },
+    {
+      "basename": "2025-11(Nov)-04",
+      "path": "Logs/Daily/2025/2025-11(Nov)-04.md"
+    },
+    {
+      "basename": "2025-11(Nov)-03",
+      "path": "Logs/Daily/2025/2025-11(Nov)-03.md"
+    },
+    {
       "basename": "2025-11(Nov)-09",
       "path": "Logs/Daily/2025/2025-11(Nov)-09.md"
     },
@@ -57,10 +73,6 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md"
     },
     {
-      "basename": "2025-11(Nov)-05",
-      "path": "Logs/Daily/2025/2025-11(Nov)-05.md"
-    },
-    {
       "basename": "Function Declaration",
       "path": "Unorganized Notes/Function Declaration.md"
     },
@@ -89,16 +101,8 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md"
     },
     {
-      "basename": "2025-11(Nov)-04",
-      "path": "Logs/Daily/2025/2025-11(Nov)-04.md"
-    },
-    {
       "basename": "2025-11(Nov)-03-WorkLog",
       "path": "Logs/Daily/2025/2025-11(Nov)-03-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-03",
-      "path": "Logs/Daily/2025/2025-11(Nov)-03.md"
     },
     {
       "basename": "JS-Function Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "Event Template",
       "path": "Unorganized Notes/Event Template.md"
-    },
-    {
-      "basename": "Monthly Note Template",
-      "path": "Templates/Monthly Note Template.md"
     }
   ],
   "omittedPaths": [
