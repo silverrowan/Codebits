@@ -1,11 +1,15 @@
-**************************************
+---
+tags:
+  - JavaScript
+  - function
+---
 ## Functions
 - a function is a (often named) reusable block of code.
     - Declared functions always need a name. Expressed functions can have a name but do not need to.
     - unnamed functions are called anonymous functions // eg. function () {...} ==NOTE: elsewhere describes them as not being stored OR named. clarify which is correct==
 - There are [[4 Types of Functions]] in JavaScript!
     - not relevant (yet?)
-- there are some general conventions around [[JS-Function Names|naming functions]].
+- there are some general conventions around [[Function Names|naming functions]].
 - **even if** usually called together, two independent actions usually deserve two functions separate functions.
     - we can use a third function that calls the two individual ones.
 - There are multiple ways to define a function
@@ -20,7 +24,7 @@
 ## Parameter
 Parameters are the items listed between the function brackets.
 Parameters are a placeholder for data that will be passed into the function.
-    in the example, 'animal' is the parameter
+    in the example, 'animal' is the #parameter
 Not all functions have parameters declared, and some have parameters that are optional. (In which case have a default value set)
 ### Create Optional Parameters
 To create a function with optional parameters, specify a default value with `=`
@@ -54,10 +58,10 @@ function functionName(param) {
     /function code;
 }
 ```
-- Modern JavaScript engines support the [[JS-Logical Operators#^60b689 | nullish coalescing operator ??]]
+- Modern JavaScript engines support the [[Logical Operators#^60b689| nullish coalescing operator ??]]
 ## Arguments
 The [[Value|values]] that are passed into the function
-in example, `goat` is the argument (in the parameter section, `cat` is the default argument)
+in example, `goat` is the #argument (in the parameter section, `cat` is the default argument)
 ## Function vs Method
 a Method is a function that is part of an Object.
 

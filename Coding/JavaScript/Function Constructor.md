@@ -1,3 +1,10 @@
+---
+tags:
+  - JavaScript
+  - function
+  - FLAWED
+  - global-scope
+---
 ***Seems to be generally poor code*** as it has: security & performance issues, and uses global scope only.
 
 ```js title:"Syntax eg."

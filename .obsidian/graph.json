@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "path:\"Logs\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,23 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file: Template",
+      "query": "path:\"Logs/Contacts(people+orgs)\"  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Logs/Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "file:\"2025\"",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "file:\"2034\"",
+      "color": {
+        "a": 1,
+        "rgb": 1599627
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.83541666666667,
+  "lineSizeMultiplier": 2.60104166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.270833333333333,
+  "repelStrength": 6.5625,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4444444444444444,
+  "linkDistance": 123,
+  "scale": 0.45050811767578125,
   "close": true
 }

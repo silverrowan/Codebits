@@ -1,19 +1,24 @@
+---
+tags:
+  - meta-learning
+---
 lecture: https://www.youtube.com/watch?v=azcrPFhaY9k
 - lots about *teaching* coding
 
 Coding *isnt*:....
 
 - Coding has only ~ 8 main concepts that work almost the same in every language.
-- Learn how to use these concepts in english.
+- Learn how to use these concepts in English.
     - Secret is algorithms and data not code.
     - write out concepts first and THEN convert to code.
-- if stuck, try explainging/break it down (how to do) BEFORE touching the code (how)
+- if stuck, try explaining/break it down (how to do) BEFORE touching the code (how)
 - Comments are there to:
     - explain code to other programmers (lol)
     - and yourself XD
     - NO!
-    - code explains the comments to the computer!
+    - code explains the #comments to the computer!
     - comments *are* code. (at least for beginners)
+    - ==this conflicts with the idea that clean code doesn't explain what the code is doing, but why.==
 
 - new variables (a place in memory to hold data)
 - concept: make a new variable (approx 8 of these)
@@ -81,7 +86,7 @@ Coding *isnt*:....
             - does it think 2 & 3 are text?
             - type function tells us what type a variable is!
             - oh look it is
-        - convert to interger algorithm.
+        - convert to integer algorithm.
             - convert oldVariable to integer and store in intVariable
             - add these lines after user input lines:
                 - convert x to integer
@@ -97,14 +102,14 @@ Coding *isnt*:....
         - print (sum)
 more concepts...
 - Branching
-- For Loops
-    - sentry: integer variable that will control loop
+- #for-loop
+    - #sentry: integer variable that will control loop
     - start: integer value of sentry at beginning
     - finish: integer value of sentry at end
     - change: integer to add to sentry at each pass
     - for algorithm
         - begin with **sentry** at **start** and add **change** to **sentry** on each pass until **sentry** is larger than or equal to **finish**
-- while loop
+- #while-loop
     - sentry: variable that will control loop
     - initialization code: code that initializes sentry
     - condition: loop repeats if condition is true
@@ -134,7 +139,7 @@ more concepts...
         - if they guess correctly just promote the couter to exit
         - no make it an endless loop and throw in some break statements
         - .....
-    - alternative! the 'keep going loop'
+    - alternative! the #keep-going-loop'
         - correct = "IndyPy"
         - tries = 0
     - keepGoing = True
@@ -159,7 +164,7 @@ Other concepts to teach
 - functions, and scope parameters & return
 - objects
 - ...
-The art of teaching is knowing what NOT to teach
+The art of #teaching is knowing what NOT to teach
     learn it and do it before learning something else
     this is NOT a spectator sport
     teaching yourself means you have an amateur teacher

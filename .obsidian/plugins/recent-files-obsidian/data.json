@@ -5,6 +5,158 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-07.md"
     },
     {
+      "basename": "Loops & Arrays",
+      "path": "Coding/JavaScript/Loops & Arrays.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Coding/HTML & CSS/CSS.md"
+    },
+    {
+      "basename": "flexbox",
+      "path": "Coding/HTML & CSS/flexbox.md"
+    },
+    {
+      "basename": "Logical Operators",
+      "path": "Coding/JavaScript/Logical Operators.md"
+    },
+    {
+      "basename": "Function Basics",
+      "path": "Coding/JavaScript/Function Basics.md"
+    },
+    {
+      "basename": "Function Expression",
+      "path": "Coding/JavaScript/Function Expression.md"
+    },
+    {
+      "basename": "Expression VS Declaration",
+      "path": "Coding/JavaScript/Expression VS Declaration.md"
+    },
+    {
+      "basename": "Function Declaration",
+      "path": "Coding/JavaScript/Function Declaration.md"
+    },
+    {
+      "basename": "Function Names",
+      "path": "Coding/JavaScript/Function Names.md"
+    },
+    {
+      "basename": "Value",
+      "path": "Coding/JavaScript/Value.md"
+    },
+    {
+      "basename": "Functions are Values!",
+      "path": "Coding/JavaScript/Functions are Values!.md"
+    },
+    {
+      "basename": "Callback Functions",
+      "path": "Coding/JavaScript/Callback Functions.md"
+    },
+    {
+      "basename": "Calling Functions",
+      "path": "Coding/JavaScript/Calling Functions.md"
+    },
+    {
+      "basename": "Return Values",
+      "path": "Coding/JavaScript/Return Values.md"
+    },
+    {
+      "basename": "Function Constructor",
+      "path": "Coding/JavaScript/Function Constructor.md"
+    },
+    {
+      "basename": "DOM Manipulation",
+      "path": "Coding/JavaScript/DOM Manipulation.md"
+    },
+    {
+      "basename": "Objects",
+      "path": "Coding/JavaScript/Objects.md"
+    },
+    {
+      "basename": "Errors",
+      "path": "Coding/JavaScript/Errors.md"
+    },
+    {
+      "basename": "variable shadowing",
+      "path": "Coding/JavaScript/variable shadowing.md"
+    },
+    {
+      "basename": "Conditional Functions",
+      "path": "Coding/JavaScript/Conditional Functions.md"
+    },
+    {
+      "basename": "JS-Functions MOC",
+      "path": "Coding/JavaScript/JS-Functions MOC.md"
+    },
+    {
+      "basename": "Thinking like a programmer",
+      "path": "Coding/langAgnostic/Thinking like a programmer.md"
+    },
+    {
+      "basename": "Learning roadmaps",
+      "path": "Coding/langAgnostic/Learning roadmaps.md"
+    },
+    {
+      "basename": "Coding Project Ideas",
+      "path": "Coding/langAgnostic/Coding Project Ideas.md"
+    },
+    {
+      "basename": "Problem Solving",
+      "path": "Coding/langAgnostic/Problem Solving.md"
+    },
+    {
+      "basename": "The Call Stack",
+      "path": "Coding/JavaScript/The Call Stack.md"
+    },
+    {
+      "basename": "Function Scope",
+      "path": "Coding/JavaScript/Function Scope.md"
+    },
+    {
+      "basename": "2025-11(Nov)-04-Grummy-1914-Phone-Contact Success",
+      "path": "Logs/Daily/2025/2025-11(Nov)-04-Grummy-1914-Phone-Contact Success.md"
+    },
+    {
+      "basename": "2025-11(Nov)-08",
+      "path": "Logs/Daily/2025/2025-11(Nov)-08.md"
+    },
+    {
+      "basename": "2025-11(Nov)-07-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-07-WorkLog.md"
+    },
+    {
+      "basename": "Table of Contents",
+      "path": "Table of Contents.md"
+    },
+    {
+      "basename": "JS-Modify&Assign Operators",
+      "path": "Coding/JavaScript/JS-Modify&Assign Operators.md"
+    },
+    {
+      "basename": "JS-Basic Operators",
+      "path": "Coding/JavaScript/JS-Basic Operators.md"
+    },
+    {
+      "basename": "Arrow Functions",
+      "path": "Coding/JavaScript/Arrow Functions.md"
+    },
+    {
+      "basename": "Pseudocode",
+      "path": "Coding/langAgnostic/Pseudocode.md"
+    },
+    {
+      "basename": "2025-11(Nov)-06-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-06-WorkLog.md"
+    },
+    {
+      "basename": "2025-11(Nov)-06",
+      "path": "Logs/Daily/2025/2025-11(Nov)-06.md"
+    },
+    {
+      "basename": "2025-11(Nov)-09",
+      "path": "Logs/Daily/2025/2025-11(Nov)-09.md"
+    },
+    {
       "basename": "2025-11(Nov)-05",
       "path": "Logs/Daily/2025/2025-11(Nov)-05.md"
     },
@@ -17,64 +169,12 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-03.md"
     },
     {
-      "basename": "2025-11(Nov)-09",
-      "path": "Logs/Daily/2025/2025-11(Nov)-09.md"
-    },
-    {
-      "basename": "2025-11(Nov)-06",
-      "path": "Logs/Daily/2025/2025-11(Nov)-06.md"
-    },
-    {
-      "basename": "2025-11(Nov)-06-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-06-WorkLog.md"
-    },
-    {
-      "basename": "Pseudocode",
-      "path": "Coding/langAgnostic/Pseudocode.md"
-    },
-    {
-      "basename": "Thinking like a programmer",
-      "path": "Coding/langAgnostic/Thinking like a programmer.md"
-    },
-    {
-      "basename": "Problem Solving",
-      "path": "Coding/langAgnostic/Problem Solving.md"
-    },
-    {
-      "basename": "Errors",
-      "path": "Unorganized Notes/Errors.md"
-    },
-    {
-      "basename": "Learning pathways",
-      "path": "Unorganized Notes/Learning pathways.md"
-    },
-    {
-      "basename": "Coding Project Ideas",
-      "path": "Coding/langAgnostic/Coding Project Ideas.md"
-    },
-    {
-      "basename": "Callback Functions",
-      "path": "Coding/JavaScript/Callback Functions.md"
-    },
-    {
-      "basename": "Callback Functions",
-      "path": "Unorganized Notes/Callback Functions.md"
-    },
-    {
-      "basename": "Arrow Functions",
-      "path": "Coding/JavaScript/Arrow Functions.md"
-    },
-    {
       "basename": "Daily Personal Log Template",
       "path": "Templates/Daily Personal Log Template.md"
     },
     {
       "basename": "2025-11(Nov)-05-WorkLog",
       "path": "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md"
-    },
-    {
-      "basename": "Function Declaration",
-      "path": "Unorganized Notes/Function Declaration.md"
     },
     {
       "basename": "Daily Work Log Template",
@@ -85,16 +185,8 @@
       "path": "Templates/Daily Template.md"
     },
     {
-      "basename": "Calling Functions",
-      "path": "Coding/JavaScript/Calling Functions.md"
-    },
-    {
       "basename": "2025-11(Nov)-05-PersonalLog",
       "path": "Logs/Daily/2025/2025-11(Nov)-05-PersonalLog.md"
-    },
-    {
-      "basename": "The Call Stack",
-      "path": "Unorganized Notes/The Call Stack.md"
     },
     {
       "basename": "2025-11(Nov)-04-WorkLog",
@@ -103,102 +195,6 @@
     {
       "basename": "2025-11(Nov)-03-WorkLog",
       "path": "Logs/Daily/2025/2025-11(Nov)-03-WorkLog.md"
-    },
-    {
-      "basename": "JS-Function Basics",
-      "path": "Coding/JavaScript/JS-Function Basics.md"
-    },
-    {
-      "basename": "Expression VS Declaration",
-      "path": "Unorganized Notes/Expression VS Declaration.md"
-    },
-    {
-      "basename": "JS-Function Names",
-      "path": "Unorganized Notes/JS-Function Names.md"
-    },
-    {
-      "basename": "Function Expression",
-      "path": "Unorganized Notes/Function Expression.md"
-    },
-    {
-      "basename": "Functions are Values!",
-      "path": "Unorganized Notes/Functions are Values!.md"
-    },
-    {
-      "basename": "Function Scope",
-      "path": "Unorganized Notes/Function Scope.md"
-    },
-    {
-      "basename": "Function Constructor",
-      "path": "Unorganized Notes/Function Constructor.md"
-    },
-    {
-      "basename": "JS-JavaScript MOC",
-      "path": "Coding/JavaScript/JS-JavaScript MOC.md"
-    },
-    {
-      "basename": "JS-Conditional Functions",
-      "path": "Coding/JavaScript/JS-Conditional Functions.md"
-    },
-    {
-      "basename": "Return Values",
-      "path": "Unorganized Notes/Return Values.md"
-    },
-    {
-      "basename": "Scope",
-      "path": "Unorganized Notes/Scope.md"
-    },
-    {
-      "basename": "Value",
-      "path": "Unorganized Notes/Value.md"
-    },
-    {
-      "basename": "JS-Data Types",
-      "path": "Coding/JavaScript/JS-Data Types.md"
-    },
-    {
-      "basename": "JS-typeof operator",
-      "path": "Coding/JavaScript/JS-typeof operator.md"
-    },
-    {
-      "basename": "JS-Functions MOC",
-      "path": "Coding/JavaScript/JS-Functions MOC.md"
-    },
-    {
-      "basename": "variable shadowing",
-      "path": "Unorganized Notes/variable shadowing.md"
-    },
-    {
-      "basename": "Markdown Cheatsheet",
-      "path": "Markdown Cheatsheet.md"
-    },
-    {
-      "basename": "Contacts Template",
-      "path": "Templates/Contacts Template.md"
-    },
-    {
-      "basename": "JS-Basic Operators",
-      "path": "Coding/JavaScript/JS-Basic Operators.md"
-    },
-    {
-      "basename": "2025-11(Nov)-05-Grummy-1653-Phone-Contact Success",
-      "path": "Logs/Daily/2025/2025-11(Nov)-05-Grummy-1653-Phone-Contact Success.md"
-    },
-    {
-      "basename": "Contact Attempt--{{date}}",
-      "path": "Templates/Contact Attempt--{{date}}.md"
-    },
-    {
-      "basename": "Phillipa \"Grummy\" Caitling",
-      "path": "Logs/Contacts(people+orgs)/Phillipa \"Grummy\" Caitling.md"
-    },
-    {
-      "basename": "2025-11(Nov)-04-Grummy-1914-Phone-Contact Success",
-      "path": "Logs/Daily/2025/2025-11(Nov)-04-Grummy-1914-Phone-Contact Success.md"
-    },
-    {
-      "basename": "Event Template",
-      "path": "Unorganized Notes/Event Template.md"
     }
   ],
   "omittedPaths": [

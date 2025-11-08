@@ -1,6 +1,12 @@
+---
+tags:
+  - JavaScript
+  - function
+  - value
+---
 ## Functions are Values!
 - Functions are [[Value|values]]! Regardless how created.
-    - functions are a special kind of object. %% [[JS-typeof operator |typeof( )]] returns 'function' for functions, but that's not a data type. %%
+    - functions are a special kind of #object. %% [[JS-typeof operator |typeof( )]] returns 'function' for functions, but that's not a data type. %%
     - this means they can be manipulated like any other value!
 ```js title:"copy function to new variable"
 function sayHi() { // (1) create

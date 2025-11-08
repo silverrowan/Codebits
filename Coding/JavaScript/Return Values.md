@@ -1,6 +1,7 @@
 ---
 tags:
   - function
+  - JavaScript
 ---
 
 ## Return Values

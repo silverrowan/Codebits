@@ -1,3 +1,9 @@
+---
+tags:
+  - JavaScript
+  - conditional
+  - function
+---
 ***************************************
 ## if...else
 ```js
@@ -67,7 +73,7 @@ switch (expression) {
 ## Ternary Operator
 also called conditional/question mark Operator ( '?' )
 	(the only operator in Javascript with 3 operands!)
-used to test a condition and return one value if true, or another if false
+used to #test a condition and return one value if true, or another if false
 	takes less space than if...else
 	best used when relatively simple
 		Best for setting variable values, but can also run functions, or any other line of code.

@@ -1,3 +1,7 @@
+---
+tags:
+  - meta-learning
+---
 https://github.com/practical-tutorials/project-based-learning
     https://github.com/tuvtran/project-based-learning#html-and-css
             recomend html/css/js for beginers....
@@ -20,3 +24,5 @@ https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_where_can_i_find_practi
 
 Learning maps
 https://roadmap.sh/
+
+Related: [[Learning roadmaps]]

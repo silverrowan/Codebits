@@ -1,10 +1,14 @@
-*******************
+---
+tags:
+  - CSS
+  - flexbox
+---
 ******Flexbox******
 *******************
 
 ******Definitions******
 Flex containers : any element that has display: flex on it - it can contain flex items.
-Flex items : any element directly inside a flex container (parent is flex container)
+Flex items : any #element directly inside a flex container (parent is #flex container)
 NOTE: elements can be BOTH flex containers and flex items!
 NOTE: flex items DO NOT neccessarily respect given values for width/height, as grow/shrink
     to fill/fit available space
@@ -56,7 +60,7 @@ Note: behaviour of flex-direction could change if using a language that is writt
 Apply to flex CONTAINER. 
 justify-content: aligns across the MAIN AXIS (justify) as a GROUP (content)
         options: space-between, space-around, space-evenly, flex-start, center, flex-end 
-        MUST think about alignment of the entire group, CANT align individuals
+        MUST think about #alignment of the entire group, CANT align individuals
 align-items: aligns across the CROSS AXIS (align) as INDIVIDUALS (items)
         options: stretch, baseline, flex-start, center, flex-end
         Alignment here can be different for diff items - this just sets the local std.

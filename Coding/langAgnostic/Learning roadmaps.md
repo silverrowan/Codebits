@@ -1,3 +1,7 @@
+---
+tags:
+  - meta-learning
+---
 Learning maps: https://roadmap.sh/
 
 courses: https://coddy.tech/journeys

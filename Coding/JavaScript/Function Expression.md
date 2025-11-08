@@ -1,3 +1,8 @@
+---
+tags:
+  - JavaScript
+  - function
+---
 
 ```js title:"Function Expression Syntax"
 let message = function name(parameter1, para2, para3 = defaultValue) {

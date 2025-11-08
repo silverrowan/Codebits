@@ -1,4 +1,12 @@
-- passing functions into another function as values, and using function expressions (I presume, was not explicitly defined that this was the case)
+---
+tags:
+  - JavaScript
+  - function
+  - UNCLEAR
+---
+- Callback functions receive their input from another function. often used when handing asyncronous events, as a way to ensure certain code will NOT run until a specific task have been completed. 
+- Callback functions (in JS) is called or invoked by the first function after the first function has completed it's task.
+- passing functions into another function as values, and using function expressions ==(I presume, was not explicitly defined that this was the case)==
 ```js title:"Callback eg."
 function as(question, yes, no) { //the function asks 'question' and depending on response runs yes() or no()
     if (confirm(question)) yes()
@@ -19,12 +27,12 @@ ask( "Do you agree?", showOK, showCancel);
 ```
 
 - question: text of question
-- yes: function to run if the asnwer is 'yes'
+- yes: function to run if the answer is 'yes'
 - no: function to run if the answer is 'no'
 - note that `yes` and `no` are parameters in the function `ask(...)`
-    - the paramenter `value` of these is the text making their code.
+    - the parameter `value` of these is the text making their code.
     - but that `yes()` and `no()` are functions expressed in the function `ask(...)`
-- The arguements `showOK` and `showCancel` of `ask` are called *[[Unorganized Notes/Callback Functions |callback functions or callbacks]]*
+- The arguements `showOK` and `showCancel` of `ask` are called *callback functions or callbacks*
 
 after the *** this could also be written shorter, as:
 ```js 

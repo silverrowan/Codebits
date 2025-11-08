@@ -1,6 +1,12 @@
+---
+tags:
+  - JavaScript
+  - function
+  - UNCLEAR
+---
 ### Expression VS Declaration
 - A function declaration is declared as a ***separate statement, in the Main code flow (scope).***
-    - declarations are 'hoisted'
+    - declarations are #hoisted
     - declared functions CAN be called earlier than defined!
     - in strict mode, when a Function Declaration is within a code block, its visible everywhere in that code block, but NOT outside it.
 - A function expression is created ***inside an expression or other syntax construct***. 

@@ -1,3 +1,8 @@
+---
+tags:
+  - JavaScript
+  - function
+---
 
 ```js title:"Function Declaration Syntax"
 function funcName(parameter1, para2, para3 = defaultValue) {

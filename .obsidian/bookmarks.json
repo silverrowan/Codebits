@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1762600881883,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1762601188753,
+          "title": "Logs Graph",
+          "options": {
+            "collapse-filter": true,
+            "search": "path:\"Logs\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "path:\"Logs/Contacts(people+orgs)\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14048348
+                }
+              },
+              {
+                "query": "path:Logs/Events  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14069084
+                }
+              },
+              {
+                "query": "file:\"2025\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 11392604
+                }
+              },
+              {
+                "query": "file:\"2034\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 1599627
+                }
+              }
+            ],
+            "collapse-display": false,
+            "showArrow": false,
+            "textFadeMultiplier": -0.2,
+            "nodeSizeMultiplier": 1.83541666666667,
+            "lineSizeMultiplier": 2.60104166666667,
+            "collapse-forces": false,
+            "centerStrength": 0.270833333333333,
+            "repelStrength": 6.5625,
+            "linkStrength": 1,
+            "linkDistance": 123,
+            "scale": 1.0136432647705078,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1762604718199,
+          "title": "Base Graph: remove templates, logs, README, MarkupSheet",
+          "options": {
+            "collapse-filter": false,
+            "search": "-path:\"Templates\" -file:\"Markdown Cheatsheet\" -file:\"README\" -path:\"Logs\"",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "file:MOC",
+                "color": {
+                  "a": 1,
+                  "rgb": 0
+                }
+              },
+              {
+                "query": "path:\"Unorganized Notes\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 16743163
+                }
+              },
+              {
+                "query": "path:Coding/JavaScript  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 16773427
+                }
+              },
+              {
+                "query": "path:Coding/langAgnostic  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 10238207
+                }
+              },
+              {
+                "query": "path:\"Coding/HTML & CSS\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 2740669
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1.42708333333333,
+            "lineSizeMultiplier": 1.96302083333333,
+            "collapse-forces": false,
+            "centerStrength": 0.469645182291667,
+            "repelStrength": 12.5179036458333,
+            "linkStrength": 1,
+            "linkDistance": 150,
+            "scale": 0.1975308641975307,
+            "close": false
+          }
+        }
+      ],
+      "title": "Graph Views"
+    }
+  ]
+}

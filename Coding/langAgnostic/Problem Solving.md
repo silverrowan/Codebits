@@ -1,9 +1,13 @@
+---
+tags:
+  - meta-learning
+---
 article: https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
 Best way to solve problems involves
 1) having a framework
 2) practicing it
 
-> *"Problem solving skills are almost unanimously the most important qualification that employers look for.... more than progaramming languages proficiency, debugging, and system design. Demonstrating computational thinking or the ability to break down large, complex problems is just as valuable (if not more so) than baseline technical skills required for a job."*
+> *"Problem solving skills are almost unanimously the most important qualification that employers look for.... more than programming languages proficiency, debugging, and system design. Demonstrating computational thinking or the ability to break down large, complex problems is just as valuable (if not more so) than baseline technical skills required for a job."*
 >     Hacker Rank, 2018 Developer Skills Report
 
 To find the right framework article writer used advice in Tim Ferriss' book (on learning), "The 4-hour Chef"

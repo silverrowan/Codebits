@@ -1,5 +1,8 @@
 ---
 tags:
+  - JavaScript
+  - boolean
+  - operator
 alias: Logical Operators - OR AND & NOT
 cssclasses:
 "type:":
@@ -7,7 +10,7 @@ cssclasses:
 
 # Logical Operators
 **UNLIKE** classical programming, JavaScript Logicals **DONT** return T/F only
-- **IF** an operand is **NOT** a boolean it's converted to a boolean for the evaluation
+- **IF** an operand is **NOT** a #boolean it's converted to a boolean for the evaluation
     - 1 -> true, 0 -> false
     - Falsy: NUMBER 0, empty string '', null, undefined, and NaN
     -  Truthy: everything else.
@@ -17,7 +20,7 @@ When a value is returned, it is in the ORIGINAL, PRE-Boolean-Conversion value
 Precedence order of Logicals: !, &&, || *(or 'order of operations')*
 - eg. `a && b || c && d`  is the same as `(a && b) || (c && d)`  ^cc8dd5
 ### Definitions
-   **Falsy**: Roughly equivalent to 'false' includes: false, NUMBER 0, empty string '', null, undefined, and NaN
+  **Falsy**: Roughly equivalent to 'false' includes: false, NUMBER 0, empty string '', null, undefined, and NaN
    **Truthy**: Roughly equivalent to 'true' includes: true, everything else not falsy.
 ## Operators
 ### || OR
@@ -50,7 +53,7 @@ the ! operator accepts a single argument and converts the operand to boolean `tr
     - eg. `alert( Boolean( "non-empty string" ) ); //ret true`
 ### ?? Nullish coalescing
 ^60b689
-- better than using || OR  when **most** falsy values (eg. 0) should be considered 'normal', not 'false'
+- ?? #Nullish coalescing is better than using `|| OR`  when **most** falsy values (eg. 0) should be considered 'normal', not 'false'
     - `undefined` and `null` will return `false`
     - 0, etc will return their values.
 

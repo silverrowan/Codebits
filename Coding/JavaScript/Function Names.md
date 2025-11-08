@@ -1,5 +1,10 @@
+---
+tags:
+  - JavaScript
+  - function
+---
 - Functions are actions, so their name is usually a verb.
-    - it should be breif, as accurate as possible, and describe what the function does.
+    - it should be brief, as accurate as possible, and describe what the function does.
         - function name should effectively be a comment! 'self-describing'
     - wide practice to start a function with a verbal pre-fix that vaguely describes the action.
         - there needs to be agreement on the meaning of these prefixes w/in a team

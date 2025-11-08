@@ -71,4 +71,4 @@ let result = x + y + z;
 ```
 
 *******
-Related:: [[JS-Modify&Assign Operators]], [[JS-Logical Operators]], [[JS-Logical Assignment Operators]], [[JS-Comparison Operators]], [[JS-Bitwise Operators]]
+Related:: [[JS-Modify&Assign Operators]], [[Logical Operators]], [[JS-Logical Assignment Operators]], [[JS-Comparison Operators]], [[JS-Bitwise Operators]]
