@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-11(Nov)-07",
-      "path": "Logs/Daily/2025/2025-11(Nov)-07.md"
+      "basename": "Information and Computer Systems Technology (Diploma)",
+      "path": "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md"
     },
     {
-      "basename": "Loops & Arrays",
-      "path": "Coding/JavaScript/Loops & Arrays.md"
+      "basename": "ICS 280 - Capstone Project Preparation",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 280 - Capstone Project Preparation.md"
     },
     {
-      "basename": "CSS",
-      "path": "Coding/HTML & CSS/CSS.md"
+      "basename": "ICS 226 - Network and Server-Side Programming",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 226 - Network and Server-Side Programming.md"
     },
     {
-      "basename": "flexbox",
-      "path": "Coding/HTML & CSS/flexbox.md"
+      "basename": "ICS 211 - Web Applications",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 211 - Web Applications.md"
     },
     {
-      "basename": "Logical Operators",
-      "path": "Coding/JavaScript/Logical Operators.md"
+      "basename": "ICS 120 - Database Concepts",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 120 - Database Concepts.md"
     },
     {
-      "basename": "Function Basics",
-      "path": "Coding/JavaScript/Function Basics.md"
+      "basename": "ICS 110 - Computer Technology Essentials",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 110 - Computer Technology Essentials.md"
     },
     {
-      "basename": "Function Expression",
-      "path": "Coding/JavaScript/Function Expression.md"
+      "basename": "ICS 118 - Web Fundamentals",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 118 - Web Fundamentals.md"
     },
     {
-      "basename": "Expression VS Declaration",
-      "path": "Coding/JavaScript/Expression VS Declaration.md"
+      "basename": "ICS 212 - Database Systems Management",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 212 - Database Systems Management.md"
     },
     {
-      "basename": "Function Declaration",
-      "path": "Coding/JavaScript/Function Declaration.md"
+      "basename": "ICS 128 - Web Scripting",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 128 - Web Scripting.md"
     },
     {
-      "basename": "Function Names",
-      "path": "Coding/JavaScript/Function Names.md"
+      "basename": "ICS 126 - Systems Administration",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 126 - Systems Administration.md"
     },
     {
-      "basename": "Value",
-      "path": "Coding/JavaScript/Value.md"
+      "basename": "ICS 125 - Software Engineering Process",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 125 - Software Engineering Process.md"
     },
     {
-      "basename": "Functions are Values!",
-      "path": "Coding/JavaScript/Functions are Values!.md"
+      "basename": "ICS 124 - Algorithms & Data Structure Programming",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 124 - Algorithms & Data Structure Programming.md"
     },
     {
-      "basename": "Callback Functions",
-      "path": "Coding/JavaScript/Callback Functions.md"
+      "basename": "MATH 156 - Math and Stats for Computing",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/MATH 156 - Math and Stats for Computing.md"
     },
     {
-      "basename": "Calling Functions",
-      "path": "Coding/JavaScript/Calling Functions.md"
+      "basename": "LRNS 102 - Learning Skills",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/LRNS 102 - Learning Skills.md"
     },
     {
-      "basename": "Return Values",
-      "path": "Coding/JavaScript/Return Values.md"
+      "basename": "ICS 114 - Algorithms and Programming",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 114 - Algorithms and Programming.md"
     },
     {
-      "basename": "Function Constructor",
-      "path": "Coding/JavaScript/Function Constructor.md"
+      "basename": "ICS 113 - Operating Systems and Architecture",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 113 - Operating Systems and Architecture.md"
     },
     {
-      "basename": "DOM Manipulation",
-      "path": "Coding/JavaScript/DOM Manipulation.md"
+      "basename": "CDEV WPS - Workplace Preparation Skills",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md"
     },
     {
-      "basename": "Objects",
-      "path": "Coding/JavaScript/Objects.md"
+      "basename": "2025-11(Nov)-10-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-10-WorkLog.md"
     },
     {
-      "basename": "Errors",
-      "path": "Coding/JavaScript/Errors.md"
+      "basename": "2025-11(Nov)-10",
+      "path": "Logs/Daily/2025/2025-11(Nov)-10.md"
     },
     {
-      "basename": "variable shadowing",
-      "path": "Coding/JavaScript/variable shadowing.md"
+      "basename": "2025-11(Nov)-10-PersonalLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-10-PersonalLog.md"
     },
     {
-      "basename": "Conditional Functions",
-      "path": "Coding/JavaScript/Conditional Functions.md"
+      "basename": "Arrays",
+      "path": "Coding/JavaScript/Arrays.md"
     },
     {
-      "basename": "JS-Functions MOC",
-      "path": "Coding/JavaScript/JS-Functions MOC.md"
-    },
-    {
-      "basename": "Thinking like a programmer",
-      "path": "Coding/langAgnostic/Thinking like a programmer.md"
-    },
-    {
-      "basename": "Learning roadmaps",
-      "path": "Coding/langAgnostic/Learning roadmaps.md"
+      "basename": "Looping through a collection",
+      "path": "Coding/JavaScript/Looping through a collection.md"
     },
     {
       "basename": "Coding Project Ideas",
       "path": "Coding/langAgnostic/Coding Project Ideas.md"
     },
     {
+      "basename": "Neuroplasticity--rewire your brain for learning",
+      "path": "extra-curricular/Neuroplasticity--rewire your brain for learning.md"
+    },
+    {
+      "basename": "Effective Learning Checklist",
+      "path": "extra-curricular/Effective Learning Checklist.md"
+    },
+    {
+      "basename": "How does Dopamine improve learning?",
+      "path": "extra-curricular/How does Dopamine improve learning?.md"
+    },
+    {
+      "basename": "Bitwise Operators",
+      "path": "Coding/langAgnostic/Bitwise Operators.md"
+    },
+    {
+      "basename": "Variable Shadowing",
+      "path": "Coding/langAgnostic/Variable Shadowing.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "Coding/langAgnostic/Methods.md"
+    },
+    {
+      "basename": "lone surrogates",
+      "path": "Coding/langAgnostic/lone surrogates.md"
+    },
+    {
+      "basename": "Learning roadmaps",
+      "path": "Coding/langAgnostic/Learning roadmaps.md"
+    },
+    {
       "basename": "Problem Solving",
       "path": "Coding/langAgnostic/Problem Solving.md"
-    },
-    {
-      "basename": "The Call Stack",
-      "path": "Coding/JavaScript/The Call Stack.md"
-    },
-    {
-      "basename": "Function Scope",
-      "path": "Coding/JavaScript/Function Scope.md"
-    },
-    {
-      "basename": "2025-11(Nov)-04-Grummy-1914-Phone-Contact Success",
-      "path": "Logs/Daily/2025/2025-11(Nov)-04-Grummy-1914-Phone-Contact Success.md"
-    },
-    {
-      "basename": "2025-11(Nov)-08",
-      "path": "Logs/Daily/2025/2025-11(Nov)-08.md"
-    },
-    {
-      "basename": "2025-11(Nov)-07-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-07-WorkLog.md"
-    },
-    {
-      "basename": "Table of Contents",
-      "path": "Table of Contents.md"
-    },
-    {
-      "basename": "JS-Modify&Assign Operators",
-      "path": "Coding/JavaScript/JS-Modify&Assign Operators.md"
-    },
-    {
-      "basename": "JS-Basic Operators",
-      "path": "Coding/JavaScript/JS-Basic Operators.md"
-    },
-    {
-      "basename": "Arrow Functions",
-      "path": "Coding/JavaScript/Arrow Functions.md"
     },
     {
       "basename": "Pseudocode",
       "path": "Coding/langAgnostic/Pseudocode.md"
     },
     {
-      "basename": "2025-11(Nov)-06-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-06-WorkLog.md"
+      "basename": "Queue",
+      "path": "Coding/langAgnostic/Queue.md"
     },
     {
-      "basename": "2025-11(Nov)-06",
-      "path": "Logs/Daily/2025/2025-11(Nov)-06.md"
+      "basename": "Tests Driven Development (TDD)",
+      "path": "Coding/langAgnostic/Tests Driven Development (TDD).md"
+    },
+    {
+      "basename": "Thinking like a programmer",
+      "path": "Coding/langAgnostic/Thinking like a programmer.md"
+    },
+    {
+      "basename": "Loops & Arrays",
+      "path": "Coding/JavaScript/Loops & Arrays.md"
+    },
+    {
+      "basename": "Why is (Aerobic) exercise important to learning?",
+      "path": "extra-curricular/Why is (Aerobic) exercise important to learning?.md"
+    },
+    {
+      "basename": "Exiting loops & iterations w Break and Continue",
+      "path": "Coding/JavaScript/Exiting loops & iterations w Break and Continue.md"
+    },
+    {
+      "basename": "Why is sleep important to learning?",
+      "path": "extra-curricular/Why is sleep important to learning?.md"
+    },
+    {
+      "basename": "while & do... while loop",
+      "path": "Coding/JavaScript/while & do... while loop.md"
+    },
+    {
+      "basename": "for loop",
+      "path": "Coding/JavaScript/for loop.md"
+    },
+    {
+      "basename": "Monthly Work Log Summary Template",
+      "path": "Templates/Monthly Work Log Summary Template.md"
+    },
+    {
+      "basename": "New Note Template",
+      "path": "Templates/New Note Template.md"
+    },
+    {
+      "basename": "File Split Template",
+      "path": "Templates/File Split Template.md"
+    },
+    {
+      "basename": "2025-11(Nov)-09-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-09-WorkLog.md"
     },
     {
       "basename": "2025-11(Nov)-09",
       "path": "Logs/Daily/2025/2025-11(Nov)-09.md"
     },
     {
-      "basename": "2025-11(Nov)-05",
-      "path": "Logs/Daily/2025/2025-11(Nov)-05.md"
+      "basename": "2025-11(Nov)-08-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-08-WorkLog.md"
     },
     {
-      "basename": "2025-11(Nov)-04",
-      "path": "Logs/Daily/2025/2025-11(Nov)-04.md"
+      "basename": "2025-11(Nov)-08",
+      "path": "Logs/Daily/2025/2025-11(Nov)-08.md"
     },
     {
-      "basename": "2025-11(Nov)-03",
-      "path": "Logs/Daily/2025/2025-11(Nov)-03.md"
-    },
-    {
-      "basename": "Daily Personal Log Template",
-      "path": "Templates/Daily Personal Log Template.md"
-    },
-    {
-      "basename": "2025-11(Nov)-05-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-05-WorkLog.md"
-    },
-    {
-      "basename": "Daily Work Log Template",
-      "path": "Templates/Daily Work Log Template.md"
-    },
-    {
-      "basename": "Daily Template",
-      "path": "Templates/Daily Template.md"
-    },
-    {
-      "basename": "2025-11(Nov)-05-PersonalLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-05-PersonalLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-04-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-04-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-03-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-03-WorkLog.md"
+      "basename": "2025-11(Nov)-07",
+      "path": "Logs/Daily/2025/2025-11(Nov)-07.md"
     }
   ],
   "omittedPaths": [

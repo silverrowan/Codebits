@@ -4,7 +4,7 @@ tags:
   - function
   - UNCLEAR
 ---
-### Expression VS Declaration
+## Expression VS Declaration
 - A function declaration is declared as a ***separate statement, in the Main code flow (scope).***
     - declarations are #hoisted
     - declared functions CAN be called earlier than defined!

@@ -1,6 +1,7 @@
 ---
 tags:
   - meta-learning
+  - planning
 ---
 article: https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
 Best way to solve problems involves

@@ -1,3 +1,4 @@
+---
+tags: <% tp.frontmatter.tags %>
+---
 {{content}}
-******
-{{fromTitle}} -> {{newTitle}} on {{date}}

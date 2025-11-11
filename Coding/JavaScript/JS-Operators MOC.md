@@ -1,8 +1,6 @@
-[[JS-Basic Operators]]
-[[JS-Modify&Assign Operators]]
-[[JS-Comparison Operators]]
-[[Logical Operators]]
-[[JS-Logical Assignment Operators]]
-[[JS-Bitwise Operators]]
 
-[[JS-typeof operator]]
+```dataview 
+LIST 
+FROM !"Logs"
+WHERE !contains(file.name, "MOC") AND ( contains(file.name, "Operator") OR contains(file.name, "operator") OR contains(file.tags, "#operator") )
+```

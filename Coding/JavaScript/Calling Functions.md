@@ -1,3 +1,8 @@
+---
+tags:
+  - JavaScript
+  - function
+---
 ```JS title:"eg. Function declaration for later examples:"
 function favAnimal (animal = 'Cat') { 
     return animal + "is my fav!";
@@ -5,7 +10,7 @@ function favAnimal (animal = 'Cat') {
 ```
 
 ### Invoke a Function
-- creating a function does NOT RUN it! To do that, you have to invoke/call the function elsewhere in the code. 
+- creating a function does NOT RUN it! To do that, you have to invoke/call the function elsewhere in the code (or at point of expression by assigning it/using it). 
     - functions can be "called" (used) on its own or inside another function.
 - you need to *DO* something with the return value.
     - in the above example, stored as a variable, or used as a console log message 

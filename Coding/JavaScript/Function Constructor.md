@@ -3,7 +3,7 @@ tags:
   - JavaScript
   - function
   - FLAWED
-  - global-scope
+  - global
 ---
 ***Seems to be generally poor code*** as it has: security & performance issues, and uses global scope only.
 

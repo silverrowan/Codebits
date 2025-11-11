@@ -32,6 +32,10 @@
     {
       "regex": ".*ContactLog",
       "template": "Templates/Daily Contacts Log Template.md"
+    },
+    {
+      "regex": ".*",
+      "template": "Templates/New Note Template.md"
     }
   ],
   "syntax_highlighting": true,

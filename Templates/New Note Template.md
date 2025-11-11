@@ -1,0 +1,3 @@
+---
+tags: <% tp.frontmatter.tags %>
+---

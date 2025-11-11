@@ -57,4 +57,4 @@ the ! operator accepts a single argument and converts the operand to boolean `tr
     - `undefined` and `null` will return `false`
     - 0, etc will return their values.
 
-RELATED: [[JS-Logical Assignment Operators]]
+RELATED: [[Logical Assignment Operators]]

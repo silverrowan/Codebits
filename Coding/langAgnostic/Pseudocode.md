@@ -1,3 +1,10 @@
+---
+tags:
+  - code
+  - language-agnostic
+  - planning
+  - jargon
+---
 Pseudocode: must describe what the code does in each line, so can be translated directly into coding language syntax.
     has a particular flow: 
 - Constructs in Pseudocode should be written in ALLCAPS

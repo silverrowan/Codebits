@@ -3,10 +3,11 @@ tags:
   - JavaScript
   - function
   - value
+  - object
 ---
 ## Functions are Values!
 - Functions are [[Value|values]]! Regardless how created.
-    - functions are a special kind of #object. %% [[JS-typeof operator |typeof( )]] returns 'function' for functions, but that's not a data type. %%
+    - functions are a special kind of [[Object & Symbol Data Types|object]]. %% [[typeof operator|typeof( )]] returns 'function' for functions, but that's not a data type. %%
     - this means they can be manipulated like any other value!
 ```js title:"copy function to new variable"
 function sayHi() { // (1) create
@@ -17,7 +18,7 @@ let func = sayHi; // (2) copy
 func(); //alert: Hello (3) run the copy
 sayHi(); //alert: Hello (this still works too)
 ```
-- this example detail explanation
+- this example detailed explanation
     - The function declaration (1) create the function and puts it into the variable `sayHi`
     - line (2) copies it into the variable `func` 
         - NOTE the **LACK** of `()`. 

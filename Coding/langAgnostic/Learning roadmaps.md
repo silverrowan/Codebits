@@ -1,6 +1,8 @@
 ---
 tags:
   - meta-learning
+  - ideas
+  - suggestions
 ---
 Learning maps: https://roadmap.sh/
 

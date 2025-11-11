@@ -2,26 +2,26 @@
 tags:
   - JavaScript
   - shadow
+  - function
+  - scope
 ---
 ## Function Scope
-when a #function is created, the variables etc defined inside it are in their
-    own separate "compartment" inside the function - they can't be targeted/reached
-    by code outside the function.
-NOTE: the same #scope rules **DO NOT** apply to loop and conditional blocks, 
-    **JUST** functions -- even though they look very similar.
+- when a function is created, the variables etc defined inside it are in their own separate "compartment" inside the function - they can't be targeted/reached by code outside the function.
+- **NOTE**: the same #scope rules **DO NOT** apply to [[Loops & Arrays|loop]] and [[Conditional Functions|conditional]] blocks, 
+    - **JUST** [[Function Basics|functions]] -- even though they look very similar.
 ### Global Scope
-The top-level, outside all functions.
-Values defined here are accessible from everywhere in the code.
+- The top-level, outside all functions.
+- Values defined here are accessible from everywhere in the code.
 ### Local Variables
 - variables declared inside a function are ONLY visible inside that function
 ### Outer Variables
-- functions can access & modify variables declared outside of them though
-- the outer variable is *only* used if there is no local one.
-- if a same-named variable is declared inside and outside the function than the inside one [[variable shadowing |'shadows']] the outer one, and the outer one is not used or altered
+- functions can access & modify variables declared outside of them, *though*
+    - the outer variable is *only* used if there is no #local one.
+    - if a same-named variable is declared inside and outside the function than the inside one [[Variable Shadowing|'shadows']] the outer one, and the outer one is not used or altered
 ### Global Variables
 - variables declared outside of *any* function
 - these variables are visible to all functions (unless shadowed by local variables)
-- Its good practice to minimize use of global variables.
+- Its good practice to minimize use of #global variables.
     - modern code has few to no globals, most variables reside inside their functions
     - sometimes they can be useful to store project-level data.
 ### Why silo variables etc

@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"Logs\"",
+  "collapse-filter": false,
+  "search": "-path:\"Templates\" -file:\"Markdown Cheatsheet\" -file:\"README\" -path:\"Logs\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,44 +8,72 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Logs/Contacts(people+orgs)\"  ",
+      "query": "tag:#UNCLEAR  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16202665
       }
     },
     {
-      "query": "path:Logs/Events  ",
+      "query": "file:MOC",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 0
       }
     },
     {
-      "query": "file:\"2025\"",
+      "query": "path:\"Unorganized Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 16743163
       }
     },
     {
-      "query": "file:\"2034\"",
+      "query": "path:Coding/JavaScript  ",
       "color": {
         "a": 1,
-        "rgb": 1599627
+        "rgb": 16773427
+      }
+    },
+    {
+      "query": "path:Coding/langAgnostic  ",
+      "color": {
+        "a": 1,
+        "rgb": 10238207
+      }
+    },
+    {
+      "query": "path:\"Coding/HTML & CSS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2740669
+      }
+    },
+    {
+      "query": "path:\"Camosun/Information and Computer Systems/Y1-Certificate\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 885479
+      }
+    },
+    {
+      "query": "path:Camosun  ",
+      "color": {
+        "a": 1,
+        "rgb": 12377595
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.83541666666667,
-  "lineSizeMultiplier": 2.60104166666667,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 1.96302083333333,
   "collapse-forces": false,
-  "centerStrength": 0.270833333333333,
-  "repelStrength": 6.5625,
+  "centerStrength": 0.469645182291667,
+  "repelStrength": 12.5179036458333,
   "linkStrength": 1,
-  "linkDistance": 123,
-  "scale": 0.45050811767578125,
-  "close": true
+  "linkDistance": 150,
+  "scale": 0.19753086419753063,
+  "close": false
 }

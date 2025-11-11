@@ -4,7 +4,6 @@ tags:
   - conditional
   - function
 ---
-***************************************
 ## if...else
 ```js
 if (condition) {
@@ -34,13 +33,10 @@ if (condition) {
 Use over if...else when conditions are simple AND there are many choices
 Uses STRICT equality, so data type matters!
 Switch statements take a single expression or value as input and then
-	look  through a series of choices until they find one that matches
-	the value, the execute the code within it. 
-	At the 'break' keyword it exits the switch statement and continues w 
-		the code below the switch statement.
+	look  through a series of choices until they find one that matches the value, the execute the code within it. 
+	At the 'break' keyword it exits the switch statement and continues w/ the code below the switch statement.
 	the 'default' case runs if none of the prev cases matched the condition,
-		this may be safely omitted if no chance the expression could be an
-		unknown value.
+		this may be safely omitted if no chance the expression could be an unknown value.
 	Both 'switch' & 'case' allow use of expressions
 ```js
 eg. let a = 1;

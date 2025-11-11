@@ -1,7 +1,12 @@
+---
+tags:
+  - JavaScript
+  - function
+---
 ## Arrow Functions
 - arrow functions are a specific form of anonymous function expression
     - (often used in event listeners)
-- Simpler visually, but mostly the same as a simple expressed funtion.
+- Simpler visually, but mostly the same as a simple expressed function.
     - there ARE some subtle differences btwn arrow and normal functions (will be relevant later)
 - Arrow functions have no bindings to this, arguments, or super, dont use as methods. Cannot be constructors
 Instead of the standard function form:

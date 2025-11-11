@@ -1,0 +1,8 @@
+
+mjx-container[jax="CHTML"] {
+
+color: rgb(200, 200, 220) !important; /* RGB color for equations */
+
+font-size: 130% !important; /* Slightly larger font for equations */
+
+} 

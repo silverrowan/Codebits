@@ -1,0 +1,12 @@
+---
+tags:
+  - code
+  - language-agnostic
+  - jargon
+---
+- in computer science a queue is an abstract data type that is made of an ordered collection of entities.
+    - think like processing a queue of people: 
+    - in normal ordered manner, new elements join at the end, and the first element in the list is removed/processed (FIFO)
+        - by convention, the end of the queue where elements are added ('enqueue') is called the back, tail, or rear of the queue
+        - the end of the queue where elements are removed ('dequeue') is called the head or the front of the queue
+    - other orders can of course happen, but they are not the default.

@@ -9,7 +9,7 @@ tags:
     - unnamed functions are called anonymous functions // eg. function () {...} ==NOTE: elsewhere describes them as not being stored OR named. clarify which is correct==
 - There are [[4 Types of Functions]] in JavaScript!
     - not relevant (yet?)
-- there are some general conventions around [[Function Names|naming functions]].
+- there are some general conventions around [[Function Names|naming functions]]
 - **even if** usually called together, two independent actions usually deserve two functions separate functions.
     - we can use a third function that calls the two individual ones.
 - There are multiple ways to define a function

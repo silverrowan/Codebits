@@ -1,8 +1,9 @@
 ---
 tags:
   - JavaScript
+  - error
 ---
-- Causing an #Error is called "*throwing*" an error
+- Causing an Error is called "*throwing*" an error
 - errors are when the program does something you don't want it to, or stops running/crashes
 ## Syntax vs Logic errors
 - generally there are two main error type 'classifications' (descriptive, NOT types the program reports)

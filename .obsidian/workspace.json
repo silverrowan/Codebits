@@ -6,15 +6,14 @@
       {
         "id": "7779b92037068fdf",
         "type": "tabs",
-        "dimension": 46.27754615842764,
         "children": [
           {
-            "id": "f35f7933547d268a",
+            "id": "c8ca3bc6ecdcbf1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/JavaScript/Function Scope.md",
+                "file": "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Function Scope"
+              "title": "Information and Computer Systems Technology (Diploma)"
             }
           },
           {
-            "id": "bbb168b78dfe2013",
+            "id": "3c7eed5331d74f0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/JavaScript/Loops & Arrays.md",
+                "file": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 110 - Computer Technology Essentials.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Loops & Arrays"
+              "title": "ICS 110 - Computer Technology Essentials"
             }
           },
           {
-            "id": "d8ff2a9234c43643",
+            "id": "2ac731cbc15e784c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/JavaScript/Callback Functions.md",
+                "file": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 118 - Web Fundamentals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Callback Functions"
+              "title": "ICS 118 - Web Fundamentals"
             }
           },
           {
-            "id": "452fb9eb557d8b10",
+            "id": "86a3b5a17842763c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/langAgnostic/Problem Solving.md",
+                "file": "Coding/langAgnostic/Bitwise Operators.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Problem Solving"
+              "title": "Bitwise Operators"
             }
           },
           {
-            "id": "975134dd39801bee",
+            "id": "f21fc56cccdaadc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/JavaScript/Conditional Functions.md",
+                "file": "extra-curricular/Effective Learning Checklist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,29 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conditional Functions"
+              "title": "Effective Learning Checklist"
             }
           },
           {
-            "id": "7c81027c0e029544",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7e1655d152c0063a",
-        "type": "tabs",
-        "dimension": 53.72245384157237,
-        "children": [
-          {
-            "id": "b8efe994ee9202a0",
+            "id": "d0db4588bc947abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,12 +152,12 @@
             }
           },
           {
-            "id": "a061dc43025d76e9",
+            "id": "71f692672c53ae65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-07.md",
+                "file": "Coding/JavaScript/Arrays.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -191,35 +172,20 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11(Nov)-07"
+              "title": "Arrays"
             }
           },
           {
-            "id": "55da2bb2a4680f82",
+            "id": "b4fc319a676596e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Contents.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Table of Contents"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,8 +248,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -321,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-07.md",
+                "file": "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11(Nov)-07"
+              "title": "Outline of Information and Computer Systems Technology (Diploma)"
             }
           },
           {
@@ -387,7 +352,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -417,43 +382,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a061dc43025d76e9",
+  "active": "c8ca3bc6ecdcbf1b",
   "lastOpenFiles": [
-    "Coding/JavaScript/Loops & Arrays.md",
-    "Coding/HTML & CSS/CSS.md",
-    "Coding/HTML & CSS/flexbox.md",
-    "Coding/JavaScript/Logical Operators.md",
-    "Coding/JavaScript/Function Basics.md",
-    "Coding/JavaScript/Function Expression.md",
-    "Coding/JavaScript/Expression VS Declaration.md",
-    "Coding/JavaScript/Function Declaration.md",
-    "Coding/JavaScript/Function Names.md",
-    "Coding/JavaScript/Value.md",
-    "Coding/JavaScript/Functions are Values!.md",
-    "Coding/JavaScript/Callback Functions 1.md",
-    "Coding/JavaScript/Callback Functions.md",
-    "Coding/JavaScript/Calling Functions.md",
-    "Coding/JavaScript/Return Values.md",
-    "Coding/JavaScript/Function Constructor.md",
-    "Coding/JavaScript/DOM Manipulation.md",
-    "Coding/JavaScript/Objects.md",
-    "Coding/HTML & CSS",
-    "Coding/JavaScript/Errors.md",
-    "Coding/JavaScript/variable shadowing.md",
-    "Coding/JavaScript/Conditional Functions.md",
-    "Coding/JavaScript/JS-Functions MOC.md",
-    "Coding/langAgnostic/Thinking like a programmer.md",
-    "Coding/langAgnostic/Learning roadmaps.md",
-    "Coding/langAgnostic/Coding Project Ideas.md",
-    "Coding/langAgnostic/Problem Solving.md",
-    "Coding/langAgnostic",
-    "Coding",
-    "Logs/Monthly/2025",
-    "Logs/Monthly/ 2025",
-    "Logs/Daily/2025",
-    "embeded backlink w",
-    "Logs/Events",
-    "Logs/Contacts(people+orgs)",
-    "CodeBits/html Boilerplate/index.html"
+    "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 280 - Capstone Project Preparation.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 226 - Network and Server-Side Programming.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 211 - Web Applications.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 120 - Database Concepts.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 110 - Computer Technology Essentials.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 118 - Web Fundamentals.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 212 - Database Systems Management.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 128 - Web Scripting.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 126 - Systems Administration.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 125 - Software Engineering Process.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 124 - Algorithms & Data Structure Programming.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/MATH 156 - Math and Stats for Computing.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/LRNS 102 - Learning Skills.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 114 - Algorithms and Programming.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 113 - Operating Systems and Architecture.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 304 - Work Term 3.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 104 - Work Term 1.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 204 - Work Term 2.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ENGL 273 - Technical Communication.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 290 - Capstone Project.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T5/TECN 290 - Technology Symposium.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 224 - Mobile App Development.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 223 - Gaming and Graphics Concepts.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 221 - Web Services.md",
+    "Camosun/Information and Computer Systems/Y2-Diploma/Coop-intern",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T5",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T4",
+    "Camosun/Information and Computer Systems/Y2-Diploma/T3",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T2",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1",
+    "Camosun/Information and Computer Systems/Y2-Diploma",
+    "Camosun/Information and Computer Systems/Y1-Certificate",
+    "Camosun/Information and Computer Systems",
+    "Camosun",
+    "attachments/Pasted image 20251108183435.png"
   ]
 }

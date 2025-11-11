@@ -1,3 +1,7 @@
+---
+tags:
+  - JavaScript
+---
 // Select existing element (in DOM) & assign to variable
 const item1 = document.querySelector('#id') //or (first element) by class, or 
 const item2 = document.querySelectorAll('p') //or (all) by html tag
