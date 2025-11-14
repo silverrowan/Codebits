@@ -210,6 +210,7 @@ console.log(arr); //logs: ["I", "study", "complex", "language", "JavaScript"]
 
 ## Transform an array
 .map()
+- CAN REFERENCE POSN IN ARRAY! with index == # (eg. 0 = 1st) or is it part of teh extended map?
 #### .sort() - modifies the OG array! - sorts as strings so order [1,10, 2] results unless accounted for in function
 ```js
 function compareNumeric(a, b) {
@@ -230,6 +231,7 @@ arrayName.sort(compareNumeric); ~> [ 1, 2, 15]
 }
 ```
 for strings unless only in pure english, better to use string.localeCompare method, which will allow for accents, etc. properly
+
 ## . tranform cont
 .reverse()
 .split()

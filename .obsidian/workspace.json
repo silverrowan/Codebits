@@ -4,188 +4,146 @@
     "type": "split",
     "children": [
       {
-        "id": "7779b92037068fdf",
-        "type": "tabs",
+        "id": "79c0028b577fecad",
+        "type": "split",
         "children": [
           {
-            "id": "c8ca3bc6ecdcbf1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "7779b92037068fdf",
+            "type": "tabs",
+            "dimension": 72.94407894736842,
+            "children": [
+              {
+                "id": "cbb8521f28bda069",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Unorganized Notes/Create & Activate Events.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Create & Activate Events"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Information and Computer Systems Technology (Diploma)"
-            }
-          },
-          {
-            "id": "3c7eed5331d74f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 110 - Computer Technology Essentials.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "94ee88b38c16f322",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Coding/JavaScript/Event Listeners.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Event Listeners"
                 }
               },
-              "icon": "lucide-file",
-              "title": "ICS 110 - Computer Technology Essentials"
-            }
-          },
-          {
-            "id": "2ac731cbc15e784c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 118 - Web Fundamentals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "87a45b2b5ab8100a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logs/Daily/2025/2025-11(Nov)-14.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11(Nov)-14"
                 }
               },
-              "icon": "lucide-file",
-              "title": "ICS 118 - Web Fundamentals"
-            }
-          },
-          {
-            "id": "86a3b5a17842763c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/langAgnostic/Bitwise Operators.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "0dde67cb4926d0d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Unorganized Notes/Event Properties & Methods.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Event Properties & Methods"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "Bitwise Operators"
-            }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "f21fc56cccdaadc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extra-curricular/Effective Learning Checklist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "1d89079edc960537",
+            "type": "tabs",
+            "dimension": 27.055921052631575,
+            "children": [
+              {
+                "id": "34939fd483549474",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logs/Daily/2025/2025-11(Nov)-14.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11(Nov)-14"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "Effective Learning Checklist"
-            }
-          },
-          {
-            "id": "d0db4588bc947abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/langAgnostic/Coding Project Ideas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Coding Project Ideas"
-            }
-          },
-          {
-            "id": "71f692672c53ae65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/JavaScript/Arrays.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays"
-            }
-          },
-          {
-            "id": "b4fc319a676596e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -217,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,12 +205,33 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "1982b96ecdaf1c50",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "2160725ab59eac79",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 385.5
   },
   "right": {
     "id": "4c7c29157a648307",
@@ -278,7 +257,7 @@
       {
         "id": "2274fe50e69900c2",
         "type": "tabs",
-        "dimension": 33.77535101404056,
+        "dimension": 23.478939157566302,
         "children": [
           {
             "id": "83665d2b37023a0a",
@@ -286,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md",
+                "file": "Logs/Daily/2025/2025-11(Nov)-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Information and Computer Systems Technology (Diploma)"
+              "title": "Outline of 2025-11(Nov)-14"
             }
           },
           {
@@ -301,12 +280,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/Daily/2025-11(Nov)-04.md",
+                "file": "Logs/Daily/2025/2025-11(Nov)-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11(Nov)-04"
+              "title": "Outgoing links from 2025-11(Nov)-14"
             }
           },
           {
@@ -315,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/Daily/2025-11(Nov)-04.md",
+                "file": "Logs/Daily/2025/2025-11(Nov)-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +304,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11(Nov)-04"
+              "title": "Backlinks for 2025-11(Nov)-14"
             }
           },
           {
@@ -344,7 +323,7 @@
       {
         "id": "e33ea1a7dd327983",
         "type": "tabs",
-        "dimension": 40.24960998439938,
+        "dimension": 50.546021840873635,
         "children": [
           {
             "id": "c9fad514ceab83f0",
@@ -365,10 +344,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -376,40 +356,51 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8ca3bc6ecdcbf1b",
+  "active": "e147ca288e72f782",
   "lastOpenFiles": [
-    "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 280 - Capstone Project Preparation.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 226 - Network and Server-Side Programming.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 211 - Web Applications.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 120 - Database Concepts.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 110 - Computer Technology Essentials.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 118 - Web Fundamentals.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 212 - Database Systems Management.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 128 - Web Scripting.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 126 - Systems Administration.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 125 - Software Engineering Process.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 124 - Algorithms & Data Structure Programming.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/MATH 156 - Math and Stats for Computing.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/LRNS 102 - Learning Skills.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 114 - Algorithms and Programming.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 113 - Operating Systems and Architecture.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 304 - Work Term 3.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 104 - Work Term 1.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 204 - Work Term 2.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ENGL 273 - Technical Communication.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 290 - Capstone Project.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T5/TECN 290 - Technology Symposium.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 224 - Mobile App Development.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 223 - Gaming and Graphics Concepts.md",
-    "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 221 - Web Services.md",
+    "Coding/JavaScript/DOM Manipulation.md",
+    "Logs/Daily/2025/2025-11(Nov)-14.md",
+    "Logs/Daily/2025/2025-11(Nov)-13.md",
+    "Logs/Daily/2025/2025-11(Nov)-13-WorkLog.md",
+    "Coding/JavaScript/Event Listeners.md",
+    "Unorganized Notes/Create & Activate Events.md",
+    "Logs/Daily/2025/2025-11(Nov)-12-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-12.md",
+    "Unorganized Notes/Event Properties & Methods.md",
+    "Unorganized Notes/Event delegation.md",
+    "Unorganized Notes/Event Bubbling.md",
+    "Unorganized Notes/Custom Events.md",
+    "Unorganized Notes/dispatchEvent.md",
+    "Coding/JavaScript/Keyboard events.md",
+    "Coding/JavaScript/Mouse Events.md",
+    "Unorganized Notes/Shopping List.md",
+    "Logs/Daily/2025/2025-11(Nov)-15.md",
+    "attachments/Pasted image 20251113220206.png",
+    "attachments/Pasted image 20251113220159.png",
+    "Untitled Kanban.md",
+    "TL-StateDiagram-2025-11-14T05-38-04.540Z.canvas",
+    "Unorganized Notes/Commonly Useful Events.md",
+    "Logs/Daily/2025/2025-11(Nov)-13-PersonalLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-11.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Unorganized Notes/Sitting & Health.md",
+    "Unorganized Notes/Floor Sitting.md",
+    "Unorganized Notes/super short workouts.md",
+    "Logs/Daily/2025/2025-11(Nov)-12-PersonalLog.md",
+    "Templates/Daily Work Log Template.md",
+    "attachments/Pasted image 20251113000025.png",
+    "attachments/Pasted image 20251112235633.png",
+    "attachments/Pasted image 20251112235404.png",
+    "CodeBits/html Boilerplate/codebits.js",
     "Camosun/Information and Computer Systems/Y2-Diploma/Coop-intern",
     "Camosun/Information and Computer Systems/Y2-Diploma/T5",
     "Camosun/Information and Computer Systems/Y2-Diploma/T4",
@@ -419,7 +410,6 @@
     "Camosun/Information and Computer Systems/Y2-Diploma",
     "Camosun/Information and Computer Systems/Y1-Certificate",
     "Camosun/Information and Computer Systems",
-    "Camosun",
     "attachments/Pasted image 20251108183435.png"
   ]
 }

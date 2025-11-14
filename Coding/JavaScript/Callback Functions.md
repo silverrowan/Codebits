@@ -4,6 +4,8 @@ tags:
   - function
   - UNCLEAR
 ---
+- When we pass in 'function (e) {...}' as an argument to addEventListener, we call this a callback. 
+- A callback is simply a function that is passed into another function as an argument.
 - Callback functions receive their input from another function. often used when handing asyncronous events, as a way to ensure certain code will NOT run until a specific task have been completed. 
 - Callback functions (in JS) is called or invoked by the first function after the first function has completed it's task.
 - passing functions into another function as values, and using function expressions ==(I presume, was not explicitly defined that this was the case)==

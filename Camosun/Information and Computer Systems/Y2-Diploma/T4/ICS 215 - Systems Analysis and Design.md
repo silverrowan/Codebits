@@ -1,22 +1,28 @@
 ---
-tags: <% tp.frontmatter.tags %>
+tags:
+  - camosun
 ---
 # ICS 215 - Systems Analysis and Design
+> [!info] 
+>  **Credits::** 3
+**Total Hours::** 75
+**Restricted::** Information and Computer Systems
 
-Credits: 3 Total Hours: 75 Restricted to students in Information Computer Systems Technology Programs
 Discover the art and science of planning and building cutting-edge information systems. Dive into systems analysis and design processes that transform complex problems into innovative solutions. Gain skills in database design, build secure and scalable systems and use agile methods to turn ideas into reality. Explore emerging tools and techniques while tackling real-world challenges with a focus on security, privacy, and ethical design.
 
-Prerequisites
-All of:
+> [!attention] 
+> **Prerequisites::** [[ENGL 170 - Technical & Professional Communication 1]] C, [[ICS 120 - Database Concepts]] C, [[ICS 125 - Software Engineering Process]] C
 
-    C in ENGL 170 
+> [!attention] Information pulled from Syllabus for
+>  (Fall 2024; teacher name)
 
-And one of:
+> [!summary] 
+>- summary note
 
-    ​C in COMP 144 
-    C in ICS 120 
+> [!important] Supplies & #TEXTBOOK 
+>  - [ ] 
+### Learning Outcomes & Objectives
+- outcome
 
-And one of:
-
-    C in ENGR 155 
-    C in ICS 125 
+### TOPICS (LECTURE PERIOD || SEMINAR PERIOD)
+- topic

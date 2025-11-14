@@ -1,72 +1,160 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11(Nov)-14",
+      "path": "Logs/Daily/2025/2025-11(Nov)-14.md"
+    },
+    {
+      "basename": "DOM Manipulation",
+      "path": "Coding/JavaScript/DOM Manipulation.md"
+    },
+    {
+      "basename": "2025-11(Nov)-13",
+      "path": "Logs/Daily/2025/2025-11(Nov)-13.md"
+    },
+    {
+      "basename": "2025-11(Nov)-13-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-13-WorkLog.md"
+    },
+    {
+      "basename": "Event Listeners",
+      "path": "Coding/JavaScript/Event Listeners.md"
+    },
+    {
+      "basename": "Create & Activate Events",
+      "path": "Unorganized Notes/Create & Activate Events.md"
+    },
+    {
+      "basename": "2025-11(Nov)-12-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-12-WorkLog.md"
+    },
+    {
+      "basename": "2025-11(Nov)-12",
+      "path": "Logs/Daily/2025/2025-11(Nov)-12.md"
+    },
+    {
+      "basename": "Event Properties & Methods",
+      "path": "Unorganized Notes/Event Properties & Methods.md"
+    },
+    {
+      "basename": "Event delegation",
+      "path": "Unorganized Notes/Event delegation.md"
+    },
+    {
+      "basename": "Event Bubbling",
+      "path": "Unorganized Notes/Event Bubbling.md"
+    },
+    {
+      "basename": "Custom Events",
+      "path": "Unorganized Notes/Custom Events.md"
+    },
+    {
+      "basename": "Keyboard events",
+      "path": "Coding/JavaScript/Keyboard events.md"
+    },
+    {
+      "basename": "Mouse Events",
+      "path": "Coding/JavaScript/Mouse Events.md"
+    },
+    {
+      "basename": "Shopping List",
+      "path": "Unorganized Notes/Shopping List.md"
+    },
+    {
+      "basename": "2025-11(Nov)-15",
+      "path": "Logs/Daily/2025/2025-11(Nov)-15.md"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "Untitled Kanban.md"
+    },
+    {
+      "basename": "Commonly Useful Events",
+      "path": "Unorganized Notes/Commonly Useful Events.md"
+    },
+    {
+      "basename": "2025-11(Nov)-13-PersonalLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-13-PersonalLog.md"
+    },
+    {
+      "basename": "2025-11(Nov)-11",
+      "path": "Logs/Daily/2025/2025-11(Nov)-11.md"
+    },
+    {
+      "basename": "Sitting & Health",
+      "path": "Unorganized Notes/Sitting & Health.md"
+    },
+    {
+      "basename": "Floor Sitting",
+      "path": "Unorganized Notes/Floor Sitting.md"
+    },
+    {
+      "basename": "super short workouts",
+      "path": "Unorganized Notes/super short workouts.md"
+    },
+    {
+      "basename": "2025-11(Nov)-12-PersonalLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-12-PersonalLog.md"
+    },
+    {
+      "basename": "Daily Work Log Template",
+      "path": "Templates/Daily Work Log Template.md"
+    },
+    {
+      "basename": "Pasted image 20251112235404",
+      "path": "attachments/Pasted image 20251112235404.png"
+    },
+    {
+      "basename": "Spread Operator",
+      "path": "Unorganized Notes/Spread Operator.md"
+    },
+    {
+      "basename": "Callback Functions",
+      "path": "Coding/JavaScript/Callback Functions.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "Coding/JavaScript/Arrays.md"
+    },
+    {
+      "basename": "rest parameter",
+      "path": "Coding/JavaScript/rest parameter.md"
+    },
+    {
+      "basename": "Variadic Function",
+      "path": "Coding/langAgnostic/Variadic Function.md"
+    },
+    {
+      "basename": "Information and Computer Systems Year One (Certificate & Diploma)",
+      "path": "Camosun/Information and Computer Systems/Information and Computer Systems Year One (Certificate & Diploma).md"
+    },
+    {
+      "basename": "Information and Computer Systems Technician (Certificate) 1",
+      "path": "Camosun/Information and Computer Systems/Information and Computer Systems Technician (Certificate) 1.md"
+    },
+    {
       "basename": "Information and Computer Systems Technology (Diploma)",
       "path": "Camosun/Information and Computer Systems/Information and Computer Systems Technology (Diploma).md"
     },
     {
-      "basename": "ICS 280 - Capstone Project Preparation",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 280 - Capstone Project Preparation.md"
+      "basename": "ICS 199 - Applied Computing Project",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 199 - Applied Computing Project.md"
     },
     {
-      "basename": "ICS 226 - Network and Server-Side Programming",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 226 - Network and Server-Side Programming.md"
+      "basename": "Course Template",
+      "path": "Templates/Course Template.md"
     },
     {
-      "basename": "ICS 211 - Web Applications",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 211 - Web Applications.md"
+      "basename": "2025-11(Nov)-11-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-11-WorkLog.md"
     },
     {
-      "basename": "ICS 120 - Database Concepts",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 120 - Database Concepts.md"
+      "basename": "Javascript variadic functions",
+      "path": "Coding/JavaScript/Javascript variadic functions.md"
     },
     {
-      "basename": "ICS 110 - Computer Technology Essentials",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 110 - Computer Technology Essentials.md"
-    },
-    {
-      "basename": "ICS 118 - Web Fundamentals",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 118 - Web Fundamentals.md"
-    },
-    {
-      "basename": "ICS 212 - Database Systems Management",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 212 - Database Systems Management.md"
-    },
-    {
-      "basename": "ICS 128 - Web Scripting",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 128 - Web Scripting.md"
-    },
-    {
-      "basename": "ICS 126 - Systems Administration",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 126 - Systems Administration.md"
-    },
-    {
-      "basename": "ICS 125 - Software Engineering Process",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 125 - Software Engineering Process.md"
-    },
-    {
-      "basename": "ICS 124 - Algorithms & Data Structure Programming",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 124 - Algorithms & Data Structure Programming.md"
-    },
-    {
-      "basename": "MATH 156 - Math and Stats for Computing",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/MATH 156 - Math and Stats for Computing.md"
-    },
-    {
-      "basename": "LRNS 102 - Learning Skills",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/LRNS 102 - Learning Skills.md"
-    },
-    {
-      "basename": "ICS 114 - Algorithms and Programming",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 114 - Algorithms and Programming.md"
-    },
-    {
-      "basename": "ICS 113 - Operating Systems and Architecture",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/ICS 113 - Operating Systems and Architecture.md"
-    },
-    {
-      "basename": "CDEV WPS - Workplace Preparation Skills",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md"
+      "basename": "Looping through a collection",
+      "path": "Coding/JavaScript/Looping through a collection.md"
     },
     {
       "basename": "2025-11(Nov)-10-WorkLog",
@@ -77,128 +165,40 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-10.md"
     },
     {
-      "basename": "2025-11(Nov)-10-PersonalLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-10-PersonalLog.md"
+      "basename": "2025-11(Nov)-11-PersonalLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-11-PersonalLog.md"
     },
     {
-      "basename": "Arrays",
-      "path": "Coding/JavaScript/Arrays.md"
+      "basename": "ICS 125 - Software Engineering Process",
+      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 125 - Software Engineering Process.md"
     },
     {
-      "basename": "Looping through a collection",
-      "path": "Coding/JavaScript/Looping through a collection.md"
+      "basename": "ENGL 170 - Technical & Professional Communication 1",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ENGL 170 - Technical & Professional Communication 1.md"
     },
     {
-      "basename": "Coding Project Ideas",
-      "path": "Coding/langAgnostic/Coding Project Ideas.md"
+      "basename": "ICS 226 - Network and Server-Side Programming",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 226 - Network and Server-Side Programming.md"
     },
     {
-      "basename": "Neuroplasticity--rewire your brain for learning",
-      "path": "extra-curricular/Neuroplasticity--rewire your brain for learning.md"
+      "basename": "TECN 290 - Technology Symposium",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T5/TECN 290 - Technology Symposium.md"
     },
     {
-      "basename": "Effective Learning Checklist",
-      "path": "extra-curricular/Effective Learning Checklist.md"
+      "basename": "ENGL 273 - Technical Communication",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T5/ENGL 273 - Technical Communication.md"
     },
     {
-      "basename": "How does Dopamine improve learning?",
-      "path": "extra-curricular/How does Dopamine improve learning?.md"
+      "basename": "ICS 290 - Capstone Project",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 290 - Capstone Project.md"
     },
     {
-      "basename": "Bitwise Operators",
-      "path": "Coding/langAgnostic/Bitwise Operators.md"
+      "basename": "ICS 280 - Capstone Project Preparation",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 280 - Capstone Project Preparation.md"
     },
     {
-      "basename": "Variable Shadowing",
-      "path": "Coding/langAgnostic/Variable Shadowing.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "Coding/langAgnostic/Methods.md"
-    },
-    {
-      "basename": "lone surrogates",
-      "path": "Coding/langAgnostic/lone surrogates.md"
-    },
-    {
-      "basename": "Learning roadmaps",
-      "path": "Coding/langAgnostic/Learning roadmaps.md"
-    },
-    {
-      "basename": "Problem Solving",
-      "path": "Coding/langAgnostic/Problem Solving.md"
-    },
-    {
-      "basename": "Pseudocode",
-      "path": "Coding/langAgnostic/Pseudocode.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "Coding/langAgnostic/Queue.md"
-    },
-    {
-      "basename": "Tests Driven Development (TDD)",
-      "path": "Coding/langAgnostic/Tests Driven Development (TDD).md"
-    },
-    {
-      "basename": "Thinking like a programmer",
-      "path": "Coding/langAgnostic/Thinking like a programmer.md"
-    },
-    {
-      "basename": "Loops & Arrays",
-      "path": "Coding/JavaScript/Loops & Arrays.md"
-    },
-    {
-      "basename": "Why is (Aerobic) exercise important to learning?",
-      "path": "extra-curricular/Why is (Aerobic) exercise important to learning?.md"
-    },
-    {
-      "basename": "Exiting loops & iterations w Break and Continue",
-      "path": "Coding/JavaScript/Exiting loops & iterations w Break and Continue.md"
-    },
-    {
-      "basename": "Why is sleep important to learning?",
-      "path": "extra-curricular/Why is sleep important to learning?.md"
-    },
-    {
-      "basename": "while & do... while loop",
-      "path": "Coding/JavaScript/while & do... while loop.md"
-    },
-    {
-      "basename": "for loop",
-      "path": "Coding/JavaScript/for loop.md"
-    },
-    {
-      "basename": "Monthly Work Log Summary Template",
-      "path": "Templates/Monthly Work Log Summary Template.md"
-    },
-    {
-      "basename": "New Note Template",
-      "path": "Templates/New Note Template.md"
-    },
-    {
-      "basename": "File Split Template",
-      "path": "Templates/File Split Template.md"
-    },
-    {
-      "basename": "2025-11(Nov)-09-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-09-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-09",
-      "path": "Logs/Daily/2025/2025-11(Nov)-09.md"
-    },
-    {
-      "basename": "2025-11(Nov)-08-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-08-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-08",
-      "path": "Logs/Daily/2025/2025-11(Nov)-08.md"
-    },
-    {
-      "basename": "2025-11(Nov)-07",
-      "path": "Logs/Daily/2025/2025-11(Nov)-07.md"
+      "basename": "ICS 224 - Mobile App Development",
+      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 224 - Mobile App Development.md"
     }
   ],
   "omittedPaths": [

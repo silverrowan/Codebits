@@ -8,7 +8,8 @@
     "headerUnderline",
     "textFormattingColorsStyle",
     "uniqueBulletsByTabLevel",
-    "headerSizeColor"
+    "headerSizeColor",
+    "mermaidCropping"
   ],
   "accentColor": ""
 }

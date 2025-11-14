@@ -1,0 +1,15 @@
+---
+tags:
+  - health
+  - posture
+source: https://time.com/6267767/surprising-benefits-of-sitting-on-the-floor/
+---
+When you sit on a chair in the traditional right-angle fashion—and do so for the freakish amount of time that many of our lives demand—the relationship between your upper thigh bones, pelvis, and hip joints suffers, making it harder for you to keep your torso stable. So your body solves the problem another way, usually by enlisting the long muscles in the back and in the legs to keep your upper body from moving in various directions. The efforts of those muscles take a toll, tugging on your spine and creating discomfort. How many times has your back felt all rigor mortis and achy when you get up from a long bout of sitting in a chair? By spending some time sitting on your nice parquet floor or plush rug each day, you’ll help “rewild” all those lower-body elements, letting them do their job as nature intended.
+
+There’s another reason everyone should spend some time down on the floor each day: It helps you become more proficient at getting up again, and that’s critical. In a well-known 2014 study published in the European Journal of Preventive Cardiology, researchers gave 2,002 men and women, ages fifty-one to eighty a Sit-and-Rise Test to assess their ability to get up from the floor. Could they do it without using any support (i.e., a hand on the floor, grabbing onto a chair) and, if not, how much support did they need?
+
+Six years later, after checking back in to see how the sit-and-risers were doing, the researchers determined that an inability to get up and down off the floor without assistance is associated with a greater risk of death. Conversely, the higher a subject scored on the test, the greater the improvement in their statistical likelihood of survival.
+
+The upshot: Being able to rise with ease is a sign that you will be a) less likely to have a debilitating fall, and b) in better all-around health. You may not be worrying about falling (though, truthfully, anyone can fall at any age, so don’t discount the value of being able to get up), but the ability to easily sit and rise reflects your well-being. If you can move in all the ways that allow you to get up and down with little or no support, then your body is stable, supple, and efficient. That is, it has qualities that will help you avoid pain, feel more vibrant, and participate in all the activities you love to do. That is something people of all ages can aspire to.
+
+With that in mind, we recommend two things. One is that you self-administer the Sit-and-Rise Test to see where you stand now. The other is that you make sitting on the floor a habit. That will not only help you improve your ability to get up without any support, it will also allow you to build stability and agility, feel looser, and experience less pain.
