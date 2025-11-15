@@ -22,6 +22,7 @@ menu.addEventListener('click', (event) => {
 ```
 ## Introduction
 - If you have a large number of event handlers on a page they will *directly* impact performance
+        - Other source suggests this is not the case until 100s of obj. Clarify w/ instructors. #UNCLEAR 
     - First: ea event handler is a function, which is also an object that takes up memory. The more objects in memory, the slower the performance
     - Second: it takes time to assign all the event handlers, which causes a delay in the interactivity of the page
 - To solve this, we can leverage [[Event Bubbling]]. 

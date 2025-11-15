@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11(Nov)-14-WorkLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md"
+    },
+    {
+      "basename": "Conditional Functions",
+      "path": "Coding/JavaScript/Conditional Functions.md"
+    },
+    {
+      "basename": "Function Constructor",
+      "path": "Coding/JavaScript/Function Constructor.md"
+    },
+    {
+      "basename": "Logical Assignment Operators",
+      "path": "Coding/JavaScript/Logical Assignment Operators.md"
+    },
+    {
+      "basename": "Logical Operators",
+      "path": "Coding/JavaScript/Logical Operators.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "Coding/JavaScript/Arrays.md"
+    },
+    {
+      "basename": "Calling Functions",
+      "path": "Coding/JavaScript/Calling Functions.md"
+    },
+    {
+      "basename": "Function Basics",
+      "path": "Coding/JavaScript/Function Basics.md"
+    },
+    {
+      "basename": "Expression VS Declaration",
+      "path": "Coding/JavaScript/Expression VS Declaration.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Coding/HTML & CSS/CSS.md"
+    },
+    {
+      "basename": "Arrow Functions",
+      "path": "Coding/JavaScript/Arrow Functions.md"
+    },
+    {
+      "basename": "Loops & Arrays",
+      "path": "Coding/JavaScript/Loops & Arrays.md"
+    },
+    {
+      "basename": "Return Values",
+      "path": "Coding/JavaScript/Return Values.md"
+    },
+    {
       "basename": "2025-11(Nov)-14",
       "path": "Logs/Daily/2025/2025-11(Nov)-14.md"
     },
     {
+      "basename": "2025-11(Nov)-15",
+      "path": "Logs/Daily/2025/2025-11(Nov)-15.md"
+    },
+    {
+      "basename": "Event delegation",
+      "path": "Unorganized Notes/Event delegation.md"
+    },
+    {
+      "basename": "Mouse Events",
+      "path": "Coding/JavaScript/Mouse Events.md"
+    },
+    {
+      "basename": "Event Listeners",
+      "path": "Coding/JavaScript/Event Listeners.md"
+    },
+    {
       "basename": "DOM Manipulation",
       "path": "Coding/JavaScript/DOM Manipulation.md"
+    },
+    {
+      "basename": "Event Properties & Methods",
+      "path": "Unorganized Notes/Event Properties & Methods.md"
+    },
+    {
+      "basename": "Create & Activate Events",
+      "path": "Unorganized Notes/Create & Activate Events.md"
     },
     {
       "basename": "2025-11(Nov)-13",
@@ -17,12 +93,8 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-13-WorkLog.md"
     },
     {
-      "basename": "Event Listeners",
-      "path": "Coding/JavaScript/Event Listeners.md"
-    },
-    {
-      "basename": "Create & Activate Events",
-      "path": "Unorganized Notes/Create & Activate Events.md"
+      "basename": "2025-11(Nov)-14-PersonalLog",
+      "path": "Logs/Daily/2025/2025-11(Nov)-14-PersonalLog.md"
     },
     {
       "basename": "2025-11(Nov)-12-WorkLog",
@@ -31,14 +103,6 @@
     {
       "basename": "2025-11(Nov)-12",
       "path": "Logs/Daily/2025/2025-11(Nov)-12.md"
-    },
-    {
-      "basename": "Event Properties & Methods",
-      "path": "Unorganized Notes/Event Properties & Methods.md"
-    },
-    {
-      "basename": "Event delegation",
-      "path": "Unorganized Notes/Event delegation.md"
     },
     {
       "basename": "Event Bubbling",
@@ -53,16 +117,8 @@
       "path": "Coding/JavaScript/Keyboard events.md"
     },
     {
-      "basename": "Mouse Events",
-      "path": "Coding/JavaScript/Mouse Events.md"
-    },
-    {
       "basename": "Shopping List",
       "path": "Unorganized Notes/Shopping List.md"
-    },
-    {
-      "basename": "2025-11(Nov)-15",
-      "path": "Logs/Daily/2025/2025-11(Nov)-15.md"
     },
     {
       "basename": "Untitled Kanban",
@@ -113,10 +169,6 @@
       "path": "Coding/JavaScript/Callback Functions.md"
     },
     {
-      "basename": "Arrays",
-      "path": "Coding/JavaScript/Arrays.md"
-    },
-    {
       "basename": "rest parameter",
       "path": "Coding/JavaScript/rest parameter.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "2025-11(Nov)-11-WorkLog",
       "path": "Logs/Daily/2025/2025-11(Nov)-11-WorkLog.md"
-    },
-    {
-      "basename": "Javascript variadic functions",
-      "path": "Coding/JavaScript/Javascript variadic functions.md"
-    },
-    {
-      "basename": "Looping through a collection",
-      "path": "Coding/JavaScript/Looping through a collection.md"
-    },
-    {
-      "basename": "2025-11(Nov)-10-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-10-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-10",
-      "path": "Logs/Daily/2025/2025-11(Nov)-10.md"
-    },
-    {
-      "basename": "2025-11(Nov)-11-PersonalLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-11-PersonalLog.md"
-    },
-    {
-      "basename": "ICS 125 - Software Engineering Process",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 125 - Software Engineering Process.md"
-    },
-    {
-      "basename": "ENGL 170 - Technical & Professional Communication 1",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ENGL 170 - Technical & Professional Communication 1.md"
-    },
-    {
-      "basename": "ICS 226 - Network and Server-Side Programming",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T3/ICS 226 - Network and Server-Side Programming.md"
-    },
-    {
-      "basename": "TECN 290 - Technology Symposium",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T5/TECN 290 - Technology Symposium.md"
-    },
-    {
-      "basename": "ENGL 273 - Technical Communication",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T5/ENGL 273 - Technical Communication.md"
-    },
-    {
-      "basename": "ICS 290 - Capstone Project",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T5/ICS 290 - Capstone Project.md"
-    },
-    {
-      "basename": "ICS 280 - Capstone Project Preparation",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 280 - Capstone Project Preparation.md"
-    },
-    {
-      "basename": "ICS 224 - Mobile App Development",
-      "path": "Camosun/Information and Computer Systems/Y2-Diploma/T4/ICS 224 - Mobile App Development.md"
     }
   ],
   "omittedPaths": [
