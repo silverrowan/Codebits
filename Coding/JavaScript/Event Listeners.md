@@ -70,6 +70,7 @@ buttons.forEach((button) => {
 
 ![[Commonly Useful Events]]
 
+[[DOM Manipulation]]
 [[Create & Activate Events]]
 [[Event Bubbling]]
 [[Event delegation]]

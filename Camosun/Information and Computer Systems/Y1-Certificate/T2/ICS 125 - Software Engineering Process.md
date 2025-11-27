@@ -23,9 +23,9 @@ Explore the dynamic world of software engineering, where creativity meets techno
 ^c0e084
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] Mandatory: Course Slides (Lecture Slides & Lab Manuals) provided in D2L
->  - [ ] Optional: Software Engineering by Rod Stephens, Wrox publisher.
->  - [ ] Optional: The Unified Modeling Language User Guide by Grady Booch, James Rumbaugh, Ivar Jacobson
+>  -  Mandatory: Course Slides (Lecture Slides & Lab Manuals) provided in D2L
+>  - $ Optional: Software Engineering by Rod Stephens, Wrox publisher.
+>  - $ Optional: The Unified Modeling Language User Guide by Grady Booch, James Rumbaugh, Ivar Jacobson
 ### Learning Outcomes & Objectives
 Upon successful completion of this course a student will be able to:
 - Explain the practices that are key components of various process models for software development such as waterfall, agile, scrum, and spiral;

@@ -22,8 +22,8 @@ Students will learn mathematical and statistical concepts relevant to introducto
 ^37a68f
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] Calculator - Only ordinary scientific calculators (non-graphing, non-programmable) are permitted. 
->  - [ ] Texts - All course materials are online and available on D2L. 
+>  - $ Calculator - Only ordinary scientific calculators (non-graphing, non-programmable) are permitted. 
+>  -  Texts - All course materials are online and available on D2L. 
 
 CALENDAR DESCRIPTION
 Students will learn mathematical and statistical concepts relevant to introductory computer programming for development of programming and data interpretation skills. Students will study binary numbers, logic, Boolean algebra, sequences and series, and asymptotic (Big-O) notation, counting techniques, introductory probability, descriptive statistics, and confidence intervals.

@@ -21,7 +21,7 @@ This class is a pre-requisite for Co-op and Internship Work Terms.
 ^8704a7
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] Laptops & headset - required for mock interview
+>  - $ Laptops & headset - required for mock interview
 
 ### Learning Outcomes & Objectives
 Upon successful completion of this course students will be able to:

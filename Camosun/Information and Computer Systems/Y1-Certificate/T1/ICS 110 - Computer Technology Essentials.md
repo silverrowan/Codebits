@@ -22,8 +22,8 @@ Students will be introduced to the fundamental use of computing device, operatin
 
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] online, interactive book, called zybooks. **Subscription** instructions are provided on D2L.
->  - [ ] additional required readings and documents online
+>  - $ online, interactive book, called zybooks. **Subscription** instructions are provided on D2L.
+>  - additional required readings and documents online
 ### Learning Outcomes & Objectives
 At the conclusion of this course students will be able to:
 - Apply appropriate naming and directory strategies for successful *file management*;

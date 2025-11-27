@@ -1,6 +1,5 @@
 ---
 tags:
-  - <% tp.frontmatter.tags %>
   - JavaScript
   - loop
   - for-loop

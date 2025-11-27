@@ -20,8 +20,8 @@ Step in and create stunning, interactive websites crafted using HTML and cascadi
 ^baef37
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] Materials on the D2L course page: presentation slides for lectures, lab assignment instructions for labs, etc.
->  - [ ] see https://online.camosun.ca/d2l/home/21349
+>  - $ Materials on the D2L course page: presentation slides for lectures, lab assignment instructions for labs, etc.
+>  - $ see https://online.camosun.ca/d2l/home/21349
 
 Students will obtain a solid foundation in general computer concepts and a practical exposure to the computer. Topics include: computer terminology and environment, computer applications and usage as well as a brief introduction to programming. Some sections designated for particular programs will include examples relevant to those programs.
 ### Learning Outcomes & Objectives

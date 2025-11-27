@@ -20,7 +20,7 @@ Are you ready to explore web application development and turn your innovative id
 >- summary note
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] 
+>  - 
 ### Learning Outcomes & Objectives
 - outcome
 

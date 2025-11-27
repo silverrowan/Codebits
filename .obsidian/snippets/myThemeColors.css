@@ -1,0 +1,36 @@
+*/grouped by color family, within those, ordered from light to dark (if sat, hue, etc vary lightness sorting is by visual, not number)
+
+*/Purples/*
+---------------------------------
+#C8C8DC - rgb(200, 200, 220) - dusty periwinkle-esque; equations
+#8A5CF5 - mid (lower saturation); title
+#8356EB - mid (highr saturation); 'accent color' + bold & italic. 'accent' directly affects: highlights, inline tags, UI highlighting
+#6C43CB - mid-dark
+#512DA4 - dark
+
+
+*/Yellows/*
+---------------------------------
+#FAFAD2 - lightgoldenrodyellow - highlight background
+#EEE8AA - palegoldenrod - (not used)
+#FFD700 - gold - highlight outline
+#DAA520 - goldenrod - (not used)
+#B8860B - darkgoldenrod - (not used)
+
+
+*/Green (eeh maybe these ones?)/* 
+---------------------------------
+#74EB56 - Bright - (not used)
+#2B9211 - Dark - (not used)
+
+
+*/Red (eeh maybe these ones?)/* 
+---------------------------------
+#E41B43 - Bright
+#BB1637 - Std
+#92112B - mid-dark
+#690C1F - dark
+
+
+
+note, info, todo, important, danger, example, tldr, question, attention, warning

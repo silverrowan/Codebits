@@ -1,0 +1,4 @@
+{
+  "types": "note, info, todo, important, danger, example, tldr, question, attention, warning",
+  "metaTypes": "no-icon, no-title"
+}

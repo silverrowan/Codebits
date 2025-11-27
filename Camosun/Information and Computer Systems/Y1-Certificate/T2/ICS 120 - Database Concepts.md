@@ -22,7 +22,7 @@ Discover how to use data by mastering the principles of modern database systems.
 ^44fab0
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] Optional: Jason Price, Oracle Database 11g SQL, Master SQL and PL/SQL in the Oracle Database
+>  - $ Optional: Jason Price, Oracle Database 11g SQL, Master SQL and PL/SQL in the Oracle Database
 ### Learning Outcomes & Objectives
 Into to Databases and Database Management Systems
 • Relational Model and Relational Algebra

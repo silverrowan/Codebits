@@ -1,5 +1,5 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "headerSize",
     "Embed Adjustments",
@@ -11,5 +11,5 @@
     "headerSizeColor",
     "mermaidCropping"
   ],
-  "accentColor": ""
+  "accentColor": "#8a5cf5"
 }

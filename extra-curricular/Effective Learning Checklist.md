@@ -4,43 +4,44 @@ tags:
 ---
 ## Effective Learning Checklist
 - Certain **conditions need to be met to promote optimal** learning, neuroplasticity, effectiveness, speed, and sustained change.
-- [ ] **Intention**
+
+- ~ **Intention**
     - clear and purposeful in *how* we are thinking & learning so we re-enforce the more beneficial pathways for learning.
     - There is no one 'optimal' learning method, per say - its about understanding *how* the technique is *meant to make you think*
     - **integrative processes** ("higher order" learning) are vastly more effective than isolated
         - looking for patterns, how it connects, at the big picture, looking for relevance and ways to make it relevant.
         - those thoughts, even if you don't get to a clear answer, the thinking itself builds a stronger, deeper memory and deepens your understanding
-- [ ] **Intensity**
+- ~ **Intensity**
     - Learning happens best when it is *challenging, but not **too** challenging*
         - "Zone of proximal development" or "goldilocks zone" is *just* outside your current comfort zone and ability
     - Should calibrate the intensity to that it's *always* challenging.
         - Get good enough (**not** "perfect") before moving to a more difficult level, so you stay challenged.
         - your own sense of mental  effort and what is challenging is the only way to tell if the intensity is enough for you.
-- [ ] **Variety**
+- ~ **Variety**
     - The most effective way is to do *slightly different* challenging things (over and over again).
     - interleaving is super helpful - mixing multiple topics while studying.
         - Increases variety AND another way of looking for patterns/connections/etc (that integrative part!)
     - Autopilot actually causes plasticity to drop.
     - Unpredictability (and occasional errors!) help calibrate your brain to determine which pathways are better and worse. 
-- [ ] **Frequency**
+- ~ **Frequency**
     - Frequent practice of intentional/intense/challenging/varied learning is needed! Without regular use of the skill, your brain will start pruning back pathways.
     - This is not "thinking" about challenging yourself, but immersing yourself in the practice of challenging yourself.
-- [ ] **Duration**
+- ~ **Duration**
         - Research is very unclear on how long this is
         - being haphazard with your practice will draw out learning dramatically, *if* you even hit the threshold long enough to trigger lasting change. 
         - In optimal practice, differences can be seen in as little as 4-6 weeks!
         - Normally its months->years--but its not binary: every week/month there's incremental improvements.
-- [ ] **3 foundational factors** that need to be locked in or the effect of the prev 5 will be significantly reduced.
-    - [ ] **EMOTION!** 
+- ~ **3 foundational factors** that need to be locked in or the effect of the prev 5 will be significantly reduced.
+    - ~ **EMOTION!**
         - when an experience is more emotional it leaves a bigger, more lasting effect on the brain. Try to make a level of dopamine!
          - When we learn more in line with how our brains want to learn, it will generally produce dopamine. 
         -  [[How does Dopamine improve learning?]]
-    - [ ] **SLEEP**
+    - ~ **SLEEP**
         - when it comes to learning and memory and the brain, sleep is *incredibly, incredibly important*
         - **Don't sacrifice sleep** - its unhealthy and it **GETS IN THE WAY** of learning.
         - learning changes are still being re-enforced during your sleep.
         -  [[Why is sleep important to learning?]]
-    - [ ] **EXERCISE**
+    - ~ **EXERCISE**
         - specifically ***aerobic*** exercise.
         - Any level of aerobic exercise has an effect.
         - Sweet spot though, is *roughly* **3-5x per week**, roughly **30-45min** per session, at around a **"6 out of 10" intensity** -_- well that last bit is vauge._

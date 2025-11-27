@@ -72,6 +72,10 @@ const buttons = document.querySelectorAll("button")//all buttons
 ```
 - There are several other (more specific) queries, that offer potential/marginal performance benefits. #later-lesson 
 - Select existing element (in DOM) & assign to variable
+- ! ANY existing DOM element can be used as the base for querySelector!
+    - for example: `const category = document.queryselector('.class');
+                `const links = category.querySelectorALL(.subclass);
+                        NOTE: **category**.querySelectorALL
 ### Element Creation
 - `document.createElement(tagName, [options])` - creates a new element of tag type tagName.
     - eg`const div = document.createElement("div");
@@ -98,7 +102,7 @@ item1.appendChild(newItem);
 
 ### Element Placing
 #### Append elements
-- `parentNode.appendChild(childNode)` - appends *childNode* as the ~={cyan}last child=~ of *parentNode*
+- `parentNode.appendChild(childNode)` - appends *childNode* as the *last child* of *parentNode*
 - `parentNode.insertBefore(newNode, referenceNode)` - inserts *newNode* into *parentNode* before *referenceNode*
 #### Remove elements
 - `parentNode.removeChild(child)` - removes child from parentNode on the DOM and returns a reference to child.

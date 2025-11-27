@@ -22,7 +22,7 @@ Learn how to construct reliable, robust solutions to problems involving the stor
 ^5129d3
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] Mandatory Text: This course uses an online, interactive textbook called a zyBook. You will need a credit card for payment which is charged in US$. 
+>  - $ Mandatory Text: This course uses an online, interactive textbook called a zyBook. You will need a credit card for payment which is charged in US$. 
 
 ### Learning Outcomes & Objectives
 Upon successful completion of this course, a student will be able to:

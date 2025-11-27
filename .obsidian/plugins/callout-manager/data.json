@@ -1,0 +1,33 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "todo": [
+        {
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "warning": [
+        {
+          "changes": {
+            "color": "251, 70, 76"
+          }
+        }
+      ],
+      "faq": [
+        {
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

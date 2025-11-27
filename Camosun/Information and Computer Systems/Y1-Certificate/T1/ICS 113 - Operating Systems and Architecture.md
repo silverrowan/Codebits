@@ -20,11 +20,11 @@ Explore the fundamental operations of computers through hands-on application. Ga
 ^8deb0a
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] ICS 113 Lab Manual, 
->  - [ ] Raspberry Pi (pre-assembled in the labs)
->  - [ ] a MicroSD card of minimum 32 GB
->  - [ ] a USB adapter / card reader for the MicroSD card
->  - [ ] OPTIONAL: Mark G. Sobell and Matthew Helmke, A Practical Guide to Linux Commands, Editors, and Shell Programming, 4th Edition, Addison-Wesley, 2018
+>  - $ ICS 113 Lab Manual, 
+>  - $ Raspberry Pi (pre-assembled in the labs)
+>  - $ a MicroSD card of minimum 32 GB
+>  - $ a USB adapter / card reader for the MicroSD card
+>  - $ OPTIONAL: Mark G. Sobell and Matthew Helmke, A Practical Guide to Linux Commands, Editors, and Shell Programming, 4th Edition, Addison-Wesley, 2018
 ### Learning Outcomes & Objectives
 At the end of this course, students will be able to:
 - Use network services including public drives and computer resources

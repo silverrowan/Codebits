@@ -7,9 +7,13 @@ tags:
   - symbol
 ---
 ### Objects & Symbols
-- Objects are a non-primative datatype in JS. 
+- Objects are a non-primative [[Data Types| data type]] in JS. 
     - all other types are '*primitive*' - their values can only be a single thing.
+        - copies are independent of original
     - in contrast, objects store *keyed* collections of data/complex entities
+        - copies *in all non-primitives* are **NOT** independant! They store a *reference* to the object.
+            - making changes to the COPY will make changes to the ORIGINAL.
+            - reassigning a variable pointing at an object does NOT edit the object, so the object remains the same
 - objects (can) contain lists of *properties* - or a key: value pair.
     - Key is a string, value can be anything
 - The 'symbol' type is used to create unique identifiers for objects.
@@ -34,6 +38,22 @@ let userExample = { //the object
 - NOTE: *comma* after property, not usual semicolon UNTIL object is closed.
 - last property ending in a comma (trailing, or hanging comma) makes
 - altering--add/remove/move properties easier b/c all are alike
+
+```js title:"standard object syntax, @ creation"
+const objectName = {
+    key1Name: value1,
+    key2Name: value2,
+    key3Name: value3,
+};
+```
+- these entries can be called "members" (the key is only the name for the field)
+- those with values that are data items are **[[What is a property|properties]]**
+- those with values that are functions are **[[Methods|methods]]**
+- when an objects' member is a function instead or writing `keyName: function() {...},` we can write `keyName() {...},`
+- an object's property can ALSO be an object. To access these, chain the dot notation, or []s
+    - eg person.name.first; person.name.last; OR
+    - eg person\[name]\[first]; person\[name]\[last];
+- @ objects are sometimes called '*associative arrays*' - they may strings to values the same way arrays map numbers to values. 
 ## READ, ADD, & DELETE PROPERTIES
 - again, two syntax forms! *"Dot notation"* and *"square bracket notation"*
 ```js title:"Dot Notation eg."
@@ -52,7 +72,7 @@ delete userExample["likes birds"]; //delete property
 - Multiword property names DONT WORK with Dot access! Use Square bracket notation with quotes
     - eg `let userExample = {};
          `userExample["likes birds"] = true; //setting property
-- \[ ] notation can be used to access values of *variable* property names, eg:
+- \[ ] notation can be used to access values of *variable* property names & evaluation of expressions, eg:
     ```js title:"[ ] notation access values eg"
 let key = "likes birds";
 user[key] = true;
@@ -89,8 +109,37 @@ let bag = {
     [fruit + 'Computers']: 5 //becomes bag.appleComputers = 5
 };
 ```
+
+### dynamic names 
+- because the bracket notation [ ] evaluates for expressions & variables, it can be used to set key names and values dynamically.
+```js title:"dynamic member type & value"
+const myDataName = nameInput.value;
+const myDataValue = nameValue.value
+
+person[myDataName] = myDataValue;
+```
+### 'this' keyword
+- the `this` keyword typically refers to the current object the code is being executed on.
+- In an object context it refers to the object that the method was called on.
+```js
+const person1 = {
+  name: "Chris",
+  introduceSelf() {
+    console.log(`Hi! I'm ${this.name}.`);
+  },//this refers to 'person1'
+};
+
+const person2 = {
+  name: "Deepti",
+  introduceSelf() {
+    console.log(`Hi! I'm ${this.name}.`);
+  },//this refers to 'person2'
+};
+```
+  
 ## PROPERTY VALUE SHORTHAND
-%% what is going on here, how is it clear that the variable is the value and not the name? %%
+- This is for when making a function that will be used to create new objects!
+    - so the shorthand `name,` means - make the *key* 'name', and set the *value* to *parameter* 'name'
 ```js
 //using existing variable as value for property names is v common so has a shorthand
 //eg
@@ -121,11 +170,11 @@ function makeUser(name, age) {
 }
 ```
 ## PROPERTY NAMES
-- object property names can be ANY string* non-string types will be converted to string
-    - the restriction on variable names to avoid language reserved words DOES NOT APPLY to property names!
-    - *exception is the property named __proto__ which cannot be set to a non-object value
+- object property names can be **ANY** string* non-string types will be converted to string
+    - the restriction on variable names to avoid language reserved words DOES NOT APPLY to property names!v
+    - *exception is the property named \_\_proto\_\_ which cannot be set to a non-object value
 ## PROPERTY EXISTS TEST
-- it is possible to access a property that DOES NOT EXIST - it will return "undefined"
+- it **IS** possible to access a property that **DOES NOT EXIST** - it will return "*undefined*"
 - to test if property exists, use special operator "in"
     - syntax: `"key" in object`
 ```js title:"eg"
@@ -158,15 +207,16 @@ let user = { name: "John", age: 30, isAdmin: true, };
 for (let key in user) {
     alert( key ); // keys: name, age, isAdmin
     alert( user[key] ); // values of keys: John, 30, true
+    so... alert(key +':'+user[key]); //name: John, age:30....
 }     alert(userExample["likes birds"]); //getting property; value = true
 delete userExample["likes birds"]; //delete property
     //note that all "for" constructs allow to declare teh looping variable inside the look like let key in eg.
         // for (let prop in obj) is also widely used
 ``` 
 ### LOOP ORDER   
-- Integer properties are sorted numerically
-    - an integer property is one that can be converted to an integer number and back to a string remains the same - so "49" is an integer property but "+49" and "1.2" are not
-- others appear in order created
+- *Integer* properties are *sorted numerically*
+    - an *integer property* is one that can be converted to an integer number and back to a string remains the same - so *"49" is* an integer property but *"+49" and "1.2"* are **not**
+- *others* appear *in order created*
 ```js title:eg
 let codes = {
     "49": "Germany",

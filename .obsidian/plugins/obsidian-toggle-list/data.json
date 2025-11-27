@@ -13,7 +13,7 @@
       "bindings": [
         0
       ],
-      "isPopOver": false
+      "isPopOver": true
     },
     {
       "index": 1,
@@ -22,7 +22,7 @@
       "bindings": [
         1
       ],
-      "isPopOver": false
+      "isPopOver": true
     },
     {
       "index": 2,
@@ -31,7 +31,7 @@
       "bindings": [
         2
       ],
-      "isPopOver": false
+      "isPopOver": true
     },
     {
       "index": 3,
@@ -41,22 +41,35 @@
         2,
         0
       ],
-      "isPopOver": false
+      "isPopOver": true
+    },
+    {
+      "index": 4,
+      "name": "Buy",
+      "tmp_name": "Buy",
+      "bindings": [
+        3
+      ],
+      "isPopOver": true
     }
   ],
   "setup_list": [
     {
       "index": 0,
-      "all_states": "- \n- [ ] \n- [x] || ✅ {time:: YYYY-MM-DD}\n",
+      "all_states": "- \n- [ ] \n- [/] \n- [x] || ✅ {time:: YYYY-MM-DD}\n\n- [-] || ✅ {time:: YYYY-MM-DD}",
       "states": [
         "- ",
         "- [ ] ",
+        "- [/] ",
         "- [x] || ✅ {time:: YYYY-MM-DD}",
-        ""
+        "",
+        "- [-] || ✅ {time:: YYYY-MM-DD}"
       ],
       "sorteds": [
         "- [x] || ✅ {time:: YYYY-MM-DD}",
+        "- [-] || ✅ {time:: YYYY-MM-DD}",
         "- [ ] ",
+        "- [/] ",
         "- ",
         ""
       ],
@@ -81,16 +94,37 @@
     },
     {
       "index": 2,
-      "all_states": "- ? \n- ! \n- ~ ",
+      "all_states": "- ? \n- ! \n- ~ \n- &\n- w!\n- i!",
       "states": [
         "- ? ",
         "- ! ",
-        "- ~ "
+        "- ~ ",
+        "- &",
+        "- w!",
+        "- i!"
       ],
       "sorteds": [
         "- ? ",
         "- ! ",
-        "- ~ "
+        "- ~ ",
+        "- w!",
+        "- i!",
+        "- &"
+      ],
+      "states_dict": {}
+    },
+    {
+      "index": 3,
+      "all_states": "- 🛒\n- 🎀\n- ❌",
+      "states": [
+        "- 🛒",
+        "- 🎀",
+        "- ❌"
+      ],
+      "sorteds": [
+        "- 🛒",
+        "- 🎀",
+        "- ❌"
       ],
       "states_dict": {}
     }

@@ -21,8 +21,8 @@ In Learning Skills 102 you will be introduced to a variety of learning strategie
 ^f0f57c
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] The text chapters will be provided in the D2L Content of each class.
->  - [ ] OPTIONAL: Learning for Success (4th Edition) by Joan Fleet, Fiona Goodchild, and Richard Zajchowski, Harcourt Canada 2006. 
+>  -  The text chapters will be provided in the D2L Content of each class.
+>  - $ OPTIONAL: Learning for Success (4th Edition) by Joan Fleet, Fiona Goodchild, and Richard Zajchowski, Harcourt Canada 2006. 
 
 This course will help students learn strategies to solve quantitative problems more effectively as well as strategies in standard learning skills areas such as time management and exam preparations. Special emphasis will be given to those strategies specifically needed in mathematical problem-solving courses such as
 understanding concepts efficiently and solving problems systematically

@@ -11,11 +11,13 @@
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "obsidian-markdown-formatting-assistant-plugin",
-  "fast-text-color",
   "obsidian-editor-shortcuts",
   "obsidian-day-planner",
   "obsidian-list-callouts",
   "obsidian-toggle-list",
-  "enhanced-tables"
+  "enhanced-tables",
+  "obsidian-wakatime",
+  "callout-manager",
+  "callout-menu",
+  "obsidian-meta-bind-plugin"
 ]

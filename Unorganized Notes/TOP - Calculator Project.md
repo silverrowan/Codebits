@@ -1,0 +1,45 @@
+---
+tags:
+  - JavaScript
+  - HTML
+  - CSS
+  - project
+  - TOP
+---
+## Calculator Project 
+- (basic calculations only, 2 numbers, one operator, no order of operations)
+    - [x] rough UI design ✅ 2025-11-24
+        - [x] physically lay it out on web page ✅ 2025-11-24
+    - [/] basic math functions & switcher
+    - [x] clear function ✅ 2025-11-25
+    - [ ] display population
+    - [x] divide by 0 error message ✅ 2025-11-27
+    - [ ] rounding
+- Can it:
+    - [x] add ✅ 2025-11-26
+    - [x] subtract ✅ 2025-11-26
+    - [x] multiply ✅ 2025-11-26
+    - [x] divide ✅ 2025-11-26
+    - [ ] evaluate properly when format: initial: x + y =
+    - [ ]  evaluate properly when format: initial: x + y + (should calc & ret ans)
+        - currently: `45 + 2 + (displays 47)` `9 + displays (11)
+        -  currently: `2 + 10 = 12
+            - `12 +` => `10 + 12;
+            - SHOULD go to `12 +
+        - once evaluate a answer/number it needs to replace BOTH 1 & 2
+    - [ ]  evaluate properly when format: a =/+
+    - [ ] evaluate properly when format: =/+ (no variables)
+    - [ ] evaluate properly when format: a ++
+    - [ ] evaluate properly when format: + a = b
+    - [ ] evaluate properly when format: + a + b
+    - [ ] when = ans KEYPRESS -> does it start a new number properly
+    - [ ] when +=> ans KEYPRESS -> does it start a new number properly
+    - [ ] add rounding of answers
+    - [ ] clear removes ALL data
+    - [/] error when divide by 0
+        - returns "impossible, BUT - calc attempts to use it as a value."
+    - [ ] assign ANS to value when operator pushed (except \=)
+- [ ] "extra credit"
+    - [ ] decimals! - ui element, limit to one decimal per number, adjust rounding
+    - [ ] backspace
+    - [ ] keyboard support

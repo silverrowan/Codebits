@@ -38,4 +38,17 @@ let variable = "exist";
 ==Highlight==
 ~~Strikethrough~~
 - [ ] checkboxes
+- [ ] 
 - [x] checked box ✅ 2025-11-05
+- ! callout bullet types
+- w!
+- 
+- ? 
+- % 
+- ~ 
+- & 
+- @ 
+- $ 
+- i! 
+- checkmark... 
+- still unclear on how to activate the effect

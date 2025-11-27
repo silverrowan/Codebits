@@ -23,8 +23,8 @@ Learn how to manage major operating systems in the field of systems administrati
 ^d4fd42
 
 > [!important] Supplies & #TEXTBOOK 
->  - [ ] Evi Nemeth et al., Unix and Linux System Administration Handbook, 5th Edition, Addison-Wesly, 2018
->  - [ ] Mark G. Sobell and Matthew Helmke, A Practical Guide to Linux Commands, Editors, and Shell Programming, 4th Edition, Addison-Wesley, 2018
+>  - $ Evi Nemeth et al., Unix and Linux System Administration Handbook, 5th Edition, Addison-Wesly, 2018
+>  - $ Mark G. Sobell and Matthew Helmke, A Practical Guide to Linux Commands, Editors, and Shell Programming, 4th Edition, Addison-Wesley, 2018
 ### Learning Outcomes & Objectives
 At the end of this course, students will be able to:
 - Demonstrate the essentials of IT support skills including installing, configuring, diagnosing, securing, and troubleshooting different operating systems on a virtual machine (Weeks 1, 2, 9, 14)

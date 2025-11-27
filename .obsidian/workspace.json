@@ -4,170 +4,213 @@
     "type": "split",
     "children": [
       {
-        "id": "79c0028b577fecad",
-        "type": "split",
+        "id": "1d89079edc960537",
+        "type": "tabs",
         "children": [
           {
-            "id": "7779b92037068fdf",
-            "type": "tabs",
-            "dimension": 40.131578947368425,
-            "children": [
-              {
-                "id": "cbb8521f28bda069",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Coding/JavaScript/DOM Manipulation.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "DOM Manipulation"
+            "id": "ef31f65c271dc173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-11(Nov)-20-WorkLog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "94ee88b38c16f322",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Coding/JavaScript/Mouse Events.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mouse Events"
-                }
-              },
-              {
-                "id": "87a45b2b5ab8100a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Coding/JavaScript/Function Basics.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Function Basics"
-                }
-              },
-              {
-                "id": "d43fd199fde73d5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Coding/JavaScript/Conditional Functions.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Conditional Functions"
-                }
-              },
-              {
-                "id": "0dde67cb4926d0d6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unorganized Notes/Event Properties & Methods.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Event Properties & Methods"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-file",
+              "title": "2025-11(Nov)-20-WorkLog"
+            }
           },
           {
-            "id": "1d89079edc960537",
-            "type": "tabs",
-            "dimension": 59.86842105263158,
-            "children": [
-              {
-                "id": "34939fd483549474",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-11(Nov)-14-WorkLog"
+            "id": "874fe2aa57b80af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "2025-11(Nov)-22-WorkLog"
+            }
+          },
+          {
+            "id": "78132592f7da5704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CDEV WPS - Workplace Preparation Skills"
+            }
+          },
+          {
+            "id": "22d401607a76d8a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/TOP - Calculator Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TOP - Calculator Project"
+            }
+          },
+          {
+            "id": "6952d513aa57eaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11(Nov)-26-WorkLog"
+            }
+          },
+          {
+            "id": "90fae6a50cb83f29",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Nov, 27–Nov, 29"
+            }
+          },
+          {
+            "id": "8baeecf982c1b869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11(Nov)-26-WorkLog"
+            }
+          },
+          {
+            "id": "de15383c05f08a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/JavaScript/DOM Manipulation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DOM Manipulation"
+            }
+          },
+          {
+            "id": "74ac3dec6adb9300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Markdown Cheatsheet"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#function",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,16 +274,6 @@
             }
           },
           {
-            "id": "1982b96ecdaf1c50",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "2160725ab59eac79",
             "type": "leaf",
             "state": {
@@ -251,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -289,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md",
+                "file": "Logs/Daily/2025/2025-11(Nov)-19-WorkLog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11(Nov)-14-WorkLog"
+              "title": "Outline of 2025-11(Nov)-19-WorkLog"
             }
           },
           {
@@ -304,12 +337,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md",
+                "file": "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11(Nov)-14-WorkLog"
+              "title": "Outgoing links from 2025-11(Nov)-26-WorkLog"
             }
           },
           {
@@ -372,7 +405,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -382,40 +414,41 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "callout-manager:Insert Callout": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "34939fd483549474",
+  "active": "e147ca288e72f782",
   "lastOpenFiles": [
-    "Coding/JavaScript/Conditional Functions.md",
-    "Coding/JavaScript/Function Constructor.md",
-    "Coding/JavaScript/Logical Assignment Operators.md",
-    "Coding/JavaScript/Logical Operators.md",
-    "Coding/JavaScript/Arrays.md",
-    "Coding/JavaScript/Calling Functions.md",
-    "Coding/JavaScript/Function Basics.md",
-    "Coding/JavaScript/Expression VS Declaration.md",
-    "Coding/HTML & CSS/CSS.md",
-    "Coding/JavaScript/Arrow Functions.md",
-    "Coding/JavaScript/Loops & Arrays.md",
-    "Coding/JavaScript/Return Values.md",
+    "Unorganized Notes/TOP - Calculator Project.md",
+    "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-26.md",
+    "Logs/Daily/2025/2025-11(Nov)-27-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-27.md",
+    "Logs/Daily/2025/2025-11(Nov)-25.md",
     "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-14.md",
-    "Logs/Daily/2025/2025-11(Nov)-15.md",
-    "Unorganized Notes/Event delegation.md",
-    "Coding/JavaScript/Mouse Events.md",
-    "Coding/JavaScript/Event Listeners.md",
     "Coding/JavaScript/DOM Manipulation.md",
-    "Unorganized Notes/Event Properties & Methods.md",
+    "Logs/Daily/2025/2025-11(Nov)-25-WorkLog.md",
+    "Logs/Shopping List.md",
+    "Logs/Daily/2025/2025-11(Nov)-24.md",
+    "Logs/Daily/2025/2025-11(Nov)-24-WorkLog.md",
+    "Coding/JavaScript/Logical Operators.md",
+    "Coding/JavaScript/Logical Assignment Operators.md",
+    "Coding/JavaScript/Function Basics.md",
+    "Coding/JavaScript/Conditional Functions.md",
+    "Coding/JavaScript/Arrow Functions.md",
+    "Logs/Daily/2025/2025-11(Nov)-23.md",
+    "Unorganized Notes/full task list.md",
+    "Logs/Daily/2025/2025-11(Nov)-23-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-21-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-21.md",
+    "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-22.md",
+    "Coding/JavaScript/Event Listeners.md",
     "Unorganized Notes/Create & Activate Events.md",
-    "Logs/Daily/2025/2025-11(Nov)-13.md",
-    "Logs/Daily/2025/2025-11(Nov)-13-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-14-PersonalLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-12-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-12.md",
+    "TL-StateDiagram-2025-11-21T11-07-51.572Z.canvas",
     "attachments/Pasted image 20251113220206.png",
     "attachments/Pasted image 20251113220159.png",
     "TL-StateDiagram-2025-11-14T05-38-04.540Z.canvas",

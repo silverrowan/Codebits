@@ -17,5 +17,8 @@ tags:
     6. [[Undefined Data Type|Undefined]]
     7. [[Object & Symbol Data Types|Object]]
     8. [[Object & Symbol Data Types|Symbol]]
+## 2 Data Type "Groups"
+- [[Primitive Data Types]]
+- [[Non-primitive Data Types]]
     
 ![[typeof operator| no-title]]

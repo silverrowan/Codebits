@@ -44,10 +44,14 @@ tags:
     `alert(fruits.legth) //returns 4`
 - we can show the whole array (using alert)
     `alert(fruits) // returns: Apple,Orange,Pear,Lemon` note the spaces not inside "" have been ignored.
+
+> [!info]
+ > you can get key names for [[Object & Symbol Data Types|Objects]]
+
     
 - retrieving an item from an array of arrays: 
     - eg: let matrix = [ [1,2,3], [4,5,6], [7,8,9] ];
-            alert( matrix[0]\[1]); //alerts "2" the first '[0]' finds [1,2,3], and the second '[1]' tells it to look in position 2 (of the array in position 1) - basically you nest the array calls KINDA - not really nesting. array nesting is someething else .... but close the brackets first....
+            alert( matrix[0]\[1]); //alerts "2" the first '[0]' finds [1,2,3], and the second '[1]' tells it to look in position 2 (of the array in position 1) - basically you nest the array calls KINDA - not really nesting. array nesting is something else .... but close the brackets first....
                 does this mean if you can theoretically do something like this: `let number = [1,2,3][1]` and have number = 2?
                 HAHA! YES! IT DOES! and it records it as number type, not array type. its a dumb thing to do, but behaves as expected.
 ## Math operations with arrays

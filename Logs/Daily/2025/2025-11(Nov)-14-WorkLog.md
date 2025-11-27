@@ -1,11 +1,11 @@
 ## Learning
-#### TOP - Javascript ( 0.5  lessons today, at 11 of 12 lessons, 1 of 3 projects) 
+#### TOP - Javascript ( 0.5  lessons today, at 11 of 12 lessons, 1.7 of 3 projects) 
 - Revisiting Rock Paper Scissors - listed as a lesson....
     - UI layout complete yesterday; finished rework today
 ## Projects
 - [x] work on RPS Rework ✅ 2025-11-14
       [clock::2025-11-14T17:58:22--2025-11-14T19:34:56]
-- [ ] 🛫 2025-11-14 Etch-a-Sketch project!
+- [x] 2025-11-14 Etch-a-Sketch project! ~6hrs 🛫 2025-11-14 ✅ 2025-11-22
       [clock::2025-11-14T19:44:57--2025-11-14T20:13:50]
       [clock::2025-11-14T22:29:06--2025-11-14T23:40:53]
       [clock::2025-11-14T23:54:51--2025-11-15T02:56:53]
