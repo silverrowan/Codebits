@@ -10,35 +10,39 @@ tags:
 - (basic calculations only, 2 numbers, one operator, no order of operations)
     - [x] rough UI design ✅ 2025-11-24
         - [x] physically lay it out on web page ✅ 2025-11-24
-    - [/] basic math functions & switcher
+    - [x] basic math functions & switcher ✅ 2025-12-02
     - [x] clear function ✅ 2025-11-25
-    - [ ] display population
+    - [x] display population ✅ 2025-12-02
     - [x] divide by 0 error message ✅ 2025-11-27
     - [ ] rounding
 - Can it:
     - [x] add ✅ 2025-11-26
     - [x] subtract ✅ 2025-11-26
-    - [x] multiply ✅ 2025-11-26
+    - [x] multiply ✅ 2025-12-02
     - [x] divide ✅ 2025-11-26
-    - [ ] evaluate properly when format: initial: x + y =
-    - [ ]  evaluate properly when format: initial: x + y + (should calc & ret ans)
-        - currently: `45 + 2 + (displays 47)` `9 + displays (11)
-        -  currently: `2 + 10 = 12
-            - `12 +` => `10 + 12;
-            - SHOULD go to `12 +
-        - once evaluate a answer/number it needs to replace BOTH 1 & 2
-    - [ ]  evaluate properly when format: a =/+
-    - [ ] evaluate properly when format: =/+ (no variables)
-    - [ ] evaluate properly when format: a ++
-    - [ ] evaluate properly when format: + a = b
-    - [ ] evaluate properly when format: + a + b
-    - [ ] when = ans KEYPRESS -> does it start a new number properly
-    - [ ] when +=> ans KEYPRESS -> does it start a new number properly
+    - [x] evaluate properly when format: initial: x + y = ✅ 2025-12-02
+    - [x] evaluate properly when format: initial: x + y + (should calc & ret ans) ✅ 2025-12-01
+        - [x] x+y+z should be (x+yANS)+z. It's returning 0+ ✅ 2025-12-01
+    - [x] Equation does not update correctly when other operators than '+' used..... after the original one at least. Need to check when that is a problem, exactly. ✅ 2025-12-02
+        - [x] format x+y-z reports as => x+y=ans+z : note operator not updated correctly ✅ 2025-12-02
+    - [x] evaluate properly when format: a =/+ ✅ 2025-12-02
+        - [x] second num= in a row doesn't update equation, prev number not cleared. ✅ 2025-12-02
+    - [x] evaluate properly when format: =/+ (no variables) ✅ 2025-12-02
+    - [x] evaluate properly when format: a ++ ✅ 2025-12-02
+        - [x] second operator should update/change selected operator, but instead clears number & adds 0 ✅ 2025-12-02
+    - [x] evaluate properly when format: + a = b ✅ 2025-12-02
+- [x] a+b=ANS NUM + => ANS + NUM - wrong! Fixed! now ignores ans & returns NUM + ✅ 2025-12-02
+    - [x] evaluate properly when format: + a + b ✅ 2025-12-02
+    - [x] when = ans KEYPRESS -> does it start a new number properly ✅ 2025-12-02
+    - [x] when +=> ans KEYPRESS -> does it start a new number properly ✅ 2025-12-02
     - [ ] add rounding of answers
-    - [ ] clear removes ALL data
-    - [/] error when divide by 0
-        - returns "impossible, BUT - calc attempts to use it as a value."
-    - [ ] assign ANS to value when operator pushed (except \=)
+    - [x] clear removes ALL data ✅ 2025-12-02
+    - [x] error when divide by 0 ✅ 2025-12-02
+        - returns "impossible, BUT - calc attempts to use it as a value." Should reset to no numbers.
+    - [x] assign ANS to value when operator pushed (except \=) ✅ 2025-12-02
+- [ ] Curr problems 
+    - [ ] screen shifts size based on text
+
 - [ ] "extra credit"
     - [ ] decimals! - ui element, limit to one decimal per number, adjust rounding
     - [ ] backspace

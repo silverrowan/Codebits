@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef31f65c271dc173",
+            "id": "74ac3dec6adb9300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-20-WorkLog.md",
+                "file": "Markdown Cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11(Nov)-20-WorkLog"
+              "title": "Markdown Cheatsheet"
             }
           },
           {
-            "id": "874fe2aa57b80af7",
+            "id": "b98006e4b37c4725",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md",
+                "file": "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11(Nov)-22-WorkLog"
+              "title": "2025-12(Dec)-01-WorkLog"
             }
           },
           {
-            "id": "78132592f7da5704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CDEV WPS - Workplace Preparation Skills"
-            }
-          },
-          {
-            "id": "22d401607a76d8a1",
+            "id": "f34751f99e140f09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,12 +80,12 @@
             }
           },
           {
-            "id": "6952d513aa57eaba",
+            "id": "7514c416ba238f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
+                "file": "Coding/JavaScript/Object & Symbol Data Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,93 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11(Nov)-26-WorkLog"
-            }
-          },
-          {
-            "id": "90fae6a50cb83f29",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Nov, 27–Nov, 29"
-            }
-          },
-          {
-            "id": "8baeecf982c1b869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11(Nov)-26-WorkLog"
-            }
-          },
-          {
-            "id": "de15383c05f08a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/JavaScript/DOM Manipulation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DOM Manipulation"
-            }
-          },
-          {
-            "id": "74ac3dec6adb9300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Markdown Cheatsheet"
+              "title": "Object & Symbol Data Types"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "objects",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -284,11 +178,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "4c7c29157a648307",
@@ -297,7 +192,7 @@
       {
         "id": "a0c72be8f242f7b8",
         "type": "tabs",
-        "dimension": 25.975039001560063,
+        "dimension": 25.965488907148725,
         "children": [
           {
             "id": "488a17f644a690db",
@@ -314,7 +209,7 @@
       {
         "id": "2274fe50e69900c2",
         "type": "tabs",
-        "dimension": 23.478939157566302,
+        "dimension": 23.500410846343467,
         "children": [
           {
             "id": "83665d2b37023a0a",
@@ -380,7 +275,7 @@
       {
         "id": "e33ea1a7dd327983",
         "type": "tabs",
-        "dimension": 50.546021840873635,
+        "dimension": 50.534100246507805,
         "children": [
           {
             "id": "c9fad514ceab83f0",
@@ -420,34 +315,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e147ca288e72f782",
+  "active": "f34751f99e140f09",
   "lastOpenFiles": [
+    "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
     "Unorganized Notes/TOP - Calculator Project.md",
-    "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-26.md",
+    "Logs/Daily/2025/2025-12(Dec)-01.md",
+    "Logs/Daily/2025/2025-11(Nov)-29.md",
+    "Logs/Daily/2025/2025-11(Nov)-30.md",
+    "Logs/Daily/2025/2025-11(Nov)-30-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-29-WorkLog.md",
+    "Coding/JavaScript/Object & Symbol Data Types.md",
+    "Markdown Cheatsheet.md",
     "Logs/Daily/2025/2025-11(Nov)-27-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-28-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-28.md",
+    "Coding/JavaScript/DOM Manipulation.md",
+    "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
+    "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md",
+    "Logs/Daily/2025/2025-11(Nov)-20-WorkLog.md",
+    "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md",
     "Logs/Daily/2025/2025-11(Nov)-27.md",
+    "Logs/Daily/2025/2025-11(Nov)-26.md",
+    "Logs/Daily/2025/2025-11(Nov)-27-PersonalLog.md",
     "Logs/Daily/2025/2025-11(Nov)-25.md",
     "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md",
-    "Coding/JavaScript/DOM Manipulation.md",
     "Logs/Daily/2025/2025-11(Nov)-25-WorkLog.md",
     "Logs/Shopping List.md",
     "Logs/Daily/2025/2025-11(Nov)-24.md",
     "Logs/Daily/2025/2025-11(Nov)-24-WorkLog.md",
-    "Coding/JavaScript/Logical Operators.md",
-    "Coding/JavaScript/Logical Assignment Operators.md",
-    "Coding/JavaScript/Function Basics.md",
-    "Coding/JavaScript/Conditional Functions.md",
-    "Coding/JavaScript/Arrow Functions.md",
-    "Logs/Daily/2025/2025-11(Nov)-23.md",
-    "Unorganized Notes/full task list.md",
-    "Logs/Daily/2025/2025-11(Nov)-23-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-21-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-21.md",
-    "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-22.md",
-    "Coding/JavaScript/Event Listeners.md",
-    "Unorganized Notes/Create & Activate Events.md",
     "TL-StateDiagram-2025-11-21T11-07-51.572Z.canvas",
     "attachments/Pasted image 20251113220206.png",
     "attachments/Pasted image 20251113220159.png",
