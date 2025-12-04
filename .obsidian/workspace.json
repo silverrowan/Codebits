@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized Notes/TOP - Calculator Project.md",
+                "file": "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TOP - Calculator Project"
+              "title": "2025-12(Dec)-03-WorkLog"
+            }
+          },
+          {
+            "id": "7ff904c10df2bfad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12(Dec)-03-WorkLog"
             }
           },
           {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "objects",
+                "query": "math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,10 +339,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f34751f99e140f09",
+  "active": "7ff904c10df2bfad",
   "lastOpenFiles": [
-    "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
+    "Logs/Daily/2025/2025-12(Dec)-03.md",
     "Unorganized Notes/TOP - Calculator Project.md",
+    "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
+    "Coding/JavaScript/Basic Operators.md",
+    "Coding/JavaScript/Number Data Type.md",
+    "Coding/JavaScript/Function Basics.md",
+    "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
     "Logs/Daily/2025/2025-12(Dec)-01.md",
     "Logs/Daily/2025/2025-11(Nov)-29.md",
     "Logs/Daily/2025/2025-11(Nov)-30.md",
@@ -338,11 +367,6 @@
     "Logs/Daily/2025/2025-11(Nov)-26.md",
     "Logs/Daily/2025/2025-11(Nov)-27-PersonalLog.md",
     "Logs/Daily/2025/2025-11(Nov)-25.md",
-    "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-25-WorkLog.md",
-    "Logs/Shopping List.md",
-    "Logs/Daily/2025/2025-11(Nov)-24.md",
-    "Logs/Daily/2025/2025-11(Nov)-24-WorkLog.md",
     "TL-StateDiagram-2025-11-21T11-07-51.572Z.canvas",
     "attachments/Pasted image 20251113220206.png",
     "attachments/Pasted image 20251113220159.png",

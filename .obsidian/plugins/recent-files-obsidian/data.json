@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12(Dec)-03-WorkLog",
+      "path": "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md"
+    },
+    {
+      "basename": "2025-12(Dec)-03",
+      "path": "Logs/Daily/2025/2025-12(Dec)-03.md"
+    },
+    {
       "basename": "TOP - Calculator Project",
       "path": "Unorganized Notes/TOP - Calculator Project.md"
+    },
+    {
+      "basename": "Basic Operators",
+      "path": "Coding/JavaScript/Basic Operators.md"
+    },
+    {
+      "basename": "Number Data Type",
+      "path": "Coding/JavaScript/Number Data Type.md"
+    },
+    {
+      "basename": "Function Basics",
+      "path": "Coding/JavaScript/Function Basics.md"
     },
     {
       "basename": "2025-12(Dec)-01-WorkLog",
@@ -113,10 +133,6 @@
       "path": "Coding/JavaScript/Logical Assignment Operators.md"
     },
     {
-      "basename": "Function Basics",
-      "path": "Coding/JavaScript/Function Basics.md"
-    },
-    {
       "basename": "Conditional Functions",
       "path": "Coding/JavaScript/Conditional Functions.md"
     },
@@ -173,10 +189,6 @@
       "path": "Coding/langAgnostic/Bitwise Operators.md"
     },
     {
-      "basename": "Basic Operators",
-      "path": "Coding/JavaScript/Basic Operators.md"
-    },
-    {
       "basename": "2025-11(Nov)-06",
       "path": "Logs/Daily/2025/2025-11(Nov)-06.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2025-11(Nov)-05-PersonalLog",
       "path": "Logs/Daily/2025/2025-11(Nov)-05-PersonalLog.md"
-    },
-    {
-      "basename": "Effective Learning Checklist",
-      "path": "extra-curricular/Effective Learning Checklist.md"
-    },
-    {
-      "basename": "Primitive Data Types",
-      "path": "Unorganized Notes/Primitive Data Types.md"
-    },
-    {
-      "basename": "ICS 199 - Applied Computing Project",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 199 - Applied Computing Project.md"
     }
   ],
   "omittedPaths": [

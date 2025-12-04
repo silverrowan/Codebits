@@ -31,19 +31,21 @@ tags:
     - [x] evaluate properly when format: a ++ ✅ 2025-12-02
         - [x] second operator should update/change selected operator, but instead clears number & adds 0 ✅ 2025-12-02
     - [x] evaluate properly when format: + a = b ✅ 2025-12-02
-- [x] a+b=ANS NUM + => ANS + NUM - wrong! Fixed! now ignores ans & returns NUM + ✅ 2025-12-02
+    - [x] a+b=ANS NUM + => ANS + NUM - wrong! Fixed! now ignores ans & returns NUM + ✅ 2025-12-02
     - [x] evaluate properly when format: + a + b ✅ 2025-12-02
     - [x] when = ans KEYPRESS -> does it start a new number properly ✅ 2025-12-02
     - [x] when +=> ans KEYPRESS -> does it start a new number properly ✅ 2025-12-02
-    - [ ] add rounding of answers
+    - [x] add rounding of answers ✅ 2025-12-04
     - [x] clear removes ALL data ✅ 2025-12-02
     - [x] error when divide by 0 ✅ 2025-12-02
         - returns "impossible, BUT - calc attempts to use it as a value." Should reset to no numbers.
     - [x] assign ANS to value when operator pushed (except \=) ✅ 2025-12-02
-- [ ] Curr problems 
-    - [ ] screen shifts size based on text
+- [x] Curr problems ✅ 2025-12-04
+    - [x] screen shifts size based on text ✅ 2025-12-04
 
 - [ ] "extra credit"
-    - [ ] decimals! - ui element, limit to one decimal per number, adjust rounding
-    - [ ] backspace
+    - [/] decimals! - ui element, limit to one decimal per number, adjust rounding
+        - [ ] decimals have been added. limit to one per number has not yet been completed.
+    - [/] backspace
+        - [ ] backspace function is good, toggling listener & style is not yet complete
     - [ ] keyboard support
