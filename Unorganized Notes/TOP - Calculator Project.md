@@ -40,12 +40,13 @@ tags:
     - [x] error when divide by 0 ✅ 2025-12-02
         - returns "impossible, BUT - calc attempts to use it as a value." Should reset to no numbers.
     - [x] assign ANS to value when operator pushed (except \=) ✅ 2025-12-02
-- [x] Curr problems ✅ 2025-12-04
+- [/] Curr problems
     - [x] screen shifts size based on text ✅ 2025-12-04
+    - [ ] discovered javascript rounds negative numbers wrong (for values of 0.5). changing rounding formula to correct this.
 
 - [ ] "extra credit"
-    - [/] decimals! - ui element, limit to one decimal per number, adjust rounding
+    - [x] decimals! - ui element, limit to one decimal per number, adjust rounding ✅ 2025-12-04
         - [ ] decimals have been added. limit to one per number has not yet been completed.
-    - [/] backspace
-        - [ ] backspace function is good, toggling listener & style is not yet complete
-    - [ ] keyboard support
+    - [x] backspace ✅ 2025-12-04
+        - [x] backspace function is good, toggling listener & style is not yet complete ✅ 2025-12-04
+    - [x] keyboard support ✅ 2025-12-04

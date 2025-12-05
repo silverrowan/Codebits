@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12(Dec)-04-WorkLog",
+      "path": "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md"
+    },
+    {
+      "basename": "2025-12(Dec)-04",
+      "path": "Logs/Daily/2025/2025-12(Dec)-04.md"
+    },
+    {
+      "basename": "TOP - Calculator Project",
+      "path": "Unorganized Notes/TOP - Calculator Project.md"
+    },
+    {
+      "basename": "Object & Symbol Data Types",
+      "path": "Coding/JavaScript/Object & Symbol Data Types.md"
+    },
+    {
+      "basename": "Event Listeners",
+      "path": "Coding/JavaScript/Event Listeners.md"
+    },
+    {
+      "basename": "DOM Manipulation",
+      "path": "Coding/JavaScript/DOM Manipulation.md"
+    },
+    {
       "basename": "2025-12(Dec)-03-WorkLog",
       "path": "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md"
     },
     {
       "basename": "2025-12(Dec)-03",
       "path": "Logs/Daily/2025/2025-12(Dec)-03.md"
-    },
-    {
-      "basename": "TOP - Calculator Project",
-      "path": "Unorganized Notes/TOP - Calculator Project.md"
     },
     {
       "basename": "Basic Operators",
@@ -49,10 +69,6 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-29-WorkLog.md"
     },
     {
-      "basename": "Object & Symbol Data Types",
-      "path": "Coding/JavaScript/Object & Symbol Data Types.md"
-    },
-    {
       "basename": "Markdown Cheatsheet",
       "path": "Markdown Cheatsheet.md"
     },
@@ -67,10 +83,6 @@
     {
       "basename": "2025-11(Nov)-28",
       "path": "Logs/Daily/2025/2025-11(Nov)-28.md"
-    },
-    {
-      "basename": "DOM Manipulation",
-      "path": "Coding/JavaScript/DOM Manipulation.md"
     },
     {
       "basename": "2025-11(Nov)-26-WorkLog",
@@ -165,10 +177,6 @@
       "path": "Logs/Daily/2025/2025-11(Nov)-22.md"
     },
     {
-      "basename": "Event Listeners",
-      "path": "Coding/JavaScript/Event Listeners.md"
-    },
-    {
       "basename": "Create & Activate Events",
       "path": "Unorganized Notes/Create & Activate Events.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-11(Nov)-06",
       "path": "Logs/Daily/2025/2025-11(Nov)-06.md"
-    },
-    {
-      "basename": "2025-11(Nov)-11-PersonalLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-11-PersonalLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-05-PersonalLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-05-PersonalLog.md"
     }
   ],
   "omittedPaths": [

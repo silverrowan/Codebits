@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
+                "file": "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12(Dec)-03-WorkLog"
-            }
-          },
-          {
-            "id": "7ff904c10df2bfad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12(Dec)-03-WorkLog"
+              "title": "2025-12(Dec)-04-WorkLog"
             }
           },
           {
@@ -126,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Object & Symbol Data Types"
             }
+          },
+          {
+            "id": "42e0fc9dabecc9d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/JavaScript/Event Listeners.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Event Listeners"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math",
+                "query": "dom node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -339,11 +339,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ff904c10df2bfad",
+  "active": "f34751f99e140f09",
   "lastOpenFiles": [
-    "Logs/Daily/2025/2025-12(Dec)-03.md",
+    "Logs/Daily/2025/2025-12(Dec)-04.md",
     "Unorganized Notes/TOP - Calculator Project.md",
+    "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md",
+    "Coding/JavaScript/Object & Symbol Data Types.md",
+    "Coding/JavaScript/Event Listeners.md",
+    "Coding/JavaScript/DOM Manipulation.md",
     "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
+    "Logs/Daily/2025/2025-12(Dec)-03.md",
     "Coding/JavaScript/Basic Operators.md",
     "Coding/JavaScript/Number Data Type.md",
     "Coding/JavaScript/Function Basics.md",
@@ -353,20 +358,15 @@
     "Logs/Daily/2025/2025-11(Nov)-30.md",
     "Logs/Daily/2025/2025-11(Nov)-30-WorkLog.md",
     "Logs/Daily/2025/2025-11(Nov)-29-WorkLog.md",
-    "Coding/JavaScript/Object & Symbol Data Types.md",
     "Markdown Cheatsheet.md",
     "Logs/Daily/2025/2025-11(Nov)-27-WorkLog.md",
     "Logs/Daily/2025/2025-11(Nov)-28-WorkLog.md",
     "Logs/Daily/2025/2025-11(Nov)-28.md",
-    "Coding/JavaScript/DOM Manipulation.md",
     "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
     "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md",
     "Logs/Daily/2025/2025-11(Nov)-20-WorkLog.md",
     "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md",
     "Logs/Daily/2025/2025-11(Nov)-27.md",
-    "Logs/Daily/2025/2025-11(Nov)-26.md",
-    "Logs/Daily/2025/2025-11(Nov)-27-PersonalLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-25.md",
     "TL-StateDiagram-2025-11-21T11-07-51.572Z.canvas",
     "attachments/Pasted image 20251113220206.png",
     "attachments/Pasted image 20251113220159.png",
