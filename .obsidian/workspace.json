@@ -4,11 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "1d89079edc960537",
+        "id": "8386072d24c8980c",
         "type": "tabs",
         "children": [
           {
-            "id": "74ac3dec6adb9300",
+            "id": "d09c64aee2b4ed6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12(Dec)-06-WorkLog"
+            }
+          },
+          {
+            "id": "635506bd3ef34e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/The Odin Project - Ruby Course.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Odin Project - Ruby Course"
+            }
+          },
+          {
+            "id": "e63ca67fc6fa4cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/Data Types in Ruby.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Types in Ruby"
+            }
+          },
+          {
+            "id": "e1ecc90de1830b58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,102 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "Markdown Cheatsheet"
-            }
-          },
-          {
-            "id": "b98006e4b37c4725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12(Dec)-01-WorkLog"
-            }
-          },
-          {
-            "id": "f34751f99e140f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12(Dec)-04-WorkLog"
-            }
-          },
-          {
-            "id": "7514c416ba238f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/JavaScript/Object & Symbol Data Types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Object & Symbol Data Types"
-            }
-          },
-          {
-            "id": "42e0fc9dabecc9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/JavaScript/Event Listeners.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Event Listeners"
             }
           }
         ],
@@ -160,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dom node",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +177,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -339,34 +314,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f34751f99e140f09",
+  "active": "e63ca67fc6fa4cfc",
   "lastOpenFiles": [
-    "Logs/Daily/2025/2025-12(Dec)-04.md",
-    "Unorganized Notes/TOP - Calculator Project.md",
-    "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md",
+    "Markdown Cheatsheet.md",
+    "Unorganized Notes/Data Types in Ruby.md",
+    "Unorganized Notes/Variables in Ruby.md",
+    "Unorganized Notes/The Odin Project - Ruby Course.md",
+    "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md",
+    "Unorganized Notes/Programming Paradigms.md",
+    "Logs/Daily/2025/2025-12(Dec)-06.md",
+    "Logs/Daily/2025/2025-12(Dec)-05-WorkLog.md",
+    "Logs/Daily/2025/2025-12(Dec)-05.md",
+    "Unorganized Notes/Interpolation in Ruby.md",
+    "Unorganized Notes/Symbols in Ruby.md",
+    "Unorganized Notes/Booleans in Ruby.md",
+    "Unorganized Notes/String Methods in Ruby.md",
+    "Unorganized Notes/Escape Characters in Ruby.md",
+    "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
     "Coding/JavaScript/Object & Symbol Data Types.md",
     "Coding/JavaScript/Event Listeners.md",
+    "Unorganized Notes/Boolean Attributes.md",
+    "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md",
+    "Logs/Daily/2025/2025-12(Dec)-04.md",
+    "Unorganized Notes/TOP - Calculator Project.md",
     "Coding/JavaScript/DOM Manipulation.md",
     "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
     "Logs/Daily/2025/2025-12(Dec)-03.md",
     "Coding/JavaScript/Basic Operators.md",
     "Coding/JavaScript/Number Data Type.md",
-    "Coding/JavaScript/Function Basics.md",
-    "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
-    "Logs/Daily/2025/2025-12(Dec)-01.md",
-    "Logs/Daily/2025/2025-11(Nov)-29.md",
-    "Logs/Daily/2025/2025-11(Nov)-30.md",
-    "Logs/Daily/2025/2025-11(Nov)-30-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-29-WorkLog.md",
-    "Markdown Cheatsheet.md",
-    "Logs/Daily/2025/2025-11(Nov)-27-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-28-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-28.md",
-    "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md",
-    "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md",
-    "Logs/Daily/2025/2025-11(Nov)-20-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md",
-    "Logs/Daily/2025/2025-11(Nov)-27.md",
     "TL-StateDiagram-2025-11-21T11-07-51.572Z.canvas",
     "attachments/Pasted image 20251113220206.png",
     "attachments/Pasted image 20251113220159.png",

@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Types in Ruby",
+      "path": "Unorganized Notes/Data Types in Ruby.md"
+    },
+    {
+      "basename": "Markdown Cheatsheet",
+      "path": "Markdown Cheatsheet.md"
+    },
+    {
+      "basename": "Variables in Ruby",
+      "path": "Unorganized Notes/Variables in Ruby.md"
+    },
+    {
+      "basename": "The Odin Project - Ruby Course",
+      "path": "Unorganized Notes/The Odin Project - Ruby Course.md"
+    },
+    {
+      "basename": "2025-12(Dec)-06-WorkLog",
+      "path": "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "Unorganized Notes/Programming Paradigms.md"
+    },
+    {
+      "basename": "2025-12(Dec)-06",
+      "path": "Logs/Daily/2025/2025-12(Dec)-06.md"
+    },
+    {
+      "basename": "2025-12(Dec)-05-WorkLog",
+      "path": "Logs/Daily/2025/2025-12(Dec)-05-WorkLog.md"
+    },
+    {
+      "basename": "2025-12(Dec)-05",
+      "path": "Logs/Daily/2025/2025-12(Dec)-05.md"
+    },
+    {
+      "basename": "Interpolation in Ruby",
+      "path": "Unorganized Notes/Interpolation in Ruby.md"
+    },
+    {
+      "basename": "Symbols in Ruby",
+      "path": "Unorganized Notes/Symbols in Ruby.md"
+    },
+    {
+      "basename": "Booleans in Ruby",
+      "path": "Unorganized Notes/Booleans in Ruby.md"
+    },
+    {
+      "basename": "String Methods in Ruby",
+      "path": "Unorganized Notes/String Methods in Ruby.md"
+    },
+    {
+      "basename": "Escape Characters in Ruby",
+      "path": "Unorganized Notes/Escape Characters in Ruby.md"
+    },
+    {
+      "basename": "2025-12(Dec)-01-WorkLog",
+      "path": "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md"
+    },
+    {
+      "basename": "Object & Symbol Data Types",
+      "path": "Coding/JavaScript/Object & Symbol Data Types.md"
+    },
+    {
+      "basename": "Event Listeners",
+      "path": "Coding/JavaScript/Event Listeners.md"
+    },
+    {
+      "basename": "Boolean Attributes",
+      "path": "Unorganized Notes/Boolean Attributes.md"
+    },
+    {
       "basename": "2025-12(Dec)-04-WorkLog",
       "path": "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md"
     },
@@ -11,14 +83,6 @@
     {
       "basename": "TOP - Calculator Project",
       "path": "Unorganized Notes/TOP - Calculator Project.md"
-    },
-    {
-      "basename": "Object & Symbol Data Types",
-      "path": "Coding/JavaScript/Object & Symbol Data Types.md"
-    },
-    {
-      "basename": "Event Listeners",
-      "path": "Coding/JavaScript/Event Listeners.md"
     },
     {
       "basename": "DOM Manipulation",
@@ -45,10 +109,6 @@
       "path": "Coding/JavaScript/Function Basics.md"
     },
     {
-      "basename": "2025-12(Dec)-01-WorkLog",
-      "path": "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md"
-    },
-    {
       "basename": "2025-12(Dec)-01",
       "path": "Logs/Daily/2025/2025-12(Dec)-01.md"
     },
@@ -67,10 +127,6 @@
     {
       "basename": "2025-11(Nov)-29-WorkLog",
       "path": "Logs/Daily/2025/2025-11(Nov)-29-WorkLog.md"
-    },
-    {
-      "basename": "Markdown Cheatsheet",
-      "path": "Markdown Cheatsheet.md"
     },
     {
       "basename": "2025-11(Nov)-27-WorkLog",
@@ -143,62 +199,6 @@
     {
       "basename": "Logical Assignment Operators",
       "path": "Coding/JavaScript/Logical Assignment Operators.md"
-    },
-    {
-      "basename": "Conditional Functions",
-      "path": "Coding/JavaScript/Conditional Functions.md"
-    },
-    {
-      "basename": "Arrow Functions",
-      "path": "Coding/JavaScript/Arrow Functions.md"
-    },
-    {
-      "basename": "2025-11(Nov)-23",
-      "path": "Logs/Daily/2025/2025-11(Nov)-23.md"
-    },
-    {
-      "basename": "full task list",
-      "path": "Unorganized Notes/full task list.md"
-    },
-    {
-      "basename": "2025-11(Nov)-23-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-23-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-21-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-21-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-21",
-      "path": "Logs/Daily/2025/2025-11(Nov)-21.md"
-    },
-    {
-      "basename": "2025-11(Nov)-22",
-      "path": "Logs/Daily/2025/2025-11(Nov)-22.md"
-    },
-    {
-      "basename": "Create & Activate Events",
-      "path": "Unorganized Notes/Create & Activate Events.md"
-    },
-    {
-      "basename": "Arrays",
-      "path": "Coding/JavaScript/Arrays.md"
-    },
-    {
-      "basename": "ICS 128 - Web Scripting",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T2/ICS 128 - Web Scripting.md"
-    },
-    {
-      "basename": "2025-11(Nov)-10-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-10-WorkLog.md"
-    },
-    {
-      "basename": "Bitwise Operators",
-      "path": "Coding/langAgnostic/Bitwise Operators.md"
-    },
-    {
-      "basename": "2025-11(Nov)-06",
-      "path": "Logs/Daily/2025/2025-11(Nov)-06.md"
     }
   ],
   "omittedPaths": [
