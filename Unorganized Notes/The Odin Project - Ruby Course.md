@@ -12,6 +12,9 @@ overview: You'll cover object-oriented design, testing, and data structures
 - [x] installing Ruby ✅ 2025-12-06
 ## Basic Ruby (12L, 4P)
 - [/] Basic Data Types
+    - got through #1 -  launchSchool's>Built in data types>Symbols 
+    -   [clock::2025-12-06T23:38:47--2025-12-07T01:31:02]  - 2hrs
+    - start at arrays next time.
 - [ ] Variables
 - [ ] Input and Output
 - [ ] Conditional Logic

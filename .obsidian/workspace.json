@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,13 +314,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e63ca67fc6fa4cfc",
+  "active": "635506bd3ef34e4c",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
     "Unorganized Notes/Data Types in Ruby.md",
-    "Unorganized Notes/Variables in Ruby.md",
-    "Unorganized Notes/The Odin Project - Ruby Course.md",
     "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md",
+    "Unorganized Notes/The Odin Project - Ruby Course.md",
+    "Markdown Cheatsheet.md",
+    "Unorganized Notes/Variables in Ruby.md",
     "Unorganized Notes/Programming Paradigms.md",
     "Logs/Daily/2025/2025-12(Dec)-06.md",
     "Logs/Daily/2025/2025-12(Dec)-05-WorkLog.md",
