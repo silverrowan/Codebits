@@ -1,0 +1,11 @@
+---
+tags:
+  - code
+  - programming
+  - Ruby
+  - string
+---
+- a way to merge code with strings (Ruby-specific?)
+- can be done in double-quote `"string"` stings, and not in single-quote `'string'` strings
+- ~ format "string with #{expression}"
+- returns the expression's return, concatenated w the rest of teh string

@@ -1,24 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "Output Commands Ruby",
+      "path": "Unorganized Notes/Output Commands Ruby.md"
+    },
+    {
+      "basename": "Input Commands Ruby",
+      "path": "Unorganized Notes/Input Commands Ruby.md"
+    },
+    {
+      "basename": "Variables in Ruby",
+      "path": "Unorganized Notes/Variables in Ruby.md"
+    },
+    {
+      "basename": "Naming Things - Ruby",
+      "path": "Unorganized Notes/Naming Things - Ruby.md"
+    },
+    {
+      "basename": "gets",
+      "path": "Unorganized Notes/gets.md"
+    },
+    {
+      "basename": "Impulse log",
+      "path": "Unorganized Notes/Impulse log.md"
+    },
+    {
+      "basename": "Variable Scope - Ruby",
+      "path": "Unorganized Notes/Variable Scope - Ruby.md"
+    },
+    {
+      "basename": "Variable Types in Ruby",
+      "path": "Unorganized Notes/Variable Types in Ruby.md"
+    },
+    {
+      "basename": "2025-12(Dec)-08-WorkLog",
+      "path": "Logs/Daily/2025/2025-12(Dec)-08-WorkLog.md"
+    },
+    {
       "basename": "The Odin Project - Ruby Course",
       "path": "Unorganized Notes/The Odin Project - Ruby Course.md"
-    },
-    {
-      "basename": "Data Types in Ruby",
-      "path": "Unorganized Notes/Data Types in Ruby.md"
-    },
-    {
-      "basename": "2025-12(Dec)-06-WorkLog",
-      "path": "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md"
     },
     {
       "basename": "Markdown Cheatsheet",
       "path": "Markdown Cheatsheet.md"
     },
     {
-      "basename": "Variables in Ruby",
-      "path": "Unorganized Notes/Variables in Ruby.md"
+      "basename": "Data Types in Ruby",
+      "path": "Unorganized Notes/Data Types in Ruby.md"
+    },
+    {
+      "basename": "Objects in Ruby",
+      "path": "Unorganized Notes/Objects in Ruby.md"
+    },
+    {
+      "basename": "do...end blocks in Ruby",
+      "path": "Unorganized Notes/do...end blocks in Ruby.md"
+    },
+    {
+      "basename": "Symbols in Ruby",
+      "path": "Unorganized Notes/Symbols in Ruby.md"
+    },
+    {
+      "basename": "Assignment Operators",
+      "path": "Unorganized Notes/Assignment Operators.md"
+    },
+    {
+      "basename": "2025-12(Dec)-08",
+      "path": "Logs/Daily/2025/2025-12(Dec)-08.md"
+    },
+    {
+      "basename": "2025-12(Dec)-06-WorkLog",
+      "path": "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md"
+    },
+    {
+      "basename": "string interpolation",
+      "path": "Unorganized Notes/string interpolation.md"
+    },
+    {
+      "basename": "Modulo vs Remainder",
+      "path": "Unorganized Notes/Modulo vs Remainder.md"
+    },
+    {
+      "basename": "puts vs return",
+      "path": "Unorganized Notes/puts vs return.md"
+    },
+    {
+      "basename": "Non-primitive Data Types",
+      "path": "Unorganized Notes/Non-primitive Data Types.md"
+    },
+    {
+      "basename": "low boredom tolerance",
+      "path": "Unorganized Notes/low boredom tolerance.md"
+    },
+    {
+      "basename": "Accomodation Ideas",
+      "path": "Unorganized Notes/Accomodation Ideas.md"
+    },
+    {
+      "basename": "Tone is hard to regulate",
+      "path": "Unorganized Notes/Tone is hard to regulate.md"
+    },
+    {
+      "basename": "Anxiety-Impulse Loop",
+      "path": "Unorganized Notes/Anxiety-Impulse Loop.md"
+    },
+    {
+      "basename": "lack of clarity & energy management",
+      "path": "Unorganized Notes/lack of clarity & energy management.md"
+    },
+    {
+      "basename": "dashboard multiple display",
+      "path": "Unorganized Notes/dashboard multiple display.md"
     },
     {
       "basename": "Programming Paradigms",
@@ -39,10 +131,6 @@
     {
       "basename": "Interpolation in Ruby",
       "path": "Unorganized Notes/Interpolation in Ruby.md"
-    },
-    {
-      "basename": "Symbols in Ruby",
-      "path": "Unorganized Notes/Symbols in Ruby.md"
     },
     {
       "basename": "Booleans in Ruby",
@@ -111,94 +199,6 @@
     {
       "basename": "2025-12(Dec)-01",
       "path": "Logs/Daily/2025/2025-12(Dec)-01.md"
-    },
-    {
-      "basename": "2025-11(Nov)-29",
-      "path": "Logs/Daily/2025/2025-11(Nov)-29.md"
-    },
-    {
-      "basename": "2025-11(Nov)-30",
-      "path": "Logs/Daily/2025/2025-11(Nov)-30.md"
-    },
-    {
-      "basename": "2025-11(Nov)-30-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-30-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-29-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-29-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-27-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-27-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-28-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-28-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-28",
-      "path": "Logs/Daily/2025/2025-11(Nov)-28.md"
-    },
-    {
-      "basename": "2025-11(Nov)-26-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-26-WorkLog.md"
-    },
-    {
-      "basename": "CDEV WPS - Workplace Preparation Skills",
-      "path": "Camosun/Information and Computer Systems/Y1-Certificate/T1/CDEV WPS - Workplace Preparation Skills.md"
-    },
-    {
-      "basename": "2025-11(Nov)-20-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-20-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-22-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-22-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-27",
-      "path": "Logs/Daily/2025/2025-11(Nov)-27.md"
-    },
-    {
-      "basename": "2025-11(Nov)-26",
-      "path": "Logs/Daily/2025/2025-11(Nov)-26.md"
-    },
-    {
-      "basename": "2025-11(Nov)-27-PersonalLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-27-PersonalLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-25",
-      "path": "Logs/Daily/2025/2025-11(Nov)-25.md"
-    },
-    {
-      "basename": "2025-11(Nov)-14-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md"
-    },
-    {
-      "basename": "2025-11(Nov)-25-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-25-WorkLog.md"
-    },
-    {
-      "basename": "Shopping List",
-      "path": "Logs/Shopping List.md"
-    },
-    {
-      "basename": "2025-11(Nov)-24",
-      "path": "Logs/Daily/2025/2025-11(Nov)-24.md"
-    },
-    {
-      "basename": "2025-11(Nov)-24-WorkLog",
-      "path": "Logs/Daily/2025/2025-11(Nov)-24-WorkLog.md"
-    },
-    {
-      "basename": "Logical Operators",
-      "path": "Coding/JavaScript/Logical Operators.md"
-    },
-    {
-      "basename": "Logical Assignment Operators",
-      "path": "Coding/JavaScript/Logical Assignment Operators.md"
     }
   ],
   "omittedPaths": [

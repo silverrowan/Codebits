@@ -4,7 +4,7 @@ tags:
   - data-type
   - object
 ---
-- In JavaScript [[objects]] are the only non-primitive [[Data Types]].
+- In JavaScript [[Object & Symbol Data Types |objects]] are the only non-primitive [[Data Types]].
     - there are multiple "special objects"
         - [[Arrays]]
         - functions

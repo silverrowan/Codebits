@@ -1,0 +1,95 @@
+---
+tags:
+  - AuDHD
+  - life
+---
+Autism focus to these sugestions
+
+## Apps to help w stuff
+- gamifying brushing teeth app: pokemon smile, 
+- pokemon sleep is one for sleep
+- goblin tools
+- grammarly
+- xtiles - v visual "notion for those who dont have the patience to figure out notion"
+- void pet  garden
+- daylio track moods/activities etc. lots of data
+- chronic health & mental illness symptom tracker called Bearable
+
+- self thing: suggest put off decision phrases for certain things, like need to check schedule, let me look into that and get back to you to discuss, etc
+
+## Workplace Accomodations
+- wear noice cancelling headphones
+- listen to music
+- not wear uniform/more sensory friendly variation
+- work from home/hybrid
+- flexible hours
+    - odd cicadian rythem
+    - eg. flex start/end to avoid trafic/busy public transit
+- leave work early if overwhealemd
+    - or finish the day as wfh
+    - or a dimly lit quiet location/space
+- own office.
+- own desk (dear god the idea of hotdesking sounds awful)
+- fan, electric heater
+- visual timer
+- desk in quiet place
+- making colleagues aware of interuptions being hard
+    - preferences in how to approach & be communicated with
+    - if ok w touch, etc.
+    - social budy to help w social stuff rules
+- regular meeting w manager to reassure you on the right track
+- quiet space to eat lunch
+- flexible lunch time (to get to take it at quieter times)
+- being allowed to skip certain meetings if not that important
+- allowed to leave meetings if overwhelmed (if not topo disturbing)
+- allowed to get up and walk around restless
+- allowed to use a fidget
+- breaks after working with clients or more social aspects of teh work *eg meetings*
+- permission to skip team building exercises and retreits/parties w/out people taking offense
+- if a part-time job, having the same hours every week
+- warned of meetings or changes in plan/schedule
+- told what meeting will be about
+- keeping instructions & expectations, clear & precisse and explicit w/out needing to read between the lines or fill in the gaps
+- % misc: recomend books: unmasked by ellie middleton; Autism feels by orion kelly
+    - % incl suggestions on workplace accomodations
+- 254 what, when by, why framework:
+    - what do you need done?
+    - when do you need it done by?
+    - why do you need it done?
+- patience w needing more time to process certain things like schedule changes (the delay tactic mentioned above in personal section) or to pivot
+    - autistic inertia
+- pref for written instructions instead of purely verbal
+- allowed to communicate in your prefered style: eg. email
+- being told what a phone call is going to be about, ahead of time
+- help w time management & prioritization of tasks.
+- information and worksheets on colored paper
+- assigned tasks that need to get done but are not necessarily as urgent (bc time blindness)
+
+## School/Learning Accommodations
+- noise cancelling headphones/ear defenders
+- allowed to wear sunglasses
+- use a fidget
+- extra time in exams
+- breaks during exams
+- smaller or private room for exams
+- allowed to listen to music during exam!?
+- allowed to eat lunch privately (this is more like high)
+- prior warning for things like fire drills
+- not being called on in class to answer q
+- leave classroom if overwhelmed
+- leave classroom early so can get to next class before rush/w extra time
+- come in early/later
+- laptop to take notes
+- freedom over where you sit in the classroom/your spot
+- not marking down for spelling unless assignment is about spelling
+- extend due dates/flexibility re assignment dates
+- given assignments early
+- recordings of lecture (esp if missed one)
+- record in class yourself
+- more information about a class ahead of time
+- allowed to ask why without pple taking it as challenging
+- allowed to ask questions
+- opting out of group work
+- allowed an alt to presentations - or at least presenting to a smaller group of people or just the teacher.
+- allowed to take fewer subjects to reduce overwhelm
+- subtitle on in video presentations

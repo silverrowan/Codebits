@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md",
+                "file": "Logs/Daily/2025/2025-12(Dec)-08-WorkLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12(Dec)-06-WorkLog"
+              "title": "2025-12(Dec)-08-WorkLog"
+            }
+          },
+          {
+            "id": "7bc9beb395230388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/The Odin Project - Ruby Course.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Odin Project - Ruby Course"
             }
           },
           {
@@ -56,30 +80,6 @@
             }
           },
           {
-            "id": "e63ca67fc6fa4cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized Notes/Data Types in Ruby.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Data Types in Ruby"
-            }
-          },
-          {
             "id": "e1ecc90de1830b58",
             "type": "leaf",
             "state": {
@@ -102,9 +102,129 @@
               "icon": "lucide-file",
               "title": "Markdown Cheatsheet"
             }
+          },
+          {
+            "id": "2790efd14c86a339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/Variables in Ruby.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Variables in Ruby"
+            }
+          },
+          {
+            "id": "fbe4ef3d28b94411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/gets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "gets"
+            }
+          },
+          {
+            "id": "755959c4157a7454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/Naming Things - Ruby.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Naming Things - Ruby"
+            }
+          },
+          {
+            "id": "d7cd9b6131041ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/Input Commands Ruby.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Input Commands Ruby"
+            }
+          },
+          {
+            "id": "e2941d2d0de08029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized Notes/Output Commands Ruby.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Output Commands Ruby"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,16 +278,6 @@
             }
           },
           {
-            "id": "f99ddcbda5c8bb7b",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
             "id": "2160725ab59eac79",
             "type": "leaf",
             "state": {
@@ -181,8 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "4c7c29157a648307",
@@ -245,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/Daily/2025/2025-11(Nov)-14-WorkLog.md",
+                "file": "Unorganized Notes/Output Commands Ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +364,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11(Nov)-14-WorkLog"
+              "title": "Backlinks for Output Commands Ruby"
             }
           },
           {
@@ -314,34 +423,112 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "635506bd3ef34e4c",
+  "floating": {
+    "id": "8cfa2f238f64909c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8e9c7b7392d3d07c",
+        "type": "window",
+        "children": [
+          {
+            "id": "b2d848cd2ceb6623",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0427fca8dd01e1a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Unorganized Notes/Impulse log.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Impulse log"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1999,
+        "y": 51,
+        "width": 561,
+        "height": 1176,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "4d97d777d7121d56",
+        "type": "window",
+        "children": [
+          {
+            "id": "e0f53fa07fbce4fb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f99ddcbda5c8bb7b",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 973,
+        "y": 48,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e147ca288e72f782",
   "lastOpenFiles": [
-    "Unorganized Notes/Data Types in Ruby.md",
-    "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md",
+    "Unorganized Notes/Input Commands Ruby.md",
+    "Unorganized Notes/Output Commands Ruby.md",
+    "Unorganized Notes/Variables in Ruby.md",
+    "Unorganized Notes/Naming Things - Ruby.md",
+    "Unorganized Notes/gets.md",
+    "Unorganized Notes/Impulse log.md",
+    "Unorganized Notes/Variable Scope - Ruby.md",
+    "Unorganized Notes/Variable Types in Ruby.md",
+    "Logs/Daily/2025/2025-12(Dec)-08-WorkLog.md",
     "Unorganized Notes/The Odin Project - Ruby Course.md",
     "Markdown Cheatsheet.md",
-    "Unorganized Notes/Variables in Ruby.md",
-    "Unorganized Notes/Programming Paradigms.md",
-    "Logs/Daily/2025/2025-12(Dec)-06.md",
-    "Logs/Daily/2025/2025-12(Dec)-05-WorkLog.md",
-    "Logs/Daily/2025/2025-12(Dec)-05.md",
-    "Unorganized Notes/Interpolation in Ruby.md",
+    "Unorganized Notes/Data Types in Ruby.md",
+    "Unorganized Notes/Objects in Ruby.md",
+    "Unorganized Notes/do...end blocks in Ruby.md",
     "Unorganized Notes/Symbols in Ruby.md",
-    "Unorganized Notes/Booleans in Ruby.md",
-    "Unorganized Notes/String Methods in Ruby.md",
-    "Unorganized Notes/Escape Characters in Ruby.md",
-    "Logs/Daily/2025/2025-12(Dec)-01-WorkLog.md",
-    "Coding/JavaScript/Object & Symbol Data Types.md",
-    "Coding/JavaScript/Event Listeners.md",
-    "Unorganized Notes/Boolean Attributes.md",
-    "Logs/Daily/2025/2025-12(Dec)-04-WorkLog.md",
-    "Logs/Daily/2025/2025-12(Dec)-04.md",
-    "Unorganized Notes/TOP - Calculator Project.md",
-    "Coding/JavaScript/DOM Manipulation.md",
-    "Logs/Daily/2025/2025-12(Dec)-03-WorkLog.md",
-    "Logs/Daily/2025/2025-12(Dec)-03.md",
-    "Coding/JavaScript/Basic Operators.md",
-    "Coding/JavaScript/Number Data Type.md",
+    "Unorganized Notes/Assignment Operators.md",
+    "Logs/Daily/2025/2025-12(Dec)-08.md",
+    "Logs/Daily/2025/2025-12(Dec)-06-WorkLog.md",
+    "Unorganized Notes/string interpolation.md",
+    "Unorganized Notes/Modulo vs Remainder.md",
+    "Unorganized Notes/puts vs return.md",
+    "Unorganized Notes/Non-primitive Data Types.md",
+    "Unorganized Notes/low boredom tolerance.md",
+    "Unorganized Notes/Accomodation Ideas.md",
+    "Unorganized Notes/Tone is hard to regulate.md",
+    "Unorganized Notes/Anxiety-Impulse Loop.md",
     "TL-StateDiagram-2025-11-21T11-07-51.572Z.canvas",
     "attachments/Pasted image 20251113220206.png",
     "attachments/Pasted image 20251113220159.png",

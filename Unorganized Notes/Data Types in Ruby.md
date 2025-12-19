@@ -48,7 +48,11 @@ Ruby comes with lots of things pre-baked in, and provides tones of tools to use 
 ### Symbols
 - similar to strings in some ways
 - create by using a colon in front of a word `:symbol`
-- normally symbols dont contain spaces, if have mult words, concat with underscores `:like_this
+    - surprisingly, symbol names dont have to be valid variable names if encased in strings.
+        - :name
+        - :a_symbol
+        - :"also a symbol!"
+- normally symbols do'nt contain spaces, if have mult words, concat with underscores `:like_this
 - when to use symbols vs strings?
     - not a hard line/ clear definition
     - rule of thumb: if the text itself is data, use a string. If its *code* use a symbol (especially if its used as a key in hashes)
@@ -58,4 +62,69 @@ Ruby comes with lots of things pre-baked in, and provides tones of tools to use 
         - ~ symbols are unique identifiers that are considered code, not data
         - @ true, false, nil & all numbers also behave as identifiers with stable object ids
 ### Arrays
+- collection or list of things
+- or a bag you can throw things into (the bag is an object too)
+- ~ An array is an object that can store other objects
+    - including other arrays
+- created by separating values by commas & enclosing in [] eg. [1,2,3,]
+    - (but be careful - punctuation incl [] can mean diff things in diff contexts)
+- arrays can store all kinds of objects
+- & *in ruby* arrays keep their order!
+- arrays are 0 based (first item is position 0)
+- add an element to the end of an existing array
+    - you can use `<<` also called the "shovel operator"
+    - eg. `words = ["one",2,3] /n words << "four" /n puts words[3] #=> "four"
+    - you can also set an element to a specific index
+        - eg`words[3] = "four"
+        - ! this can OVERWRITE existing elements
+- ~ formatting note: no spaces inside the brackets, one space after comma: [xxx, yyy, zzz]
+- if we try to retrieve an element that does not exist, we get back `nil`
+#### Things you can do w Arrays
+- you can 'calculate' with arrays (similar to set theory) #lookup 
+    - you can add them: [1,2] + [3,4] => [1,2,3,4,]
+    - subtract: [1,2,3,4,] - [3,4] => [1,2]
+    - multiply w a number: ["a", "thing"]\*2 => ["a", "thing", "a", "thing"]
+    - and find teh intersection: [1, 2, 3]&[2, 3, 4] => [2, 3]
+    - array.first & array.last are alternate ways to retrieve the first & last element
+    - other things can do: .length, .sort, .compact(removes nil entries), .index(get position), .rotate(??? shift everything by num steps?), .transpose("flips" a nested array "table" turns columns into rows and rows into columns)
 ### Hashes
+- hashes are like dictionaries: you can use them to look up one thing by another thing.
+    - 'we look up a value from a hash using a key' or 'find the value associated with this key'
+    - imagine a english to german dictionary. when you look up english hello, you find german 'hallo'
+- ~ hashes assign values to keys, so that values can be looked up by their key
+- we also refer to a value assigned to a key as *key/value pairs*
+- a hash can have as many key/value pairs as you like
+- ~ Create a hash by assigning a key to a value with =>, separate these key/value pairs with commas, and enclose the whole thing in curly braces
+    - ~ `{ "one" => "eins", "two" => "zwei", "three" => "drei" }
+    -  this defines a hash containing 3 key/value pairs.
+    - the `=>` is referred to as the *hash rocket* 
+#### Looking up a value
+- like with arrays, you use square brackets to look up a value, but instead of a number indicating position, you pass the key. eg. 
+    - `dictionary = { "one" => "eins", "two" => "zwei", "three" => "drei" }`
+    - `puts dictionary["one"]`
+- Like w arrays you can set key/value pairs on an existing hash
+    - `dictionary["zero"] = "null"`
+    - `puts dictionary["zero"] #=> null`
+    - ! existing key/value pairs can be overwritten this way as well
+    - `dictionary["one"] = "uno"
+    - `puts dictionary["one"] #=> "uno"
+- Keys and values may **both** be **any** kind of object . (yes including hashes)
+- ~ formatting note: one space in curly brackets on both sides, around =>, and after each comma, but again, no spaces immediately inside the [ ] that define arrays
+- attempting to access values that don't exist returns `nil`
+- ~ The main purpose of a hash is to be able to lookup a value by key
+    - however there are a few other things you can do too.
+    - you can merge two Hashes:  `\{ "one" => "eins" }.merge({ "two" => "zwei" }) 
+    - `=> { "one" => "eins", "two" => "zwei" }
+    - .fetch does the same as the [ ] lookup discussed, but will raise an error if the key is not defined
+    - .keys returns an array with all the keys that a hash knows
+    - .length & .size both tell how many pairs the hash has
+### Nil
+- one resource treats as its own type, another one does not O_o
+- expresses the idea of 'nothing' 'empty' or 'not any specific type'
+- eg. returns when output is expected, but none is returned
+- can also explicily refer to, and assign nil
+- check if something is nil w `.nil?` 
+- ~ when `nil` is used in an expression, such as an if statement, it is **treated as false** as it represents an absence of content.
+- ~ EXCEPT false == nil 
+    - ~ => false
+    - while false and nil are both treated as negatives, when evaluated in an expression, they are **NOT** equivalent
